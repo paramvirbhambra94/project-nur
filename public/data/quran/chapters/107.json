@@ -1,0 +1,59 @@
+{
+  "id": 107,
+  "name": "Al-Ma'un",
+  "transliteratedName": "Al-Mā`ūn",
+  "arabicName": "الماعون",
+  "translatedName": "The Small kindnesses",
+  "versesCount": 7,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "107:1",
+      "arabic": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "transliteration": "Araayta allathee yukaththibu biddeen",
+      "translation": "Have you seen the one who denies the Recompense?"
+    },
+    {
+      "number": 2,
+      "verseKey": "107:2",
+      "arabic": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "transliteration": "Fathalika allathee yaduAAAAualyateem",
+      "translation": "For that is the one who drives away the orphan"
+    },
+    {
+      "number": 3,
+      "verseKey": "107:3",
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "transliteration": "Wala yahuddu AAalataAAami almiskeen",
+      "translation": "And does not encourage the feeding of the poor."
+    },
+    {
+      "number": 4,
+      "verseKey": "107:4",
+      "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "transliteration": "Fawaylun lilmusalleen",
+      "translation": "So woe to those who pray"
+    },
+    {
+      "number": 5,
+      "verseKey": "107:5",
+      "arabic": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "transliteration": "Allatheena hum AAan salatihimsahoon",
+      "translation": "[But] who are heedless of their prayer[2000] -"
+    },
+    {
+      "number": 6,
+      "verseKey": "107:6",
+      "arabic": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "transliteration": "Allatheena hum yuraoon",
+      "translation": "Those who make show [of their deeds]"
+    },
+    {
+      "number": 7,
+      "verseKey": "107:7",
+      "arabic": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "transliteration": "WayamnaAAoona almaAAoon",
+      "translation": "And withhold [simple] assistance."
+    }
+  ]
+}

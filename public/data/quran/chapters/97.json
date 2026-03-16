@@ -1,0 +1,45 @@
+{
+  "id": 97,
+  "name": "Al-Qadr",
+  "transliteratedName": "Al-Qadr",
+  "arabicName": "القدر",
+  "translatedName": "The Power",
+  "versesCount": 5,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "97:1",
+      "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "transliteration": "Inna anzalnahu fee laylatialqadr",
+      "translation": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
+    },
+    {
+      "number": 2,
+      "verseKey": "97:2",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "transliteration": "Wama adraka ma laylatualqadr",
+      "translation": "And what can make you know what is the Night of Decree?"
+    },
+    {
+      "number": 3,
+      "verseKey": "97:3",
+      "arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "transliteration": "Laylatu alqadri khayrun min alfi shahr",
+      "translation": "The Night of Decree is better than a thousand months."
+    },
+    {
+      "number": 4,
+      "verseKey": "97:4",
+      "arabic": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "transliteration": "Tanazzalu almala-ikatu warroohufeeha bi-ithni rabbihim min kulli amr",
+      "translation": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.[1955]"
+    },
+    {
+      "number": 5,
+      "verseKey": "97:5",
+      "arabic": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "transliteration": "Salamun hiya hatta matlaAAialfajr",
+      "translation": "Peace it is[1956] until the emergence of dawn."
+    }
+  ]
+}

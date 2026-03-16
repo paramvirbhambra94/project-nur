@@ -1,0 +1,360 @@
+{
+  "id": 77,
+  "name": "Al-Mursalat",
+  "transliteratedName": "Al-Mursalāt",
+  "arabicName": "المرسلات",
+  "translatedName": "The Emissaries",
+  "versesCount": 50,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "77:1",
+      "arabic": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "transliteration": "Walmursalati AAurfa",
+      "translation": "By those [winds] sent forth in gusts"
+    },
+    {
+      "number": 2,
+      "verseKey": "77:2",
+      "arabic": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+      "transliteration": "FalAAasifati AAasfa",
+      "translation": "And the winds that blow violently"
+    },
+    {
+      "number": 3,
+      "verseKey": "77:3",
+      "arabic": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+      "transliteration": "Wannashirati nashra",
+      "translation": "And [by] the winds that spread [clouds]"
+    },
+    {
+      "number": 4,
+      "verseKey": "77:4",
+      "arabic": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+      "transliteration": "Falfariqati farqa",
+      "translation": "And those [angels] who bring criterion[1816]"
+    },
+    {
+      "number": 5,
+      "verseKey": "77:5",
+      "arabic": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+      "transliteration": "Falmulqiyati thikra",
+      "translation": "And those [angels] who deliver a message"
+    },
+    {
+      "number": 6,
+      "verseKey": "77:6",
+      "arabic": "عُذْرًا أَوْ نُذْرًا",
+      "transliteration": "AAuthran aw nuthra",
+      "translation": "As justification or warning,"
+    },
+    {
+      "number": 7,
+      "verseKey": "77:7",
+      "arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "transliteration": "Innama tooAAadoona lawaqiAA",
+      "translation": "Indeed, what you are promised is to occur."
+    },
+    {
+      "number": 8,
+      "verseKey": "77:8",
+      "arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "transliteration": "Fa-itha annujoomu tumisat",
+      "translation": "So when the stars are obliterated"
+    },
+    {
+      "number": 9,
+      "verseKey": "77:9",
+      "arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "transliteration": "Wa-itha assamao furijat",
+      "translation": "And when the heaven is opened"
+    },
+    {
+      "number": 10,
+      "verseKey": "77:10",
+      "arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "transliteration": "Wa-itha aljibalu nusifat",
+      "translation": "And when the mountains are blown away"
+    },
+    {
+      "number": 11,
+      "verseKey": "77:11",
+      "arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "transliteration": "Wa-itha arrusulu oqqitat",
+      "translation": "And when the messengers' time has come...[1817]"
+    },
+    {
+      "number": 12,
+      "verseKey": "77:12",
+      "arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "transliteration": "Li-ayyi yawmin ojjilat",
+      "translation": "For what Day was it postponed?[1818]"
+    },
+    {
+      "number": 13,
+      "verseKey": "77:13",
+      "arabic": "لِيَوْمِ ٱلْفَصْلِ",
+      "transliteration": "Liyawmi alfasl",
+      "translation": "For the Day of Judgement."
+    },
+    {
+      "number": 14,
+      "verseKey": "77:14",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "transliteration": "Wama adraka ma yawmualfasl",
+      "translation": "And what can make you know what is the Day of Judgement?"
+    },
+    {
+      "number": 15,
+      "verseKey": "77:15",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe,[1819] that Day, to the deniers."
+    },
+    {
+      "number": 16,
+      "verseKey": "77:16",
+      "arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "transliteration": "Alam nuhliki al-awwaleen",
+      "translation": "Did We not destroy the former peoples?"
+    },
+    {
+      "number": 17,
+      "verseKey": "77:17",
+      "arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "transliteration": "Thumma nutbiAAuhumu al-akhireen",
+      "translation": "Then We will follow them with the later ones."
+    },
+    {
+      "number": 18,
+      "verseKey": "77:18",
+      "arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "transliteration": "Kathalika nafAAalu bilmujrimeen",
+      "translation": "Thus do We deal with the criminals."
+    },
+    {
+      "number": 19,
+      "verseKey": "77:19",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 20,
+      "verseKey": "77:20",
+      "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "transliteration": "Alam nakhluqkum min ma-in maheen",
+      "translation": "Did We not create you from a liquid disdained?"
+    },
+    {
+      "number": 21,
+      "verseKey": "77:21",
+      "arabic": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "transliteration": "FajaAAalnahu fee qararinmakeen",
+      "translation": "And We placed it in a firm lodging [i.e., the womb]"
+    },
+    {
+      "number": 22,
+      "verseKey": "77:22",
+      "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "transliteration": "Ila qadarin maAAloom",
+      "translation": "For a known extent."
+    },
+    {
+      "number": 23,
+      "verseKey": "77:23",
+      "arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+      "transliteration": "Faqadarna faniAAma alqadiroon",
+      "translation": "And We determined [it], and excellent [are We] to determine."
+    },
+    {
+      "number": 24,
+      "verseKey": "77:24",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 25,
+      "verseKey": "77:25",
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "transliteration": "Alam najAAali al-arda kifata",
+      "translation": "Have We not made the earth a container"
+    },
+    {
+      "number": 26,
+      "verseKey": "77:26",
+      "arabic": "أَحْيَآءً وَأَمْوَٰتًا",
+      "transliteration": "Ahyaan waamwata",
+      "translation": "Of the living and the dead?"
+    },
+    {
+      "number": 27,
+      "verseKey": "77:27",
+      "arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+      "transliteration": "WajaAAalna feeha rawasiyashamikhatin waasqaynakum maan furata",
+      "translation": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water."
+    },
+    {
+      "number": 28,
+      "verseKey": "77:28",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 29,
+      "verseKey": "77:29",
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "transliteration": "Intaliqoo ila ma kuntumbihi tukaththiboon",
+      "translation": "[They will be told], \"Proceed to that which you used to deny."
+    },
+    {
+      "number": 30,
+      "verseKey": "77:30",
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+      "transliteration": "Intaliqoo ila thillinthee thalathi shuAAab",
+      "translation": "Proceed to a shadow [of smoke] having three columns"
+    },
+    {
+      "number": 31,
+      "verseKey": "77:31",
+      "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "transliteration": "La thaleelin walayughnee mina allahab",
+      "translation": "[But having] no cool shade and availing not against the flame.\""
+    },
+    {
+      "number": 32,
+      "verseKey": "77:32",
+      "arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "transliteration": "Innaha tarmee bishararin kalqasr",
+      "translation": "Indeed, it throws sparks [as huge] as a fortress,"
+    },
+    {
+      "number": 33,
+      "verseKey": "77:33",
+      "arabic": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+      "transliteration": "Kaannahu jimalatun sufr",
+      "translation": "As if they were yellowish [black] camels."
+    },
+    {
+      "number": 34,
+      "verseKey": "77:34",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 35,
+      "verseKey": "77:35",
+      "arabic": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "transliteration": "Hatha yawmu la yantiqoon",
+      "translation": "This is a Day they will not speak,"
+    },
+    {
+      "number": 36,
+      "verseKey": "77:36",
+      "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "transliteration": "Wala yu/thanu lahum fayaAAtathiroon",
+      "translation": "Nor will it be permitted for them to make an excuse."
+    },
+    {
+      "number": 37,
+      "verseKey": "77:37",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 38,
+      "verseKey": "77:38",
+      "arabic": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+      "transliteration": "Hatha yawmu alfasli jamaAAnakumwal-awwaleen",
+      "translation": "This is the Day of Judgement; We will have assembled you and the former peoples."
+    },
+    {
+      "number": 39,
+      "verseKey": "77:39",
+      "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "transliteration": "Fa-in kana lakum kaydun fakeedoon",
+      "translation": "So if you have a plan, then plan against Me."
+    },
+    {
+      "number": 40,
+      "verseKey": "77:40",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 41,
+      "verseKey": "77:41",
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+      "transliteration": "Inna almuttaqeena fee thilalinwaAAuyoon",
+      "translation": "Indeed, the righteous will be among shades and springs"
+    },
+    {
+      "number": 42,
+      "verseKey": "77:42",
+      "arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "transliteration": "Wafawakiha mimma yashtahoon",
+      "translation": "And fruits from whatever they desire,"
+    },
+    {
+      "number": 43,
+      "verseKey": "77:43",
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "transliteration": "Kuloo washraboo hanee-an bimakuntum taAAmaloon",
+      "translation": "[Being told], \"Eat and drink in satisfaction for what you used to do.\""
+    },
+    {
+      "number": 44,
+      "verseKey": "77:44",
+      "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "transliteration": "Inna kathalika najzee almuhsineen",
+      "translation": "Indeed, We thus reward the doers of good."
+    },
+    {
+      "number": 45,
+      "verseKey": "77:45",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 46,
+      "verseKey": "77:46",
+      "arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "transliteration": "Kuloo watamattaAAoo qaleelan innakummujrimoon",
+      "translation": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals."
+    },
+    {
+      "number": 47,
+      "verseKey": "77:47",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 48,
+      "verseKey": "77:48",
+      "arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "transliteration": "Wa-itha qeela lahumu irkaAAoo layarkaAAoon",
+      "translation": "And when it is said to them, \"Bow [in prayer],\" they do not bow."
+    },
+    {
+      "number": 49,
+      "verseKey": "77:49",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "Waylun yawma-ithin lilmukaththibeen",
+      "translation": "Woe, that Day, to the deniers."
+    },
+    {
+      "number": 50,
+      "verseKey": "77:50",
+      "arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "transliteration": "Fabi-ayyi hadeethin baAAdahuyu/minoon",
+      "translation": "Then in what statement after it [i.e., the Qur’ān] will they believe?"
+    }
+  ]
+}

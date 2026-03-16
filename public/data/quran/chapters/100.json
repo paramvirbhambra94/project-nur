@@ -1,0 +1,87 @@
+{
+  "id": 100,
+  "name": "Al-'Adiyat",
+  "transliteratedName": "Al-`Ādiyāt",
+  "arabicName": "العاديات",
+  "translatedName": "The Courser",
+  "versesCount": 11,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "100:1",
+      "arabic": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "transliteration": "WalAAadiyati dabha",
+      "translation": "By the racers, panting,[1967]"
+    },
+    {
+      "number": 2,
+      "verseKey": "100:2",
+      "arabic": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "transliteration": "Falmooriyati qadha",
+      "translation": "And the producers of sparks [when] striking[1968]"
+    },
+    {
+      "number": 3,
+      "verseKey": "100:3",
+      "arabic": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "transliteration": "Falmugheerati subha",
+      "translation": "And the chargers at dawn,[1969]"
+    },
+    {
+      "number": 4,
+      "verseKey": "100:4",
+      "arabic": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "transliteration": "Faatharna bihi naqAAa",
+      "translation": "Stirring up thereby [clouds of] dust,"
+    },
+    {
+      "number": 5,
+      "verseKey": "100:5",
+      "arabic": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "transliteration": "Fawasatna bihi jamAAa",
+      "translation": "Arriving thereby in the center[1970] collectively,"
+    },
+    {
+      "number": 6,
+      "verseKey": "100:6",
+      "arabic": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "transliteration": "Inna al-insana lirabbihi lakanood",
+      "translation": "Indeed mankind, to his Lord, is ungrateful."
+    },
+    {
+      "number": 7,
+      "verseKey": "100:7",
+      "arabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "transliteration": "Wa-innahu AAala thalikalashaheed",
+      "translation": "And indeed, he is to that a witness.[1971]"
+    },
+    {
+      "number": 8,
+      "verseKey": "100:8",
+      "arabic": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "transliteration": "Wa-innahu lihubbi alkhayri lashadeed",
+      "translation": "And indeed he is, in love of wealth, intense."
+    },
+    {
+      "number": 9,
+      "verseKey": "100:9",
+      "arabic": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "transliteration": "Afala yaAAlamu itha buAAthira mafee alquboor",
+      "translation": "But does he not know that when the contents of the graves are scattered"
+    },
+    {
+      "number": 10,
+      "verseKey": "100:10",
+      "arabic": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "transliteration": "Wahussila ma fee assudoor",
+      "translation": "And that within the breasts is obtained,[1972]"
+    },
+    {
+      "number": 11,
+      "verseKey": "100:11",
+      "arabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "transliteration": "Inna rabbahum bihim yawma-ithinlakhabeer",
+      "translation": "Indeed, their Lord with them, that Day, is [fully] Aware.[1973]"
+    }
+  ]
+}

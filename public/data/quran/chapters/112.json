@@ -1,0 +1,38 @@
+{
+  "id": 112,
+  "name": "Al-Ikhlas",
+  "transliteratedName": "Al-'Ikhlāş",
+  "arabicName": "الإخلاص",
+  "translatedName": "The Sincerity",
+  "versesCount": 4,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "112:1",
+      "arabic": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "transliteration": "Qul huwa Allahu ahad",
+      "translation": "Say, \"He is Allāh, [who is] One,[2011]"
+    },
+    {
+      "number": 2,
+      "verseKey": "112:2",
+      "arabic": "ٱللَّهُ ٱلصَّمَدُ",
+      "transliteration": "Allahu assamad",
+      "translation": "Allāh, the Eternal Refuge.[2012]"
+    },
+    {
+      "number": 3,
+      "verseKey": "112:3",
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "transliteration": "Lam yalid walam yoolad",
+      "translation": "He neither begets nor is born,"
+    },
+    {
+      "number": 4,
+      "verseKey": "112:4",
+      "arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "transliteration": "Walam yakun lahu kufuwan ahad",
+      "translation": "Nor is there to Him any equivalent.\""
+    }
+  ]
+}

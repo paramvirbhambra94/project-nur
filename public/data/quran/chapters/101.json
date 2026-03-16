@@ -1,0 +1,87 @@
+{
+  "id": 101,
+  "name": "Al-Qari'ah",
+  "transliteratedName": "Al-Qāri`ah",
+  "arabicName": "القارعة",
+  "translatedName": "The Calamity",
+  "versesCount": 11,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "101:1",
+      "arabic": " ٱلْقَارِعَةُ",
+      "transliteration": "AlqariAAa",
+      "translation": "The Striking Calamity -"
+    },
+    {
+      "number": 2,
+      "verseKey": "101:2",
+      "arabic": "مَا ٱلْقَارِعَةُ",
+      "transliteration": "Ma alqariAAa",
+      "translation": "What is the Striking Calamity?"
+    },
+    {
+      "number": 3,
+      "verseKey": "101:3",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "transliteration": "Wama adraka ma alqariAAa",
+      "translation": "And what can make you know what is the Striking Calamity?"
+    },
+    {
+      "number": 4,
+      "verseKey": "101:4",
+      "arabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "transliteration": "Yawma yakoonu annasu kalfarashialmabthooth",
+      "translation": "It is the Day when people will be like moths, dispersed,[1975]"
+    },
+    {
+      "number": 5,
+      "verseKey": "101:5",
+      "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "transliteration": "Watakoonu aljibalu kalAAihnialmanfoosh",
+      "translation": "And the mountains will be like wool, fluffed up.[1976]"
+    },
+    {
+      "number": 6,
+      "verseKey": "101:6",
+      "arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "transliteration": "Faamma man thaqulat mawazeenuh",
+      "translation": "Then as for one whose scales are heavy [with good deeds],"
+    },
+    {
+      "number": 7,
+      "verseKey": "101:7",
+      "arabic": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "transliteration": "Fahuwa fee AAeeshatin radiya",
+      "translation": "He will be in a pleasant life."
+    },
+    {
+      "number": 8,
+      "verseKey": "101:8",
+      "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "transliteration": "Waamma man khaffat mawazeenuh",
+      "translation": "But as for one whose scales are light,"
+    },
+    {
+      "number": 9,
+      "verseKey": "101:9",
+      "arabic": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "transliteration": "Faommuhu hawiya",
+      "translation": "His refuge[1977] will be an abyss.[1978]"
+    },
+    {
+      "number": 10,
+      "verseKey": "101:10",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "transliteration": "Wama adraka ma hiya",
+      "translation": "And what can make you know what that is?"
+    },
+    {
+      "number": 11,
+      "verseKey": "101:11",
+      "arabic": "نَارٌ حَامِيَةٌۢ",
+      "transliteration": "Narun hamiya",
+      "translation": "It is a Fire, intensely hot."
+    }
+  ]
+}

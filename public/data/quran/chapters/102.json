@@ -1,0 +1,66 @@
+{
+  "id": 102,
+  "name": "At-Takathur",
+  "transliteratedName": "At-Takāthur",
+  "arabicName": "التكاثر",
+  "translatedName": "The Rivalry in world increase",
+  "versesCount": 8,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "102:1",
+      "arabic": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "transliteration": "Alhakumu attakathur",
+      "translation": "Competition in [worldly] increase diverts you"
+    },
+    {
+      "number": 2,
+      "verseKey": "102:2",
+      "arabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "transliteration": "Hatta zurtumu almaqabir",
+      "translation": "Until you visit the graveyards.[1980]"
+    },
+    {
+      "number": 3,
+      "verseKey": "102:3",
+      "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "transliteration": "Kalla sawfa taAAlamoon",
+      "translation": "No! You are going to know."
+    },
+    {
+      "number": 4,
+      "verseKey": "102:4",
+      "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "transliteration": "Thumma kalla sawfa taAAlamoon",
+      "translation": "Then, no! You are going to know."
+    },
+    {
+      "number": 5,
+      "verseKey": "102:5",
+      "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "transliteration": "Kalla law taAAlamoona AAilma alyaqeen",
+      "translation": "No! If you only knew with knowledge of certainty...[1981]"
+    },
+    {
+      "number": 6,
+      "verseKey": "102:6",
+      "arabic": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "transliteration": "Latarawunna aljaheem",
+      "translation": "You will surely see the Hellfire."
+    },
+    {
+      "number": 7,
+      "verseKey": "102:7",
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "transliteration": "Thumma latarawunnaha AAayna alyaqeen",
+      "translation": "Then you will surely see it with the eye of certainty.[1982]"
+    },
+    {
+      "number": 8,
+      "verseKey": "102:8",
+      "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "transliteration": "Thumma latus-alunna yawma-ithin AAaniannaAAeem",
+      "translation": "Then you will surely be asked that Day about pleasure.[1983]"
+    }
+  ]
+}

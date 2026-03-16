@@ -1,0 +1,38 @@
+{
+  "id": 106,
+  "name": "Quraysh",
+  "transliteratedName": "Quraysh",
+  "arabicName": "قريش",
+  "translatedName": "Quraysh",
+  "versesCount": 4,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "106:1",
+      "arabic": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "transliteration": "Li-eelafi quraysh",
+      "translation": "For the accustomed security of the Quraysh[1996] -"
+    },
+    {
+      "number": 2,
+      "verseKey": "106:2",
+      "arabic": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "transliteration": "Eelafihim rihlata ashshita-iwassayf",
+      "translation": "Their accustomed security [in] the caravan of winter and summer[1997] -"
+    },
+    {
+      "number": 3,
+      "verseKey": "106:3",
+      "arabic": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "transliteration": "FalyaAAbudoo rabba hatha albayt",
+      "translation": "Let them worship the Lord of this House,[1998]"
+    },
+    {
+      "number": 4,
+      "verseKey": "106:4",
+      "arabic": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "transliteration": "Allathee atAAamahum min jooAAinwaamanahum min khawf",
+      "translation": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
+    }
+  ]
+}

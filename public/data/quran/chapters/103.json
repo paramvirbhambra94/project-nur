@@ -1,0 +1,31 @@
+{
+  "id": 103,
+  "name": "Al-'Asr",
+  "transliteratedName": "Al-`Aşr",
+  "arabicName": "العصر",
+  "translatedName": "The Declining Day",
+  "versesCount": 3,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "103:1",
+      "arabic": " وَٱلْعَصْرِ",
+      "transliteration": "WalAAasr",
+      "translation": "By time,[1985]"
+    },
+    {
+      "number": 2,
+      "verseKey": "103:2",
+      "arabic": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "transliteration": "Inna al-insana lafee khusr",
+      "translation": "Indeed, mankind is in loss,"
+    },
+    {
+      "number": 3,
+      "verseKey": "103:3",
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "transliteration": "Illa allatheena amanoowaAAamiloo assalihati watawasaw bilhaqqiwatawasaw bissabr",
+      "translation": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+    }
+  ]
+}

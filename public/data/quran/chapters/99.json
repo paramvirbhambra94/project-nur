@@ -1,0 +1,66 @@
+{
+  "id": 99,
+  "name": "Az-Zalzalah",
+  "transliteratedName": "Az-Zalzalah",
+  "arabicName": "الزلزلة",
+  "translatedName": "The Earthquake",
+  "versesCount": 8,
+  "ayahs": [
+    {
+      "number": 1,
+      "verseKey": "99:1",
+      "arabic": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "transliteration": "Itha zulzilati al-ardu zilzalaha",
+      "translation": "When the earth is shaken with its [final] earthquake"
+    },
+    {
+      "number": 2,
+      "verseKey": "99:2",
+      "arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "transliteration": "Waakhrajati al-ardu athqalaha",
+      "translation": "And the earth discharges its burdens[1962]"
+    },
+    {
+      "number": 3,
+      "verseKey": "99:3",
+      "arabic": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "transliteration": "Waqala al-insanu ma laha",
+      "translation": "And man says,[1963] \"What is [wrong] with it?\" -"
+    },
+    {
+      "number": 4,
+      "verseKey": "99:4",
+      "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "transliteration": "Yawma-ithin tuhaddithu akhbaraha",
+      "translation": "That Day, it will report its news"
+    },
+    {
+      "number": 5,
+      "verseKey": "99:5",
+      "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "transliteration": "Bi-anna rabbaka awha laha",
+      "translation": "Because your Lord has inspired [i.e., commanded] it."
+    },
+    {
+      "number": 6,
+      "verseKey": "99:6",
+      "arabic": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "transliteration": "Yawma-ithin yasduru annasuashtatan liyuraw aAAmalahum",
+      "translation": "That Day, the people will depart[1964] separated [into categories] to be shown [the result of] their deeds."
+    },
+    {
+      "number": 7,
+      "verseKey": "99:7",
+      "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "transliteration": "Faman yaAAmal mithqala tharratinkhayran yarah",
+      "translation": "So whoever does an atom's weight[1965] of good will see it,"
+    },
+    {
+      "number": 8,
+      "verseKey": "99:8",
+      "arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "transliteration": "Waman yaAAmal mithqala tharratinsharran yarah",
+      "translation": "And whoever does an atom's weight of evil will see it."
+    }
+  ]
+}
