@@ -85,7 +85,6 @@ async function fetchQuranEncTranslation(chapterId) {
 
   const data = await response.json();
 
-  // QuranEnc docs say this should be a JSON array, but be defensive.
   const items = Array.isArray(data)
     ? data
     : Array.isArray(data?.result)
@@ -115,7 +114,7 @@ async function fetchAllVersesForChapter(token, chapterId) {
   while (true) {
     const data = await qfFetch(
       token,
-      `/content/api/v4/verses/by_chapter/${chapterId}?language=en&words=false&translations=57&fields=text_uthmani&page=${page}&per_page=${perPage}`
+      `/content/api/v4/verses/by_chapter/${chapterId}?language=en&words=false&translations=57&fields=text_uthmani,text_imlaei&page=${page}&per_page=${perPage}`
     );
 
     const verses = data.verses ?? [];
@@ -178,10 +177,14 @@ async function main() {
           pickField(verse, "verse_number", "verseNumber", "id")
         );
 
+        const uthmani = pickField(verse, "text_uthmani", "textUthmani");
+        const simpleArabic = pickField(verse, "text_imlaei", "textImlaei");
+
         return {
           number: verseNumber,
           verseKey: pickField(verse, "verse_key", "verseKey"),
-          arabic: pickField(verse, "text_uthmani", "textUthmani"),
+          arabic: uthmani,
+          simpleArabic: simpleArabic || uthmani,
           transliteration: verse.translations?.[0]?.text || "",
           translation: translationMap.get(verseNumber) || "",
         };

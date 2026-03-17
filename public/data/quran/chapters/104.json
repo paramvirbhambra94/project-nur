@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "104:1",
       "arabic": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "simpleArabic": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
       "transliteration": "Waylun likulli humazatin lumaza",
       "translation": "Woe to every scorner and mocker"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "104:2",
       "arabic": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "simpleArabic": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
       "transliteration": "Allathee jamaAAa malanwaAAaddadah",
       "translation": "Who collects wealth and [continuously] counts it.[1987]"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "104:3",
       "arabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "simpleArabic": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
       "transliteration": "Yahsabu anna malahu akhladah",
       "translation": "He thinks that his wealth will make him immortal."
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "104:4",
       "arabic": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "simpleArabic": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ",
       "transliteration": "Kalla layunbathanna fee alhutama",
       "translation": "No! He will surely be thrown into the Crusher.[1988]"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "104:5",
       "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "simpleArabic": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
       "transliteration": "Wama adraka ma alhutama",
       "translation": "And what can make you know what is the Crusher?"
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "104:6",
       "arabic": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "simpleArabic": "نَارُ اللَّهِ الْمُوقَدَةُ",
       "transliteration": "Naru Allahi almooqada",
       "translation": "It is the fire of Allāh, [eternally] fueled,"
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "104:7",
       "arabic": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "simpleArabic": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
       "transliteration": "Allatee tattaliAAu AAalaal-af-ida",
       "translation": "Which mounts directed at the hearts.[1989]"
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "104:8",
       "arabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "simpleArabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
       "transliteration": "lnnaha AAalayhim mu/sada",
       "translation": "Indeed, it [i.e., Hellfire] will be closed down upon them"
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "104:9",
       "arabic": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "simpleArabic": "فِي عَمَدٍ مُّمَدَّدَةٍ",
       "transliteration": "Fee AAamadin mumaddada",
       "translation": "In extended columns.[1990]"
     }

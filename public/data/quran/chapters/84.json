@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "84:1",
       "arabic": " إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "simpleArabic": "إِذَا السَّمَاءُ انشَقَّتْ",
       "transliteration": "Itha assamao inshaqqat",
       "translation": "When the sky has split [open]"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "84:2",
       "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "simpleArabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
       "transliteration": "Waathinat lirabbiha wahuqqat",
       "translation": "And has listened [i.e., responded][1888] to its Lord and was obligated [to do so]"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "84:3",
       "arabic": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "simpleArabic": "وَإِذَا الْأَرْضُ مُدَّتْ",
       "transliteration": "Wa-itha al-ardu muddat",
       "translation": "And when the earth has been extended[1889]"
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "84:4",
       "arabic": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "simpleArabic": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
       "transliteration": "Waalqat ma feeha watakhallat",
       "translation": "And has cast out that within it[1890] and relinquished [it]"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "84:5",
       "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "simpleArabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
       "transliteration": "Waathinat lirabbiha wahuqqat",
       "translation": "And has listened [i.e., responded] to its Lord and was obligated [to do so] –"
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "84:6",
       "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+      "simpleArabic": "يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
       "transliteration": "Ya ayyuha al-insanuinnaka kadihun ila rabbika kadhanfamulaqeeh",
       "translation": "O mankind, indeed you are laboring toward your Lord with [great] exertion[1891] and will meet it.[1892]"
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "84:7",
       "arabic": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+      "simpleArabic": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
       "transliteration": "Faama man ootiya kitabahubiyameenih",
       "translation": "Then as for he who is given his record in his right hand,"
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "84:8",
       "arabic": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "simpleArabic": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
       "transliteration": "Fasawfa yuhasabu hisabanyaseera",
       "translation": "He will be judged with an easy account"
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "84:9",
       "arabic": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+      "simpleArabic": "وَيَنقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
       "transliteration": "Wayanqalibu ila ahlihi masroora",
       "translation": "And return to his people in happiness."
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "84:10",
       "arabic": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "simpleArabic": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
       "transliteration": "Waamma man ootiya kitabahu waraathahrih",
       "translation": "But as for he who is given his record behind his back,"
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "84:11",
       "arabic": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+      "simpleArabic": "فَسَوْفَ يَدْعُو ثُبُورًا",
       "transliteration": "Fasawfa yadAAoo thuboora",
       "translation": "He will cry out for destruction"
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "84:12",
       "arabic": "وَيَصْلَىٰ سَعِيرًا",
+      "simpleArabic": "وَيَصْلَىٰ سَعِيرًا",
       "transliteration": "Wayasla saAAeera",
       "translation": "And [enter to] burn in a Blaze."
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "84:13",
       "arabic": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "simpleArabic": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
       "transliteration": "Innahu kana fee ahlihi masroora",
       "translation": "Indeed, he had [once] been among his people in happiness;"
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "84:14",
       "arabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "simpleArabic": "إِنَّهُ ظَنَّ أَن لَّن يَحُورَ",
       "transliteration": "Innahu thanna an lan yahoor",
       "translation": "Indeed, he had thought he would never return [to Allāh]."
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "84:15",
       "arabic": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+      "simpleArabic": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
       "transliteration": "Bala inna rabbahu kana bihi baseera",
       "translation": "But yes! Indeed, his Lord was ever, of him, Seeing."
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "84:16",
       "arabic": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "simpleArabic": "فَلَا أُقْسِمُ بِالشَّفَقِ",
       "transliteration": "Fala oqsimu bishshafaq",
       "translation": "So I swear by the twilight glow"
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "84:17",
       "arabic": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "simpleArabic": "وَاللَّيْلِ وَمَا وَسَقَ",
       "transliteration": "Wallayli wama wasaq",
       "translation": "And [by] the night and what it envelops"
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "84:18",
       "arabic": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "simpleArabic": "وَالْقَمَرِ إِذَا اتَّسَقَ",
       "transliteration": "Walqamari itha ittasaq",
       "translation": "And [by] the moon when it becomes full"
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "84:19",
       "arabic": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "simpleArabic": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
       "transliteration": "Latarkabunna tabaqan AAan tabaq",
       "translation": "[That] you will surely embark upon [i.e., experience] state after state.[1893]"
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "84:20",
       "arabic": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "simpleArabic": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
       "transliteration": "Fama lahum la yu/minoon",
       "translation": "So what is [the matter] with them [that] they do not believe,"
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "84:21",
       "arabic": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+      "simpleArabic": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ",
       "transliteration": "Wa-itha quri-a AAalayhimu alqur-anula yasjudoon",
       "translation": "And when the Qur’ān is recited to them, they do not prostrate [to Allāh]?"
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "84:22",
       "arabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "simpleArabic": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
       "transliteration": "Bali allatheena kafaroo yukaththiboon",
       "translation": "But those who have disbelieved deny,"
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "84:23",
       "arabic": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "simpleArabic": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
       "transliteration": "Wallahu aAAlamu bimayooAAoon",
       "translation": "And Allāh is most knowing of what they keep within themselves."
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "84:24",
       "arabic": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "simpleArabic": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
       "transliteration": "Fabashshirhum biAAathabin aleem",
       "translation": "So give them tidings of a painful punishment,"
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "84:25",
       "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "simpleArabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
       "transliteration": "Illa allatheena amanoowaAAamiloo assalihati lahum ajrun ghayrumamnoon",
       "translation": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted."
     }

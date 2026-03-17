@@ -8,6 +8,7 @@ type Ayah = {
   number: number;
   verseKey: string;
   arabic: string;
+  simpleArabic?: string;
   transliteration: string;
   translation: string;
 };
@@ -41,6 +42,9 @@ export default function SurahReaderPage() {
   const [loading, setLoading] = useState(true);
   const [showTransliteration, setShowTransliteration] = useState(true);
   const [showTranslation, setShowTranslation] = useState(true);
+  const [arabicScript, setArabicScript] = useState<"uthmani" | "simple">(
+    "uthmani"
+  );
   const [arabicSize, setArabicSize] = useState<"sm" | "md" | "lg">("md");
   const [bookmarks, setBookmarks] = useState<BookmarkItem[]>([]);
 
@@ -84,7 +88,6 @@ export default function SurahReaderPage() {
 
   function isBookmarked(ayah: Ayah) {
     if (!data) return false;
-
     return bookmarks.some(
       (item) => item.surahId === data.id && item.ayahNumber === ayah.number
     );
@@ -109,7 +112,10 @@ export default function SurahReaderPage() {
           surahId: data.id,
           surahName: data.transliteratedName || data.name,
           ayahNumber: ayah.number,
-          arabic: ayah.arabic,
+          arabic:
+            arabicScript === "simple"
+              ? ayah.simpleArabic || ayah.arabic
+              : ayah.arabic,
           transliteration: ayah.transliteration,
         },
         ...bookmarks,
@@ -130,6 +136,14 @@ export default function SurahReaderPage() {
     };
 
     localStorage.setItem(LAST_READ_KEY, JSON.stringify(payload));
+  }
+
+  function getArabicText(ayah: Ayah) {
+    if (arabicScript === "simple") {
+      return ayah.simpleArabic || ayah.arabic;
+    }
+
+    return ayah.arabic;
   }
 
   if (loading || !data) {
@@ -168,61 +182,107 @@ export default function SurahReaderPage() {
       </section>
 
       <section className="mx-auto max-w-5xl px-6 py-8 md:py-10">
-        <div className="flex flex-wrap gap-3">
-          <button
-            onClick={() => setShowTransliteration((v) => !v)}
-            className={`rounded-full px-5 py-2.5 text-sm ${
-              showTransliteration
-                ? "bg-[#4f7a5a] text-[#f7f2e8]"
-                : "border border-[#d9cfbc] bg-white text-[#4a5148]"
-            }`}
-          >
-            Transliteration
-          </button>
+        <div className="flex flex-col gap-4 md:gap-5">
+          <div className="flex flex-wrap items-center gap-3">
+            <p className="min-w-[90px] text-sm font-semibold uppercase tracking-[0.2em] text-[#b08d57]">
+              Script
+            </p>
 
-          <button
-            onClick={() => setShowTranslation((v) => !v)}
-            className={`rounded-full px-5 py-2.5 text-sm ${
-              showTranslation
-                ? "bg-[#4f7a5a] text-[#f7f2e8]"
-                : "border border-[#d9cfbc] bg-white text-[#4a5148]"
-            }`}
-          >
-            Translation
-          </button>
+            <div className="flex flex-wrap gap-3">
+              <button
+                onClick={() => setArabicScript("uthmani")}
+                className={`rounded-full px-5 py-2.5 text-sm ${
+                  arabicScript === "uthmani"
+                    ? "bg-[#4f7a5a] text-[#f7f2e8]"
+                    : "border border-[#d9cfbc] bg-white text-[#4a5148]"
+                }`}
+              >
+                Uthmani
+              </button>
 
-          <button
-            onClick={() => setArabicSize("sm")}
-            className={`rounded-full px-5 py-2.5 text-sm ${
-              arabicSize === "sm"
-                ? "bg-[#4f7a5a] text-[#f7f2e8]"
-                : "border border-[#d9cfbc] bg-white text-[#4a5148]"
-            }`}
-          >
-            Small
-          </button>
+              <button
+                onClick={() => setArabicScript("simple")}
+                className={`rounded-full px-5 py-2.5 text-sm ${
+                  arabicScript === "simple"
+                    ? "bg-[#4f7a5a] text-[#f7f2e8]"
+                    : "border border-[#d9cfbc] bg-white text-[#4a5148]"
+                }`}
+              >
+                Simple Arabic
+              </button>
+            </div>
+          </div>
 
-          <button
-            onClick={() => setArabicSize("md")}
-            className={`rounded-full px-5 py-2.5 text-sm ${
-              arabicSize === "md"
-                ? "bg-[#4f7a5a] text-[#f7f2e8]"
-                : "border border-[#d9cfbc] bg-white text-[#4a5148]"
-            }`}
-          >
-            Medium
-          </button>
+          <div className="flex flex-wrap items-center gap-3">
+            <p className="min-w-[90px] text-sm font-semibold uppercase tracking-[0.2em] text-[#b08d57]">
+              Text
+            </p>
 
-          <button
-            onClick={() => setArabicSize("lg")}
-            className={`rounded-full px-5 py-2.5 text-sm ${
-              arabicSize === "lg"
-                ? "bg-[#4f7a5a] text-[#f7f2e8]"
-                : "border border-[#d9cfbc] bg-white text-[#4a5148]"
-            }`}
-          >
-            Large
-          </button>
+            <div className="flex flex-wrap gap-3">
+              <button
+                onClick={() => setShowTransliteration((v) => !v)}
+                className={`rounded-full px-5 py-2.5 text-sm ${
+                  showTransliteration
+                    ? "bg-[#4f7a5a] text-[#f7f2e8]"
+                    : "border border-[#d9cfbc] bg-white text-[#4a5148]"
+                }`}
+              >
+                Transliteration
+              </button>
+
+              <button
+                onClick={() => setShowTranslation((v) => !v)}
+                className={`rounded-full px-5 py-2.5 text-sm ${
+                  showTranslation
+                    ? "bg-[#4f7a5a] text-[#f7f2e8]"
+                    : "border border-[#d9cfbc] bg-white text-[#4a5148]"
+                }`}
+              >
+                Translation
+              </button>
+            </div>
+          </div>
+
+          <div className="flex flex-wrap items-center gap-3">
+            <p className="min-w-[90px] text-sm font-semibold uppercase tracking-[0.2em] text-[#b08d57]">
+              Size
+            </p>
+
+            <div className="flex flex-wrap gap-3">
+              <button
+                onClick={() => setArabicSize("sm")}
+                className={`rounded-full px-5 py-2.5 text-sm ${
+                  arabicSize === "sm"
+                    ? "bg-[#4f7a5a] text-[#f7f2e8]"
+                    : "border border-[#d9cfbc] bg-white text-[#4a5148]"
+                }`}
+              >
+                Small
+              </button>
+
+              <button
+                onClick={() => setArabicSize("md")}
+                className={`rounded-full px-5 py-2.5 text-sm ${
+                  arabicSize === "md"
+                    ? "bg-[#4f7a5a] text-[#f7f2e8]"
+                    : "border border-[#d9cfbc] bg-white text-[#4a5148]"
+                }`}
+              >
+                Medium
+              </button>
+
+              <button
+                onClick={() => setArabicSize("lg")}
+                className={`rounded-full px-5 py-2.5 text-sm ${
+                  arabicSize === "lg"
+                    ? "bg-[#4f7a5a] text-[#f7f2e8]"
+                    : "border border-[#d9cfbc] bg-white text-[#4a5148]"
+                }`}
+              >
+                Large
+              </button>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -267,7 +327,7 @@ export default function SurahReaderPage() {
                   <p
                     className={`mt-6 text-right leading-[2.2] text-[#2f3a2f] ${arabicSizeClass}`}
                   >
-                    {ayah.arabic}
+                    {getArabicText(ayah)}
                   </p>
 
                   {showTransliteration && (

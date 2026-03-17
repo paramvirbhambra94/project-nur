@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "113:1",
       "arabic": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "simpleArabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
       "transliteration": "Qul aAAoothu birabbi alfalaq",
       "translation": "Say, \"I seek refuge in the Lord of daybreak"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "113:2",
       "arabic": "مِن شَرِّ مَا خَلَقَ",
+      "simpleArabic": "مِن شَرِّ مَا خَلَقَ",
       "transliteration": "Min sharri ma khalaq",
       "translation": "From the evil of that which He created"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "113:3",
       "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "simpleArabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
       "transliteration": "Wamin sharri ghasiqin ithawaqab",
       "translation": "And from the evil of darkness when it settles"
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "113:4",
       "arabic": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "simpleArabic": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
       "transliteration": "Wamin sharri annaffathatifee alAAuqad",
       "translation": "And from the evil of the blowers in knots[2014]"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "113:5",
       "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "simpleArabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
       "transliteration": "Wamin sharri hasidin itha hasad",
       "translation": "And from the evil of an envier when he envies.\""
     }

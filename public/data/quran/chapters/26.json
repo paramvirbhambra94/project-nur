@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "26:1",
       "arabic": " طسٓمٓ",
+      "simpleArabic": "طسم",
       "transliteration": "Ta-seen-meem",
       "translation": "Ṭā, Seen, Meem.[1043]"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "26:2",
       "arabic": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "simpleArabic": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
       "transliteration": "Tilka ayatu alkitabialmubeen",
       "translation": "These are the verses of the clear Book."
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "26:3",
       "arabic": "لَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ",
+      "simpleArabic": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ",
       "transliteration": "LaAAallaka bakhiAAun nafsaka allayakoonoo mu/mineen",
       "translation": "Perhaps, [O Muḥammad], you would kill yourself with grief that they will not be believers."
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "26:4",
       "arabic": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ",
+      "simpleArabic": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ",
       "transliteration": "In nasha/ nunazzil AAalayhim mina assama-iayatan fathallat aAAnaquhum lahakhadiAAeen",
       "translation": "If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.[1044]"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "26:5",
       "arabic": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ ٱلرَّحْمَـٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ",
+      "simpleArabic": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَٰنِ مُحْدَثٍ إِلَّا كَانُوا عَنْهُ مُعْرِضِينَ",
       "transliteration": "Wama ya/teehim min thikrin minaarrahmani muhdathin illa kanooAAanhu muAArideen",
       "translation": "And no mention [i.e., revelation] comes to them anew from the Most Merciful except that they turn away from it."
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "26:6",
       "arabic": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "simpleArabic": "فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
       "transliteration": "Faqad kaththaboo fasaya/teehim anbaoma kanoo bihi yastahzi-oon",
       "translation": "For they have already denied, but there will come to them the news of that which they used to ridicule."
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "26:7",
       "arabic": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "simpleArabic": "أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
       "transliteration": "Awa lam yaraw ila al-ardi kamanbatna feeha min kulli zawjin kareem",
       "translation": "Did they not look at the earth - how much We have produced therein from every noble kind?"
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "26:8",
       "arabic": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Inna fee thalika laayatan wamakana aktharuhum mu/mineen",
       "translation": "Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "26:9",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "26:10",
       "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "simpleArabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰ أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ",
       "transliteration": "Wa-ith nada rabbukamoosa ani i/ti alqawma aththalimeen",
       "translation": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people -"
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "26:11",
       "arabic": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+      "simpleArabic": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
       "transliteration": "Qawma firAAawna ala yattaqoon",
       "translation": "The people of Pharaoh. Will they not fear Allāh?\""
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "26:12",
       "arabic": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "simpleArabic": "قَالَ رَبِّ إِنِّي أَخَافُ أَن يُكَذِّبُونِ",
       "transliteration": "Qala rabbi innee akhafu anyukaththiboon",
       "translation": "He said, \"My Lord, indeed I fear that they will deny me"
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "26:13",
       "arabic": "وَيَضِيقُ صَدْرِى وَلَا يَنطَلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَـٰرُونَ",
+      "simpleArabic": "وَيَضِيقُ صَدْرِي وَلَا يَنطَلِقُ لِسَانِي فَأَرْسِلْ إِلَىٰ هَارُونَ",
       "transliteration": "Wayadeequ sadree walayantaliqu lisanee faarsil ila haroon",
       "translation": "And that my breast will tighten and my tongue will not be fluent, so send for Aaron."
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "26:14",
       "arabic": "وَلَهُمْ عَلَىَّ ذَنۢبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+      "simpleArabic": "وَلَهُمْ عَلَيَّ ذَنبٌ فَأَخَافُ أَن يَقْتُلُونِ",
       "transliteration": "Walahum AAalayya thanbun faakhafuan yaqtuloon",
       "translation": "And they have upon me a [claim due to] sin, so I fear that they will kill me.\""
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "26:15",
       "arabic": "قَالَ كَلَّا ۖ فَٱذْهَبَا بِـَٔايَـٰتِنَآ ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ",
+      "simpleArabic": "قَالَ كَلَّا ۖ فَاذْهَبَا بِآيَاتِنَا ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ",
       "transliteration": "Qala kalla fathhababi-ayatina inna maAAakum mustamiAAoon",
       "translation": "[Allāh] said, \"No. Go both of you with Our signs; indeed, We are with you, listening."
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "26:16",
       "arabic": "فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "فَأْتِيَا فِرْعَوْنَ فَقُولَا إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ",
       "transliteration": "Fa/tiya firAAawna faqoola innarasoolu rabbi alAAalameen",
       "translation": "Go to Pharaoh and say, 'We are the messengers[1045] of the Lord of the worlds,"
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "26:17",
       "arabic": "أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ",
+      "simpleArabic": "أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ",
       "transliteration": "An arsil maAAana banee isra-eel",
       "translation": "[Commanded to say], \"Send with us the Children of Israel.\"'\""
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "26:18",
       "arabic": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "simpleArabic": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
       "transliteration": "Qala alam nurabbika feenawaleedan walabithta feena min AAumurika sineen",
       "translation": "[Pharaoh] said, \"Did we not raise you among us as a child, and you remained among us for years of your life?"
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "26:19",
       "arabic": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَـٰفِرِينَ",
+      "simpleArabic": "وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنتَ مِنَ الْكَافِرِينَ",
       "transliteration": "WafaAAalta faAAlataka allatee faAAaltawaanta mina alkafireen",
       "translation": "And [then] you did your deed which you did,[1046] and you were of the ungrateful.\""
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "26:20",
       "arabic": "قَالَ فَعَلْتُهَآ إِذًا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+      "simpleArabic": "قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ",
       "transliteration": "Qala faAAaltuha ithanwaana mina addalleen",
       "translation": "[Moses] said, \"I did it, then, while I was of those astray [i.e., ignorant]."
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "26:21",
       "arabic": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْسَلِينَ",
       "transliteration": "Fafarartu minkum lamma khiftukumfawahaba lee rabbee hukman wajaAAalanee mina almursaleen",
       "translation": "So I fled from you when I feared you. Then my Lord granted me judgement [i.e., wisdom and prophethood] and appointed me [as one] of the messengers."
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "26:22",
       "arabic": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ",
+      "simpleArabic": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ",
       "transliteration": "Watilka niAAmatun tamunnuha AAalayyaan AAabbadta banee isra-eel",
       "translation": "And is this a favor of which you remind me - that you have enslaved the Children of Israel?\""
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "26:23",
       "arabic": "قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ",
       "transliteration": "Qala firAAawnu wama rabbu alAAalameen",
       "translation": "Said Pharaoh, \"And what is the Lord of the worlds?\""
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "26:24",
       "arabic": "قَالَ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+      "simpleArabic": "قَالَ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُم مُّوقِنِينَ",
       "transliteration": "Qala rabbu assamawatiwal-ardi wama baynahuma in kuntummooqineen",
       "translation": "[Moses] said, \"The Lord of the heavens and earth and that between them, if you should be convinced.\""
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "26:25",
       "arabic": "قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ",
+      "simpleArabic": "قَالَ لِمَنْ حَوْلَهُ أَلَا تَسْتَمِعُونَ",
       "transliteration": "Qala liman hawlahu alatastamiAAoon",
       "translation": "[Pharaoh] said to those around him, \"Do you not hear?\""
     },
@@ -185,6 +210,7 @@
       "number": 26,
       "verseKey": "26:26",
       "arabic": "قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "simpleArabic": "قَالَ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ",
       "transliteration": "Qala rabbukum warabbu aba-ikumual-awwaleen",
       "translation": "[Moses] said, \"Your Lord and the Lord of your first forefathers.\""
     },
@@ -192,6 +218,7 @@
       "number": 27,
       "verseKey": "26:27",
       "arabic": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِىٓ أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
+      "simpleArabic": "قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
       "transliteration": "Qala inna rasoolakumu allatheeorsila ilaykum lamajnoon",
       "translation": "[Pharaoh] said,[1047] \"Indeed, your 'messenger' who has been sent to you is mad.\""
     },
@@ -199,6 +226,7 @@
       "number": 28,
       "verseKey": "26:28",
       "arabic": "قَالَ رَبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُمْ تَعْقِلُونَ",
+      "simpleArabic": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُمْ تَعْقِلُونَ",
       "transliteration": "Qala rabbu almashriqi walmaghribiwama baynahuma in kuntum taAAqiloon",
       "translation": "[Moses] said, \"Lord of the east and the west and that between them, if you were to reason.\""
     },
@@ -206,6 +234,7 @@
       "number": 29,
       "verseKey": "26:29",
       "arabic": "قَالَ لَئِنِ ٱتَّخَذْتَ إِلَـٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ",
+      "simpleArabic": "قَالَ لَئِنِ اتَّخَذْتَ إِلَٰهًا غَيْرِي لَأَجْعَلَنَّكَ مِنَ الْمَسْجُونِينَ",
       "transliteration": "Qala la-ini ittakhathta ilahanghayree laajAAalannaka mina almasjooneen",
       "translation": "[Pharaoh] said, \"If you take a god other than me, I will surely place you among those imprisoned.\""
     },
@@ -213,6 +242,7 @@
       "number": 30,
       "verseKey": "26:30",
       "arabic": "قَالَ أَوَلَوْ جِئْتُكَ بِشَىْءٍ مُّبِينٍ",
+      "simpleArabic": "قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِينٍ",
       "transliteration": "Qala awa law ji/tuka bishay-in mubeen",
       "translation": "[Moses] said, \"Even if I brought you something [i.e., proof] manifest?\""
     },
@@ -220,6 +250,7 @@
       "number": 31,
       "verseKey": "26:31",
       "arabic": "قَالَ فَأْتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "simpleArabic": "قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ",
       "transliteration": "Qala fa/ti bihi in kunta mina assadiqeen",
       "translation": "[Pharaoh] said, \"Then bring it, if you should be of the truthful.\""
     },
@@ -227,6 +258,7 @@
       "number": 32,
       "verseKey": "26:32",
       "arabic": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ",
+      "simpleArabic": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ",
       "transliteration": "Faalqa AAasahu fa-ithahiya thuAAbanun mubeen",
       "translation": "So [Moses] threw his staff, and suddenly it was a serpent manifest.[1048]"
     },
@@ -234,6 +266,7 @@
       "number": 33,
       "verseKey": "26:33",
       "arabic": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+      "simpleArabic": "وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ",
       "transliteration": "WanazaAAa yadahu fa-itha hiya baydaolinnathireen",
       "translation": "And he drew out his hand; thereupon it was white for the observers."
     },
@@ -241,6 +274,7 @@
       "number": 34,
       "verseKey": "26:34",
       "arabic": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِيمٌ",
+      "simpleArabic": "قَالَ لِلْمَلَإِ حَوْلَهُ إِنَّ هَٰذَا لَسَاحِرٌ عَلِيمٌ",
       "transliteration": "Qala lilmala-i hawlahu inna hathalasahirun AAaleem",
       "translation": "[Pharaoh] said to the eminent ones around him, \"Indeed, this is a learned magician."
     },
@@ -248,6 +282,7 @@
       "number": 35,
       "verseKey": "26:35",
       "arabic": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ",
+      "simpleArabic": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِ فَمَاذَا تَأْمُرُونَ",
       "transliteration": "Yureedu an yukhrijakum min ardikumbisihrihi famatha ta/muroon",
       "translation": "He wants to drive you out of your land by his magic, so what do you advise?\""
     },
@@ -255,6 +290,7 @@
       "number": 36,
       "verseKey": "26:36",
       "arabic": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+      "simpleArabic": "قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ",
       "transliteration": "Qaloo arjih waakhahu wabAAathfee almada-ini hashireen",
       "translation": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers"
     },
@@ -262,6 +298,7 @@
       "number": 37,
       "verseKey": "26:37",
       "arabic": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+      "simpleArabic": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
       "transliteration": "Ya/tooka bikulli sahharin AAaleem",
       "translation": "Who will bring you every learned, skilled magician.\""
     },
@@ -269,6 +306,7 @@
       "number": 38,
       "verseKey": "26:38",
       "arabic": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+      "simpleArabic": "فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَّعْلُومٍ",
       "transliteration": "FajumiAAa assaharatu limeeqatiyawmin maAAloom",
       "translation": "So the magicians were assembled for the appointment of a well-known day.[1049]"
     },
@@ -276,6 +314,7 @@
       "number": 39,
       "verseKey": "26:39",
       "arabic": "وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ",
+      "simpleArabic": "وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ",
       "transliteration": "Waqeela linnasi hal antummujtamiAAoon",
       "translation": "And it was said to the people, \"Will you congregate"
     },
@@ -283,6 +322,7 @@
       "number": 40,
       "verseKey": "26:40",
       "arabic": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ",
+      "simpleArabic": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِن كَانُوا هُمُ الْغَالِبِينَ",
       "transliteration": "LaAAallana nattabiAAu assaharatain kanoo humu alghalibeen",
       "translation": "That we might follow the magicians if they are the predominant?\""
     },
@@ -290,6 +330,7 @@
       "number": 41,
       "verseKey": "26:41",
       "arabic": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَـٰلِبِينَ",
+      "simpleArabic": "فَلَمَّا جَاءَ السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ الْغَالِبِينَ",
       "transliteration": "Falamma jaa assaharatuqaloo lifirAAawna a-inna lana laajran in kunnanahnu alghalibeen",
       "translation": "And when the magicians arrived, they said to Pharaoh, \"Is there indeed for us a reward if we are the predominant?\""
     },
@@ -297,6 +338,7 @@
       "number": 42,
       "verseKey": "26:42",
       "arabic": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ ٱلْمُقَرَّبِينَ",
+      "simpleArabic": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ الْمُقَرَّبِينَ",
       "transliteration": "Qala naAAam wa-innakum ithanlamina almuqarrabeen",
       "translation": "He said, \"Yes, and indeed, you will then be of those near [to me].\""
     },
@@ -304,6 +346,7 @@
       "number": 43,
       "verseKey": "26:43",
       "arabic": "قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+      "simpleArabic": "قَالَ لَهُم مُّوسَىٰ أَلْقُوا مَا أَنتُم مُّلْقُونَ",
       "transliteration": "Qala lahum moosa alqoo maantum mulqoon",
       "translation": "Moses said to them, \"Throw whatever you will throw.\""
     },
@@ -311,6 +354,7 @@
       "number": 44,
       "verseKey": "26:44",
       "arabic": "فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَـٰلِبُونَ",
+      "simpleArabic": "فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ الْغَالِبُونَ",
       "transliteration": "Faalqaw hibalahum waAAisiyyahumwaqaloo biAAizzati firAAawna inna lanahnualghaliboon",
       "translation": "So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant.\""
     },
@@ -318,6 +362,7 @@
       "number": 45,
       "verseKey": "26:45",
       "arabic": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ",
+      "simpleArabic": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ",
       "transliteration": "Faalqa moosa AAasahufa-itha hiya talqafu ma ya/fikoon",
       "translation": "Then Moses threw his staff, and at once it devoured what they falsified."
     },
@@ -325,6 +370,7 @@
       "number": 46,
       "verseKey": "26:46",
       "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ",
+      "simpleArabic": "فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ",
       "transliteration": "Faolqiya assaharatu sajideen",
       "translation": "So the magicians fell down in prostration [to Allāh]."
     },
@@ -332,6 +378,7 @@
       "number": 47,
       "verseKey": "26:47",
       "arabic": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ",
       "transliteration": "Qaloo amanna birabbialAAalameen",
       "translation": "They said, \"We have believed in the Lord of the worlds,"
     },
@@ -339,6 +386,7 @@
       "number": 48,
       "verseKey": "26:48",
       "arabic": "رَبِّ مُوسَىٰ وَهَـٰرُونَ",
+      "simpleArabic": "رَبِّ مُوسَىٰ وَهَارُونَ",
       "transliteration": "Rabbi moosa waharoon",
       "translation": "The Lord of Moses and Aaron.\""
     },
@@ -346,6 +394,7 @@
       "number": 49,
       "verseKey": "26:49",
       "arabic": "قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+      "simpleArabic": "قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
       "transliteration": "Qala amantum lahu qabla an athanalakum innahu lakabeerukumu allathee AAallamakumu assihrafalasawfa taAAlamoona laoqattiAAanna aydiyakum waarjulakummin khilafin walaosallibannakum ajmaAAeen",
       "translation": "[Pharaoh] said, \"You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic, but you are going to know. I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all.\""
     },
@@ -353,6 +402,7 @@
       "number": 50,
       "verseKey": "26:50",
       "arabic": "قَالُوا۟ لَا ضَيْرَ ۖ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+      "simpleArabic": "قَالُوا لَا ضَيْرَ ۖ إِنَّا إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
       "transliteration": "Qaloo la dayra innaila rabbina munqaliboon",
       "translation": "They said, \"No harm. Indeed, to our Lord we will return."
     },
@@ -360,6 +410,7 @@
       "number": 51,
       "verseKey": "26:51",
       "arabic": "إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَـٰيَـٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَن كُنَّا أَوَّلَ الْمُؤْمِنِينَ",
       "transliteration": "Inna natmaAAu an yaghfira lanarabbuna khatayana an kunnaawwala almu/mineen",
       "translation": "Indeed, we aspire that our Lord will forgive us our sins because we were the first of the believers.\""
     },
@@ -367,6 +418,7 @@
       "number": 52,
       "verseKey": "26:52",
       "arabic": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِىٓ إِنَّكُم مُّتَّبَعُونَ",
+      "simpleArabic": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي إِنَّكُم مُّتَّبَعُونَ",
       "transliteration": "Waawhayna ila moosaan asri biAAibadee innakum muttabaAAoon",
       "translation": "And We inspired to Moses, \"Travel by night with My servants; indeed, you will be pursued.\""
     },
@@ -374,6 +426,7 @@
       "number": 53,
       "verseKey": "26:53",
       "arabic": "فَأَرْسَلَ فِرْعَوْنُ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+      "simpleArabic": "فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ",
       "transliteration": "Faarsala firAAawnu fee almada-ini hashireen",
       "translation": "Then Pharaoh sent among the cities gatherers[1050]"
     },
@@ -381,6 +434,7 @@
       "number": 54,
       "verseKey": "26:54",
       "arabic": "إِنَّ هَـٰٓؤُلَآءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+      "simpleArabic": "إِنَّ هَٰؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ",
       "transliteration": "Inna haola-i lashirthimatunqaleeloon",
       "translation": "[And said], \"Indeed, those are but a small band,"
     },
@@ -388,6 +442,7 @@
       "number": 55,
       "verseKey": "26:55",
       "arabic": "وَإِنَّهُمْ لَنَا لَغَآئِظُونَ",
+      "simpleArabic": "وَإِنَّهُمْ لَنَا لَغَائِظُونَ",
       "transliteration": "Wa-innahum lana lagha-ithoon",
       "translation": "And indeed, they are enraging us,"
     },
@@ -395,6 +450,7 @@
       "number": 56,
       "verseKey": "26:56",
       "arabic": "وَإِنَّا لَجَمِيعٌ حَـٰذِرُونَ",
+      "simpleArabic": "وَإِنَّا لَجَمِيعٌ حَاذِرُونَ",
       "transliteration": "Wa-inna lajameeAAun hathiroon",
       "translation": "And indeed, we are a cautious society...\""
     },
@@ -402,6 +458,7 @@
       "number": 57,
       "verseKey": "26:57",
       "arabic": "فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍ وَعُيُونٍ",
+      "simpleArabic": "فَأَخْرَجْنَاهُم مِّن جَنَّاتٍ وَعُيُونٍ",
       "transliteration": "Faakhrajnahum min jannatinwaAAuyoon",
       "translation": "So We removed them from gardens and springs"
     },
@@ -409,6 +466,7 @@
       "number": 58,
       "verseKey": "26:58",
       "arabic": "وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ",
+      "simpleArabic": "وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ",
       "transliteration": "Wakunoozin wamaqamin kareem",
       "translation": "And treasures and honorable station[1051] -"
     },
@@ -416,6 +474,7 @@
       "number": 59,
       "verseKey": "26:59",
       "arabic": "كَذَٰلِكَ وَأَوْرَثْنَـٰهَا بَنِىٓ إِسْرَٰٓءِيلَ",
+      "simpleArabic": "كَذَٰلِكَ وَأَوْرَثْنَاهَا بَنِي إِسْرَائِيلَ",
       "transliteration": "Kathalika waawrathnahabanee isra-eel",
       "translation": "Thus. And We caused to inherit it the Children of Israel."
     },
@@ -423,6 +482,7 @@
       "number": 60,
       "verseKey": "26:60",
       "arabic": "فَأَتْبَعُوهُم مُّشْرِقِينَ",
+      "simpleArabic": "فَأَتْبَعُوهُم مُّشْرِقِينَ",
       "transliteration": "FaatbaAAoohum mushriqeen",
       "translation": "So they pursued them at sunrise."
     },
@@ -430,6 +490,7 @@
       "number": 61,
       "verseKey": "26:61",
       "arabic": "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَـٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ",
+      "simpleArabic": "فَلَمَّا تَرَاءَى الْجَمْعَانِ قَالَ أَصْحَابُ مُوسَىٰ إِنَّا لَمُدْرَكُونَ",
       "transliteration": "Falamma taraa aljamAAaniqala as-habu moosa innalamudrakoon",
       "translation": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken!\""
     },
@@ -437,6 +498,7 @@
       "number": 62,
       "verseKey": "26:62",
       "arabic": "قَالَ كَلَّآ ۖ إِنَّ مَعِىَ رَبِّى سَيَهْدِينِ",
+      "simpleArabic": "قَالَ كَلَّا ۖ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
       "transliteration": "Qala kalla inna maAAiya rabbeesayahdeen",
       "translation": "[Moses] said, \"No! Indeed, with me is my Lord; He will guide me.\""
     },
@@ -444,6 +506,7 @@
       "number": 63,
       "verseKey": "26:63",
       "arabic": "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ",
+      "simpleArabic": "فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ ۖ فَانفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ",
       "transliteration": "Faawhayna ila moosaani idrib biAAasaka albahra fanfalaqafakana kullu firqin kattawdi alAAatheem",
       "translation": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain."
     },
@@ -451,6 +514,7 @@
       "number": 64,
       "verseKey": "26:64",
       "arabic": "وَأَزْلَفْنَا ثَمَّ ٱلْـَٔاخَرِينَ",
+      "simpleArabic": "وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ",
       "transliteration": "Waazlafna thamma al-akhareen",
       "translation": "And We advanced thereto the others [i.e., the pursuers]."
     },
@@ -458,6 +522,7 @@
       "number": 65,
       "verseKey": "26:65",
       "arabic": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ",
+      "simpleArabic": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُ أَجْمَعِينَ",
       "transliteration": "Waanjayna moosa waman maAAahuajmaAAeen",
       "translation": "And We saved Moses and those with him, all together."
     },
@@ -465,6 +530,7 @@
       "number": 66,
       "verseKey": "26:66",
       "arabic": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
+      "simpleArabic": "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
       "transliteration": "Thumma aghraqna al-akhareen",
       "translation": "Then We drowned the others."
     },
@@ -472,6 +538,7 @@
       "number": 67,
       "verseKey": "26:67",
       "arabic": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Inna fee thalika laayatan wamakana aktharuhum mu/mineen",
       "translation": "Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -479,6 +546,7 @@
       "number": 68,
       "verseKey": "26:68",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -486,6 +554,7 @@
       "number": 69,
       "verseKey": "26:69",
       "arabic": "وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ",
+      "simpleArabic": "وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ",
       "transliteration": "Watlu AAalayhim nabaa ibraheem",
       "translation": "And recite to them the news of Abraham,"
     },
@@ -493,6 +562,7 @@
       "number": 70,
       "verseKey": "26:70",
       "arabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ",
+      "simpleArabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا تَعْبُدُونَ",
       "transliteration": "Ith qala li-abeehi waqawmihi mataAAbudoon",
       "translation": "When he said to his father and his people, \"What do you worship?\""
     },
@@ -500,6 +570,7 @@
       "number": 71,
       "verseKey": "26:71",
       "arabic": "قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَـٰكِفِينَ",
+      "simpleArabic": "قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ",
       "transliteration": "Qaloo naAAbudu asnamanfanathallu laha AAakifeen",
       "translation": "They said, \"We worship idols and remain to them devoted.\""
     },
@@ -507,6 +578,7 @@
       "number": 72,
       "verseKey": "26:72",
       "arabic": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+      "simpleArabic": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
       "transliteration": "Qala hal yasmaAAoonakum ithtadAAoon",
       "translation": "He said, \"Do they hear you when you supplicate?"
     },
@@ -514,6 +586,7 @@
       "number": 73,
       "verseKey": "26:73",
       "arabic": "أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ",
+      "simpleArabic": "أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ",
       "transliteration": "Aw yanfaAAoonakum aw yadurroon",
       "translation": "Or do they benefit you, or do they harm?\""
     },
@@ -521,6 +594,7 @@
       "number": 74,
       "verseKey": "26:74",
       "arabic": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "simpleArabic": "قَالُوا بَلْ وَجَدْنَا آبَاءَنَا كَذَٰلِكَ يَفْعَلُونَ",
       "transliteration": "Qaloo bal wajadna abaanakathalika yafAAaloon",
       "translation": "They said, \"But we found our fathers doing thus.\""
     },
@@ -528,6 +602,7 @@
       "number": 75,
       "verseKey": "26:75",
       "arabic": "قَالَ أَفَرَءَيْتُم مَّا كُنتُمْ تَعْبُدُونَ",
+      "simpleArabic": "قَالَ أَفَرَأَيْتُم مَّا كُنتُمْ تَعْبُدُونَ",
       "transliteration": "Qala afaraaytum ma kuntumtaAAbudoon",
       "translation": "He said, \"Then do you see what you have been worshipping,"
     },
@@ -535,6 +610,7 @@
       "number": 76,
       "verseKey": "26:76",
       "arabic": "أَنتُمْ وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ",
+      "simpleArabic": "أَنتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ",
       "transliteration": "Antum waabaokumu al-aqdamoon",
       "translation": "You and your ancient forefathers?"
     },
@@ -542,6 +618,7 @@
       "number": 77,
       "verseKey": "26:77",
       "arabic": "فَإِنَّهُمْ عَدُوٌّ لِّىٓ إِلَّا رَبَّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "فَإِنَّهُمْ عَدُوٌّ لِّي إِلَّا رَبَّ الْعَالَمِينَ",
       "transliteration": "Fa-innahum AAaduwwun lee illa rabbaalAAalameen",
       "translation": "Indeed, they are enemies to me, except the Lord of the worlds,[1052]"
     },
@@ -549,6 +626,7 @@
       "number": 78,
       "verseKey": "26:78",
       "arabic": "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْدِينِ",
+      "simpleArabic": "الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ",
       "transliteration": "Allathee khalaqanee fahuwa yahdeen",
       "translation": "Who created me, and He [it is who] guides me."
     },
@@ -556,6 +634,7 @@
       "number": 79,
       "verseKey": "26:79",
       "arabic": "وَٱلَّذِى هُوَ يُطْعِمُنِى وَيَسْقِينِ",
+      "simpleArabic": "وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ",
       "transliteration": "Wallathee huwa yutAAimuneewayasqeen",
       "translation": "And it is He who feeds me and gives me drink."
     },
@@ -563,6 +642,7 @@
       "number": 80,
       "verseKey": "26:80",
       "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+      "simpleArabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
       "transliteration": "Wa-itha maridtu fahuwayashfeen",
       "translation": "And when I am ill, it is He who cures me"
     },
@@ -570,6 +650,7 @@
       "number": 81,
       "verseKey": "26:81",
       "arabic": "وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ",
+      "simpleArabic": "وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ",
       "transliteration": "Wallathee yumeetunee thummayuhyeen",
       "translation": "And who will cause me to die and then bring me to life"
     },
@@ -577,6 +658,7 @@
       "number": 82,
       "verseKey": "26:82",
       "arabic": "وَٱلَّذِىٓ أَطْمَعُ أَن يَغْفِرَ لِى خَطِيٓـَٔتِى يَوْمَ ٱلدِّينِ",
+      "simpleArabic": "وَالَّذِي أَطْمَعُ أَن يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
       "transliteration": "Wallathee atmaAAu anyaghfira lee khatee-atee yawma addeen",
       "translation": "And who I aspire that He will forgive me my sin on the Day of Recompense.\""
     },
@@ -584,6 +666,7 @@
       "number": 83,
       "verseKey": "26:83",
       "arabic": "رَبِّ هَبْ لِى حُكْمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ",
+      "simpleArabic": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
       "transliteration": "Rabbi hab lee hukman waalhiqneebissaliheen",
       "translation": "[And he said], \"My Lord, grant me authority and join me with the righteous."
     },
@@ -591,6 +674,7 @@
       "number": 84,
       "verseKey": "26:84",
       "arabic": "وَٱجْعَل لِّى لِسَانَ صِدْقٍ فِى ٱلْـَٔاخِرِينَ",
+      "simpleArabic": "وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ",
       "transliteration": "WajAAal lee lisana sidqinfee al-akhireen",
       "translation": "And grant me a mention [i.e., reputation] of honor among later generations."
     },
@@ -598,6 +682,7 @@
       "number": 85,
       "verseKey": "26:85",
       "arabic": "وَٱجْعَلْنِى مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
+      "simpleArabic": "وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ",
       "transliteration": "WajAAalnee min warathati jannati annaAAeem",
       "translation": "And place me among the inheritors of the Garden of Pleasure."
     },
@@ -605,6 +690,7 @@
       "number": 86,
       "verseKey": "26:86",
       "arabic": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+      "simpleArabic": "وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ",
       "transliteration": "Waghfir li-abee innahu kanamina addalleen",
       "translation": "And forgive my father. Indeed, he has been of those astray."
     },
@@ -612,6 +698,7 @@
       "number": 87,
       "verseKey": "26:87",
       "arabic": "وَلَا تُخْزِنِى يَوْمَ يُبْعَثُونَ",
+      "simpleArabic": "وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ",
       "transliteration": "Wala tukhzinee yawma yubAAathoon",
       "translation": "And do not disgrace me on the Day they are [all] resurrected -"
     },
@@ -619,6 +706,7 @@
       "number": 88,
       "verseKey": "26:88",
       "arabic": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
+      "simpleArabic": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
       "transliteration": "Yawma la yanfaAAu malun walabanoon",
       "translation": "The Day when there will not benefit [anyone] wealth or children"
     },
@@ -626,6 +714,7 @@
       "number": 89,
       "verseKey": "26:89",
       "arabic": "إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ",
+      "simpleArabic": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
       "transliteration": "Illa man ata Allahabiqalbin saleem",
       "translation": "But only one who comes to Allāh with a sound heart.\""
     },
@@ -633,6 +722,7 @@
       "number": 90,
       "verseKey": "26:90",
       "arabic": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ",
+      "simpleArabic": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ",
       "transliteration": "Waozlifati aljannatu lilmuttaqeen",
       "translation": "And Paradise will be brought near [that Day] to the righteous."
     },
@@ -640,6 +730,7 @@
       "number": 91,
       "verseKey": "26:91",
       "arabic": "وَبُرِّزَتِ ٱلْجَحِيمُ لِلْغَاوِينَ",
+      "simpleArabic": "وَبُرِّزَتِ الْجَحِيمُ لِلْغَاوِينَ",
       "transliteration": "Waburrizati aljaheemu lilghaween",
       "translation": "And Hellfire will be brought forth for the deviators,"
     },
@@ -647,6 +738,7 @@
       "number": 92,
       "verseKey": "26:92",
       "arabic": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ",
+      "simpleArabic": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ",
       "transliteration": "Waqeela lahum ayna ma kuntumtaAAbudoon",
       "translation": "And it will be said to them, \"Where are those you used to worship"
     },
@@ -654,6 +746,7 @@
       "number": 93,
       "verseKey": "26:93",
       "arabic": "مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ",
+      "simpleArabic": "مِن دُونِ اللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ",
       "transliteration": "Min dooni Allahi hal yansuroonakumaw yantasiroon",
       "translation": "Other than Allāh? Can they help you or help themselves?\""
     },
@@ -661,6 +754,7 @@
       "number": 94,
       "verseKey": "26:94",
       "arabic": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
+      "simpleArabic": "فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ",
       "transliteration": "Fakubkiboo feeha hum walghawoon",
       "translation": "So they will be overturned into it [i.e., Hellfire], they and the deviators"
     },
@@ -668,6 +762,7 @@
       "number": 95,
       "verseKey": "26:95",
       "arabic": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+      "simpleArabic": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
       "transliteration": "Wajunoodu ibleesa ajmaAAoon",
       "translation": "And the soldiers of Iblees, all together."
     },
@@ -675,6 +770,7 @@
       "number": 96,
       "verseKey": "26:96",
       "arabic": "قَالُوا۟ وَهُمْ فِيهَا يَخْتَصِمُونَ",
+      "simpleArabic": "قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ",
       "transliteration": "Qaloo wahum feeha yakhtasimoon",
       "translation": "They will say while they dispute therein,"
     },
@@ -682,6 +778,7 @@
       "number": 97,
       "verseKey": "26:97",
       "arabic": "تَٱللَّهِ إِن كُنَّا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+      "simpleArabic": "تَاللَّهِ إِن كُنَّا لَفِي ضَلَالٍ مُّبِينٍ",
       "transliteration": "Tallahi in kunna lafeedalalin mubeen",
       "translation": "\"By Allāh, we were indeed in manifest error"
     },
@@ -689,6 +786,7 @@
       "number": 98,
       "verseKey": "26:98",
       "arabic": "إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "إِذْ نُسَوِّيكُم بِرَبِّ الْعَالَمِينَ",
       "transliteration": "Ith nusawweekum birabbi alAAalameen",
       "translation": "When we equated you with the Lord of the worlds."
     },
@@ -696,6 +794,7 @@
       "number": 99,
       "verseKey": "26:99",
       "arabic": "وَمَآ أَضَلَّنَآ إِلَّا ٱلْمُجْرِمُونَ",
+      "simpleArabic": "وَمَا أَضَلَّنَا إِلَّا الْمُجْرِمُونَ",
       "transliteration": "Wama adallana illaalmujrimoon",
       "translation": "And no one misguided us except the criminals."
     },
@@ -703,6 +802,7 @@
       "number": 100,
       "verseKey": "26:100",
       "arabic": "فَمَا لَنَا مِن شَـٰفِعِينَ",
+      "simpleArabic": "فَمَا لَنَا مِن شَافِعِينَ",
       "transliteration": "Fama lana min shafiAAeen",
       "translation": "So now we have no intercessors"
     },
@@ -710,6 +810,7 @@
       "number": 101,
       "verseKey": "26:101",
       "arabic": "وَلَا صَدِيقٍ حَمِيمٍ",
+      "simpleArabic": "وَلَا صَدِيقٍ حَمِيمٍ",
       "transliteration": "Wala sadeeqin hameem",
       "translation": "And not a devoted friend."
     },
@@ -717,6 +818,7 @@
       "number": 102,
       "verseKey": "26:102",
       "arabic": "فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ",
       "transliteration": "Falaw anna lana karratan fanakoonamina almu/mineen",
       "translation": "Then if we only had a return [to the world] and could be of the believers...\"[1053]"
     },
@@ -724,6 +826,7 @@
       "number": 103,
       "verseKey": "26:103",
       "arabic": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Inna fee thalika laayatan wamakana aktharuhum mu/mineen",
       "translation": "Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -731,6 +834,7 @@
       "number": 104,
       "verseKey": "26:104",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -738,6 +842,7 @@
       "number": 105,
       "verseKey": "26:105",
       "arabic": "كَذَّبَتْ قَوْمُ نُوحٍ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ",
       "transliteration": "Kaththabat qawmu noohinalmursaleen",
       "translation": "The people of Noah denied the messengers[1054]"
     },
@@ -745,6 +850,7 @@
       "number": 106,
       "verseKey": "26:106",
       "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+      "simpleArabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
       "transliteration": "Ith qala lahum akhoohum noohunala tattaqoon",
       "translation": "When their brother Noah said to them, \"Will you not fear Allāh?"
     },
@@ -752,6 +858,7 @@
       "number": 107,
       "verseKey": "26:107",
       "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "simpleArabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
       "transliteration": "Innee lakum rasoolun ameen",
       "translation": "Indeed, I am to you a trustworthy messenger."
     },
@@ -759,6 +866,7 @@
       "number": 108,
       "verseKey": "26:108",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me."
     },
@@ -766,6 +874,7 @@
       "number": 109,
       "verseKey": "26:109",
       "arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
       "transliteration": "Wama as-alukum AAalayhi min ajrin inajriya illa AAala rabbi alAAalameen",
       "translation": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds."
     },
@@ -773,6 +882,7 @@
       "number": 110,
       "verseKey": "26:110",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me.\""
     },
@@ -780,6 +890,7 @@
       "number": 111,
       "verseKey": "26:111",
       "arabic": "۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ وَٱتَّبَعَكَ ٱلْأَرْذَلُونَ",
+      "simpleArabic": "قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ",
       "transliteration": "Qaloo anu/minu laka wattabaAAakaal-arthaloon",
       "translation": "They said, \"Should we believe you while you are followed by the lowest [class of people]?\""
     },
@@ -787,6 +898,7 @@
       "number": 112,
       "verseKey": "26:112",
       "arabic": "قَالَ وَمَا عِلْمِى بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "simpleArabic": "قَالَ وَمَا عِلْمِي بِمَا كَانُوا يَعْمَلُونَ",
       "transliteration": "Qala wama AAilmee bimakanoo yaAAmaloon",
       "translation": "He said, \"And what is my knowledge of what they used to do?"
     },
@@ -794,6 +906,7 @@
       "number": 113,
       "verseKey": "26:113",
       "arabic": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى ۖ لَوْ تَشْعُرُونَ",
+      "simpleArabic": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّي ۖ لَوْ تَشْعُرُونَ",
       "transliteration": "In hisabuhum illa AAalarabbee law tashAAuroon",
       "translation": "Their account is only upon my Lord, if you [could] perceive."
     },
@@ -801,6 +914,7 @@
       "number": 114,
       "verseKey": "26:114",
       "arabic": "وَمَآ أَنَا۠ بِطَارِدِ ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ",
       "transliteration": "Wama ana bitaridialmu/mineen",
       "translation": "And I am not one to drive away the believers."
     },
@@ -808,6 +922,7 @@
       "number": 115,
       "verseKey": "26:115",
       "arabic": "إِنْ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "simpleArabic": "إِنْ أَنَا إِلَّا نَذِيرٌ مُّبِينٌ",
       "transliteration": "In ana illa natheerunmubeen",
       "translation": "I am only a clear warner.\""
     },
@@ -815,6 +930,7 @@
       "number": 116,
       "verseKey": "26:116",
       "arabic": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
+      "simpleArabic": "قَالُوا لَئِن لَّمْ تَنتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ الْمَرْجُومِينَ",
       "transliteration": "Qaloo la-in lam tantahi yanoohu latakoonanna mina almarjoomeen",
       "translation": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned.\""
     },
@@ -822,6 +938,7 @@
       "number": 117,
       "verseKey": "26:117",
       "arabic": "قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ",
+      "simpleArabic": "قَالَ رَبِّ إِنَّ قَوْمِي كَذَّبُونِ",
       "transliteration": "Qala rabbi inna qawmee kaththaboon",
       "translation": "He said, \"My Lord, indeed my people have denied me."
     },
@@ -829,6 +946,7 @@
       "number": 118,
       "verseKey": "26:118",
       "arabic": "فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَن مَّعِيَ مِنَ الْمُؤْمِنِينَ",
       "transliteration": "Faftah baynee wabaynahum fathanwanajjinee waman maAAiya mina almu/mineen",
       "translation": "Then judge between me and them with decisive judgement and save me and those with me of the believers.\""
     },
@@ -836,6 +954,7 @@
       "number": 119,
       "verseKey": "26:119",
       "arabic": "فَأَنجَيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "simpleArabic": "فَأَنجَيْنَاهُ وَمَن مَّعَهُ فِي الْفُلْكِ الْمَشْحُونِ",
       "transliteration": "Faanjaynahu waman maAAahu feealfulki almashhoon",
       "translation": "So We saved him and those with him in the laden ship."
     },
@@ -843,6 +962,7 @@
       "number": 120,
       "verseKey": "26:120",
       "arabic": "ثُمَّ أَغْرَقْنَا بَعْدُ ٱلْبَاقِينَ",
+      "simpleArabic": "ثُمَّ أَغْرَقْنَا بَعْدُ الْبَاقِينَ",
       "transliteration": "Thumma aghraqna baAAdu albaqeen",
       "translation": "Then We drowned thereafter the remaining ones."
     },
@@ -850,6 +970,7 @@
       "number": 121,
       "verseKey": "26:121",
       "arabic": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Inna fee thalika laayatan wamakana aktharuhum mu/mineen",
       "translation": "Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -857,6 +978,7 @@
       "number": 122,
       "verseKey": "26:122",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -864,6 +986,7 @@
       "number": 123,
       "verseKey": "26:123",
       "arabic": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "كَذَّبَتْ عَادٌ الْمُرْسَلِينَ",
       "transliteration": "Kaththabat AAadun almursaleen",
       "translation": "ʿAad denied the messengers"
     },
@@ -871,6 +994,7 @@
       "number": 124,
       "verseKey": "26:124",
       "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+      "simpleArabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
       "transliteration": "Ith qala lahum akhoohumhoodun ala tattaqoon",
       "translation": "When their brother Hūd said to them, \"Will you not fear Allāh?"
     },
@@ -878,6 +1002,7 @@
       "number": 125,
       "verseKey": "26:125",
       "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "simpleArabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
       "transliteration": "Innee lakum rasoolun ameen",
       "translation": "Indeed, I am to you a trustworthy messenger."
     },
@@ -885,6 +1010,7 @@
       "number": 126,
       "verseKey": "26:126",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me."
     },
@@ -892,6 +1018,7 @@
       "number": 127,
       "verseKey": "26:127",
       "arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
       "transliteration": "Wama as-alukum AAalayhi min ajrin inajriya illa AAala rabbi alAAalameen",
       "translation": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds."
     },
@@ -899,6 +1026,7 @@
       "number": 128,
       "verseKey": "26:128",
       "arabic": "أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ",
+      "simpleArabic": "أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ",
       "transliteration": "Atabnoona bikulli reeAAin ayatantaAAbathoon",
       "translation": "Do you construct on every elevation a sign,[1055] amusing yourselves,"
     },
@@ -906,6 +1034,7 @@
       "number": 129,
       "verseKey": "26:129",
       "arabic": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+      "simpleArabic": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
       "transliteration": "Watattakhithoona masaniAAalaAAallakum takhludoon",
       "translation": "And take for yourselves constructions [i.e., palaces and fortresses] that you might abide eternally?"
     },
@@ -913,6 +1042,7 @@
       "number": 130,
       "verseKey": "26:130",
       "arabic": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
+      "simpleArabic": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
       "transliteration": "Wa-itha batashtum batashtumjabbareen",
       "translation": "And when you strike, you strike as tyrants."
     },
@@ -920,6 +1050,7 @@
       "number": 131,
       "verseKey": "26:131",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me."
     },
@@ -927,6 +1058,7 @@
       "number": 132,
       "verseKey": "26:132",
       "arabic": "وَٱتَّقُوا۟ ٱلَّذِىٓ أَمَدَّكُم بِمَا تَعْلَمُونَ",
+      "simpleArabic": "وَاتَّقُوا الَّذِي أَمَدَّكُم بِمَا تَعْلَمُونَ",
       "transliteration": "Wattaqoo allathee amaddakumbima taAAlamoon",
       "translation": "And fear He who provided you with that which you know,"
     },
@@ -934,6 +1066,7 @@
       "number": 133,
       "verseKey": "26:133",
       "arabic": "أَمَدَّكُم بِأَنْعَـٰمٍ وَبَنِينَ",
+      "simpleArabic": "أَمَدَّكُم بِأَنْعَامٍ وَبَنِينَ",
       "transliteration": "Amaddakum bi-anAAamin wabaneen",
       "translation": "Provided you with grazing livestock and children"
     },
@@ -941,6 +1074,7 @@
       "number": 134,
       "verseKey": "26:134",
       "arabic": "وَجَنَّـٰتٍ وَعُيُونٍ",
+      "simpleArabic": "وَجَنَّاتٍ وَعُيُونٍ",
       "transliteration": "Wajannatin waAAuyoon",
       "translation": "And gardens and springs."
     },
@@ -948,6 +1082,7 @@
       "number": 135,
       "verseKey": "26:135",
       "arabic": "إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "simpleArabic": "إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
       "transliteration": "Innee akhafu AAalaykum AAathabayawmin AAatheem",
       "translation": "Indeed, I fear for you the punishment of a terrible day.\""
     },
@@ -955,6 +1090,7 @@
       "number": 136,
       "verseKey": "26:136",
       "arabic": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ ٱلْوَٰعِظِينَ",
+      "simpleArabic": "قَالُوا سَوَاءٌ عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ الْوَاعِظِينَ",
       "transliteration": "Qaloo sawaon AAalaynaawaAAathta am lam takun mina alwaAAitheen",
       "translation": "They said, \"It is all the same to us whether you advise or are not of the advisors."
     },
@@ -962,6 +1098,7 @@
       "number": 137,
       "verseKey": "26:137",
       "arabic": "إِنْ هَـٰذَآ إِلَّا خُلُقُ ٱلْأَوَّلِينَ",
+      "simpleArabic": "إِنْ هَٰذَا إِلَّا خُلُقُ الْأَوَّلِينَ",
       "transliteration": "In hatha illa khuluqual-awwaleen",
       "translation": "This is not but the custom of the former peoples,"
     },
@@ -969,6 +1106,7 @@
       "number": 138,
       "verseKey": "26:138",
       "arabic": "وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "simpleArabic": "وَمَا نَحْنُ بِمُعَذَّبِينَ",
       "transliteration": "Wama nahnu bimuAAaththabeen",
       "translation": "And we are not to be punished.\""
     },
@@ -976,6 +1114,7 @@
       "number": 139,
       "verseKey": "26:139",
       "arabic": "فَكَذَّبُوهُ فَأَهْلَكْنَـٰهُمْ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Fakaththaboohu faahlaknahuminna fee thalika laayatan wama kanaaktharuhum mu/mineen",
       "translation": "And they denied him, so We destroyed them. Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -983,6 +1122,7 @@
       "number": 140,
       "verseKey": "26:140",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -990,6 +1130,7 @@
       "number": 141,
       "verseKey": "26:141",
       "arabic": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ",
       "transliteration": "Kaththabat thamoodu almursaleen",
       "translation": "Thamūd denied the messengers"
     },
@@ -997,6 +1138,7 @@
       "number": 142,
       "verseKey": "26:142",
       "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَـٰلِحٌ أَلَا تَتَّقُونَ",
+      "simpleArabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَالِحٌ أَلَا تَتَّقُونَ",
       "transliteration": "Ith qala lahum akhoohum salihunala tattaqoon",
       "translation": "When their brother Ṣāliḥ said to them, \"Will you not fear Allāh?"
     },
@@ -1004,6 +1146,7 @@
       "number": 143,
       "verseKey": "26:143",
       "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "simpleArabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
       "transliteration": "Innee lakum rasoolun ameen",
       "translation": "Indeed, I am to you a trustworthy messenger."
     },
@@ -1011,6 +1154,7 @@
       "number": 144,
       "verseKey": "26:144",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me."
     },
@@ -1018,6 +1162,7 @@
       "number": 145,
       "verseKey": "26:145",
       "arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
       "transliteration": "Wama as-alukum AAalayhi min ajrin inajriya illa AAala rabbi alAAalameen",
       "translation": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds."
     },
@@ -1025,6 +1170,7 @@
       "number": 146,
       "verseKey": "26:146",
       "arabic": "أَتُتْرَكُونَ فِى مَا هَـٰهُنَآ ءَامِنِينَ",
+      "simpleArabic": "أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ",
       "transliteration": "Atutrakoona fee ma hahunaamineen",
       "translation": "Will you be left in what is here, secure [from death],"
     },
@@ -1032,6 +1178,7 @@
       "number": 147,
       "verseKey": "26:147",
       "arabic": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+      "simpleArabic": "فِي جَنَّاتٍ وَعُيُونٍ",
       "transliteration": "Fee jannatin waAAuyoon",
       "translation": "Within gardens and springs"
     },
@@ -1039,6 +1186,7 @@
       "number": 148,
       "verseKey": "26:148",
       "arabic": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+      "simpleArabic": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
       "transliteration": "WazurooAAin wanakhlin talAAuhahadeem",
       "translation": "And fields of crops and palm trees with softened fruit?"
     },
@@ -1046,6 +1194,7 @@
       "number": 149,
       "verseKey": "26:149",
       "arabic": "وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَـٰرِهِينَ",
+      "simpleArabic": "وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ",
       "transliteration": "Watanhitoona mina aljibalibuyootan fariheen",
       "translation": "And you carve out of the mountains, homes, with skill."
     },
@@ -1053,6 +1202,7 @@
       "number": 150,
       "verseKey": "26:150",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me."
     },
@@ -1060,6 +1210,7 @@
       "number": 151,
       "verseKey": "26:151",
       "arabic": "وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ",
+      "simpleArabic": "وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ",
       "transliteration": "Wala tuteeAAoo amraalmusrifeen",
       "translation": "And do not obey the order of the transgressors,"
     },
@@ -1067,6 +1218,7 @@
       "number": 152,
       "verseKey": "26:152",
       "arabic": "ٱلَّذِينَ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+      "simpleArabic": "الَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ",
       "transliteration": "Allatheena yufsidoona fee al-ardiwala yuslihoon",
       "translation": "Who cause corruption in the land and do not amend.\""
     },
@@ -1074,6 +1226,7 @@
       "number": 153,
       "verseKey": "26:153",
       "arabic": "قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ",
+      "simpleArabic": "قَالُوا إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ",
       "transliteration": "Qaloo innama anta mina almusahhareen",
       "translation": "They said, \"You are only of those affected by magic."
     },
@@ -1081,6 +1234,7 @@
       "number": 154,
       "verseKey": "26:154",
       "arabic": "مَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "simpleArabic": "مَا أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِآيَةٍ إِن كُنتَ مِنَ الصَّادِقِينَ",
       "transliteration": "Ma anta illa basharun mithlunafa/ti bi-ayatin in kunta mina assadiqeena",
       "translation": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\""
     },
@@ -1088,6 +1242,7 @@
       "number": 155,
       "verseKey": "26:155",
       "arabic": "قَالَ هَـٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ",
+      "simpleArabic": "قَالَ هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ",
       "transliteration": "Qala hathihi naqatunlaha shirbun walakum shirbu yawmin maAAloom",
       "translation": "He said, \"This is a she-camel.[1056] For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day."
     },
@@ -1095,6 +1250,7 @@
       "number": 156,
       "verseKey": "26:156",
       "arabic": "وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+      "simpleArabic": "وَلَا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
       "transliteration": "Wala tamassooha bisoo-infaya/khuthakum AAathabu yawmin AAatheem",
       "translation": "And do not touch her with harm, lest you be seized by the punishment of a terrible day.\""
     },
@@ -1102,6 +1258,7 @@
       "number": 157,
       "verseKey": "26:157",
       "arabic": "فَعَقَرُوهَا فَأَصْبَحُوا۟ نَـٰدِمِينَ",
+      "simpleArabic": "فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ",
       "transliteration": "FaAAaqarooha faasbahoonadimeen",
       "translation": "But they hamstrung her and so became regretful."
     },
@@ -1109,6 +1266,7 @@
       "number": 158,
       "verseKey": "26:158",
       "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "فَأَخَذَهُمُ الْعَذَابُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Faakhathahumu alAAathabu innafee thalika laayatan wama kanaaktharuhum mu/mineen",
       "translation": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -1116,6 +1274,7 @@
       "number": 159,
       "verseKey": "26:159",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -1123,6 +1282,7 @@
       "number": 160,
       "verseKey": "26:160",
       "arabic": "كَذَّبَتْ قَوْمُ لُوطٍ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "كَذَّبَتْ قَوْمُ لُوطٍ الْمُرْسَلِينَ",
       "transliteration": "Kaththabat qawmu lootinalmursaleen",
       "translation": "The people of Lot denied the messengers"
     },
@@ -1130,6 +1290,7 @@
       "number": 161,
       "verseKey": "26:161",
       "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+      "simpleArabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
       "transliteration": "Ith qala lahum akhoohum lootunala tattaqoon",
       "translation": "When their brother Lot said to them, \"Will you not fear Allāh?"
     },
@@ -1137,6 +1298,7 @@
       "number": 162,
       "verseKey": "26:162",
       "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "simpleArabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
       "transliteration": "Innee lakum rasoolun ameen",
       "translation": "Indeed, I am to you a trustworthy messenger."
     },
@@ -1144,6 +1306,7 @@
       "number": 163,
       "verseKey": "26:163",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me."
     },
@@ -1151,6 +1314,7 @@
       "number": 164,
       "verseKey": "26:164",
       "arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
       "transliteration": "Wama as-alukum AAalayhi min ajrin inajriya illa AAala rabbi alAAalameen",
       "translation": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds."
     },
@@ -1158,6 +1322,7 @@
       "number": 165,
       "verseKey": "26:165",
       "arabic": "أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ",
       "transliteration": "Ata/toona aththukranamina alAAalameen",
       "translation": "Do you approach males among the worlds[1057]"
     },
@@ -1165,6 +1330,7 @@
       "number": 166,
       "verseKey": "26:166",
       "arabic": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
+      "simpleArabic": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَاجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
       "transliteration": "Watatharoona ma khalaqa lakumrabbukum min azwajikum bal antum qawmun AAadoon",
       "translation": "And leave what your Lord has created for you as mates? But you are a people transgressing.\""
     },
@@ -1172,6 +1338,7 @@
       "number": 167,
       "verseKey": "26:167",
       "arabic": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ",
+      "simpleArabic": "قَالُوا لَئِن لَّمْ تَنتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ",
       "transliteration": "Qaloo la-in lam tantahi yalootu latakoonanna mina almukhrajeen",
       "translation": "They said, \"If you do not desist, O Lot, you will surely be of those evicted.\""
     },
@@ -1179,6 +1346,7 @@
       "number": 168,
       "verseKey": "26:168",
       "arabic": "قَالَ إِنِّى لِعَمَلِكُم مِّنَ ٱلْقَالِينَ",
+      "simpleArabic": "قَالَ إِنِّي لِعَمَلِكُم مِّنَ الْقَالِينَ",
       "transliteration": "Qala innee liAAamalikum mina alqaleen",
       "translation": "He said, \"Indeed, I am, toward your deed, of those who detest [it]."
     },
@@ -1186,6 +1354,7 @@
       "number": 169,
       "verseKey": "26:169",
       "arabic": "رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ",
+      "simpleArabic": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
       "transliteration": "Rabbi najjinee waahlee mimmayaAAmaloon",
       "translation": "My Lord, save me and my family from [the consequence of] what they do.\""
     },
@@ -1193,6 +1362,7 @@
       "number": 170,
       "verseKey": "26:170",
       "arabic": "فَنَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "simpleArabic": "فَنَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
       "transliteration": "Fanajjaynahu waahlahu ajmaAAeen",
       "translation": "So We saved him and his family, all,"
     },
@@ -1200,6 +1370,7 @@
       "number": 171,
       "verseKey": "26:171",
       "arabic": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+      "simpleArabic": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
       "transliteration": "Illa AAajoozan fee alghabireen",
       "translation": "Except an old woman[1058] among those who remained behind."
     },
@@ -1207,6 +1378,7 @@
       "number": 172,
       "verseKey": "26:172",
       "arabic": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ",
+      "simpleArabic": "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
       "transliteration": "Thumma dammarna al-akhareen",
       "translation": "Then We destroyed the others."
     },
@@ -1214,6 +1386,7 @@
       "number": 173,
       "verseKey": "26:173",
       "arabic": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+      "simpleArabic": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَاءَ مَطَرُ الْمُنذَرِينَ",
       "transliteration": "Waamtarna AAalayhim mataranfasaa mataru almunthareen",
       "translation": "And We rained upon them a rain [of stones], and evil was the rain of those who were warned."
     },
@@ -1221,6 +1394,7 @@
       "number": 174,
       "verseKey": "26:174",
       "arabic": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Inna fee thalika laayatan wamakana aktharuhum mu/mineen",
       "translation": "Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -1228,6 +1402,7 @@
       "number": 175,
       "verseKey": "26:175",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -1235,6 +1410,7 @@
       "number": 176,
       "verseKey": "26:176",
       "arabic": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "كَذَّبَ أَصْحَابُ الْأَيْكَةِ الْمُرْسَلِينَ",
       "transliteration": "Kaththaba as-habual-aykati almursaleen",
       "translation": "The companions of the thicket [i.e., the people of Madyan] denied the messengers"
     },
@@ -1242,6 +1418,7 @@
       "number": 177,
       "verseKey": "26:177",
       "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+      "simpleArabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
       "transliteration": "Ith qala lahum shuAAaybun alatattaqoon",
       "translation": "When Shuʿayb said to them, \"Will you not fear Allāh?"
     },
@@ -1249,6 +1426,7 @@
       "number": 178,
       "verseKey": "26:178",
       "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "simpleArabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
       "transliteration": "Innee lakum rasoolun ameen",
       "translation": "Indeed, I am to you a trustworthy messenger."
     },
@@ -1256,6 +1434,7 @@
       "number": 179,
       "verseKey": "26:179",
       "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "simpleArabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
       "transliteration": "Fattaqoo Allaha waateeAAoon",
       "translation": "So fear Allāh and obey me."
     },
@@ -1263,6 +1442,7 @@
       "number": 180,
       "verseKey": "26:180",
       "arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
       "transliteration": "Wama as-alukum AAalayhi min ajrin inajriya illa AAala rabbi alAAalameen",
       "translation": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds."
     },
@@ -1270,6 +1450,7 @@
       "number": 181,
       "verseKey": "26:181",
       "arabic": "۞ أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ",
+      "simpleArabic": "أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ",
       "transliteration": "Awfoo alkayla wala takoonoo minaalmukhsireen",
       "translation": "Give full measure and do not be of those who cause loss."
     },
@@ -1277,6 +1458,7 @@
       "number": 182,
       "verseKey": "26:182",
       "arabic": "وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ",
+      "simpleArabic": "وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ",
       "transliteration": "Wazinoo bilqistasialmustaqeem",
       "translation": "And weigh with an even [i.e., honest] balance."
     },
@@ -1284,6 +1466,7 @@
       "number": 183,
       "verseKey": "26:183",
       "arabic": "وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "simpleArabic": "وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
       "transliteration": "Wala tabkhasoo annasaashyaahum wala taAAthaw fee al-ardimufsideen",
       "translation": "And do not deprive people of their due and do not commit abuse on earth, spreading corruption."
     },
@@ -1291,6 +1474,7 @@
       "number": 184,
       "verseKey": "26:184",
       "arabic": "وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ وَٱلْجِبِلَّةَ ٱلْأَوَّلِينَ",
+      "simpleArabic": "وَاتَّقُوا الَّذِي خَلَقَكُمْ وَالْجِبِلَّةَ الْأَوَّلِينَ",
       "transliteration": "Wattaqoo allathee khalaqakumwaljibillata al-awwaleen",
       "translation": "And fear He who created you and the former creation.\"[1059]"
     },
@@ -1298,6 +1482,7 @@
       "number": 185,
       "verseKey": "26:185",
       "arabic": "قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ",
+      "simpleArabic": "قَالُوا إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ",
       "transliteration": "Qaloo innama anta mina almusahhareen",
       "translation": "They said, \"You are only of those affected by magic."
     },
@@ -1305,6 +1490,7 @@
       "number": 186,
       "verseKey": "26:186",
       "arabic": "وَمَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلْكَـٰذِبِينَ",
+      "simpleArabic": "وَمَا أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَاذِبِينَ",
       "transliteration": "Wama anta illa basharunmithluna wa-in nathunnuka lamina alkathibeen",
       "translation": "You are but a man like ourselves, and indeed, we think you are among the liars."
     },
@@ -1312,6 +1498,7 @@
       "number": 187,
       "verseKey": "26:187",
       "arabic": "فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "simpleArabic": "فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ",
       "transliteration": "Faasqit AAalayna kisafan minaassama-i in kunta mina assadiqeen",
       "translation": "So cause to fall upon us fragments of the sky, if you should be of the truthful.\""
     },
@@ -1319,6 +1506,7 @@
       "number": 188,
       "verseKey": "26:188",
       "arabic": "قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ",
+      "simpleArabic": "قَالَ رَبِّي أَعْلَمُ بِمَا تَعْمَلُونَ",
       "transliteration": "Qala rabbee aAAlamu bimataAAmaloon",
       "translation": "He said, \"My Lord is most knowing of what you do.\""
     },
@@ -1326,6 +1514,7 @@
       "number": 189,
       "verseKey": "26:189",
       "arabic": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ ٱلظُّلَّةِ ۚ إِنَّهُۥ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "simpleArabic": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۚ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
       "transliteration": "Fakaththaboohu faakhathahumAAathabu yawmi aththullati innahu kanaAAathaba yawmin AAatheem",
       "translation": "And they denied him, so the punishment of the day of the black cloud seized them. Indeed, it was the punishment of a terrible day."
     },
@@ -1333,6 +1522,7 @@
       "number": 190,
       "verseKey": "26:190",
       "arabic": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "simpleArabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
       "transliteration": "Inna fee thalika laayatan wamakana aktharuhum mu/mineen",
       "translation": "Indeed in that is a sign, but most of them were not to be believers."
     },
@@ -1340,6 +1530,7 @@
       "number": 191,
       "verseKey": "26:191",
       "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "simpleArabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
       "transliteration": "Wa-inna rabbaka lahuwa alAAazeezu arraheem",
       "translation": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
     },
@@ -1347,6 +1538,7 @@
       "number": 192,
       "verseKey": "26:192",
       "arabic": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ",
       "transliteration": "Wa-innahu latanzeelu rabbi alAAalameen",
       "translation": "And indeed, it [i.e., the Qur’ān] is the revelation of the Lord of the worlds."
     },
@@ -1354,6 +1546,7 @@
       "number": 193,
       "verseKey": "26:193",
       "arabic": "نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ",
+      "simpleArabic": "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ",
       "transliteration": "Nazala bihi arroohu al-ameen",
       "translation": "The Trustworthy Spirit [i.e., Gabriel] has brought it down"
     },
@@ -1361,6 +1554,7 @@
       "number": 194,
       "verseKey": "26:194",
       "arabic": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
+      "simpleArabic": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ",
       "transliteration": "AAala qalbika litakoona mina almunthireen",
       "translation": "Upon your heart, [O Muḥammad] - that you may be of the warners"
     },
@@ -1368,6 +1562,7 @@
       "number": 195,
       "verseKey": "26:195",
       "arabic": "بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ",
+      "simpleArabic": "بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ",
       "transliteration": "Bilisanin AAarabiyyin mubeen",
       "translation": "In a clear Arabic language."
     },
@@ -1375,6 +1570,7 @@
       "number": 196,
       "verseKey": "26:196",
       "arabic": "وَإِنَّهُۥ لَفِى زُبُرِ ٱلْأَوَّلِينَ",
+      "simpleArabic": "وَإِنَّهُ لَفِي زُبُرِ الْأَوَّلِينَ",
       "transliteration": "Wa-innahu lafee zuburi al-awwaleen",
       "translation": "And indeed, it is [mentioned] in the scriptures of former peoples."
     },
@@ -1382,6 +1578,7 @@
       "number": 197,
       "verseKey": "26:197",
       "arabic": "أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ",
+      "simpleArabic": "أَوَلَمْ يَكُن لَّهُمْ آيَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِي إِسْرَائِيلَ",
       "transliteration": "Awa lam yakun lahum ayatan anyaAAlamahu AAulamao banee isra-eel",
       "translation": "And has it not been a sign to them that it is recognized by the scholars of the Children of Israel?"
     },
@@ -1389,6 +1586,7 @@
       "number": 198,
       "verseKey": "26:198",
       "arabic": "وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ بَعْضِ ٱلْأَعْجَمِينَ",
+      "simpleArabic": "وَلَوْ نَزَّلْنَاهُ عَلَىٰ بَعْضِ الْأَعْجَمِينَ",
       "transliteration": "Walaw nazzalnahu AAala baAAdial-aAAjameen",
       "translation": "And even if We had revealed it to one among the foreigners[1060]"
     },
@@ -1396,6 +1594,7 @@
       "number": 199,
       "verseKey": "26:199",
       "arabic": "فَقَرَأَهُۥ عَلَيْهِم مَّا كَانُوا۟ بِهِۦ مُؤْمِنِينَ",
+      "simpleArabic": "فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ",
       "transliteration": "Faqaraahu AAalayhim ma kanoobihi mu/mineen",
       "translation": "And he had recited it to them [perfectly],[1061] they would [still] not have been believers in it."
     },
@@ -1403,6 +1602,7 @@
       "number": 200,
       "verseKey": "26:200",
       "arabic": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى قُلُوبِ ٱلْمُجْرِمِينَ",
+      "simpleArabic": "كَذَٰلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ",
       "transliteration": "Kathalika salaknahu feequloobi almujrimeen",
       "translation": "Thus have We inserted it [i.e., disbelief] into the hearts of the criminals."
     },
@@ -1410,6 +1610,7 @@
       "number": 201,
       "verseKey": "26:201",
       "arabic": "لَا يُؤْمِنُونَ بِهِۦ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "simpleArabic": "لَا يُؤْمِنُونَ بِهِ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ",
       "transliteration": "La yu/minoona bihi hattayarawoo alAAathaba al-aleem",
       "translation": "They will not believe in it until they see the painful punishment."
     },
@@ -1417,6 +1618,7 @@
       "number": 202,
       "verseKey": "26:202",
       "arabic": "فَيَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "simpleArabic": "فَيَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
       "transliteration": "Faya/tiyahum baghtatan wahum layashAAuroon",
       "translation": "And it will come to them suddenly while they perceive [it] not."
     },
@@ -1424,6 +1626,7 @@
       "number": 203,
       "verseKey": "26:203",
       "arabic": "فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ",
+      "simpleArabic": "فَيَقُولُوا هَلْ نَحْنُ مُنظَرُونَ",
       "transliteration": "Fayaqooloo hal nahnu muntharoon",
       "translation": "And they will say, \"May we be reprieved?\""
     },
@@ -1431,6 +1634,7 @@
       "number": 204,
       "verseKey": "26:204",
       "arabic": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "simpleArabic": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
       "transliteration": "AfabiAAathabina yastaAAjiloon",
       "translation": "So for Our punishment are they impatient?"
     },
@@ -1438,6 +1642,7 @@
       "number": 205,
       "verseKey": "26:205",
       "arabic": "أَفَرَءَيْتَ إِن مَّتَّعْنَـٰهُمْ سِنِينَ",
+      "simpleArabic": "أَفَرَأَيْتَ إِن مَّتَّعْنَاهُمْ سِنِينَ",
       "transliteration": "Afaraayta in mattaAAnahum sineen",
       "translation": "Then have you considered if We gave them enjoyment for years"
     },
@@ -1445,6 +1650,7 @@
       "number": 206,
       "verseKey": "26:206",
       "arabic": "ثُمَّ جَآءَهُم مَّا كَانُوا۟ يُوعَدُونَ",
+      "simpleArabic": "ثُمَّ جَاءَهُم مَّا كَانُوا يُوعَدُونَ",
       "transliteration": "Thumma jaahum ma kanooyooAAadoon",
       "translation": "And then there came to them that which they were promised?"
     },
@@ -1452,6 +1658,7 @@
       "number": 207,
       "verseKey": "26:207",
       "arabic": "مَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يُمَتَّعُونَ",
+      "simpleArabic": "مَا أَغْنَىٰ عَنْهُم مَّا كَانُوا يُمَتَّعُونَ",
       "transliteration": "Ma aghna AAanhum ma kanooyumattaAAoon",
       "translation": "They would not be availed by the enjoyment with which they were provided."
     },
@@ -1459,6 +1666,7 @@
       "number": 208,
       "verseKey": "26:208",
       "arabic": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+      "simpleArabic": "وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
       "transliteration": "Wama ahlakna min qaryatin illalaha munthiroon",
       "translation": "And We did not destroy any city except that it had warners"
     },
@@ -1466,6 +1674,7 @@
       "number": 209,
       "verseKey": "26:209",
       "arabic": "ذِكْرَىٰ وَمَا كُنَّا ظَـٰلِمِينَ",
+      "simpleArabic": "ذِكْرَىٰ وَمَا كُنَّا ظَالِمِينَ",
       "transliteration": "Thikra wama kunnathalimeen",
       "translation": "As a reminder; and never have We been unjust."
     },
@@ -1473,6 +1682,7 @@
       "number": 210,
       "verseKey": "26:210",
       "arabic": "وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ",
+      "simpleArabic": "وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ",
       "transliteration": "Wama tanazzalat bihi ashshayateen",
       "translation": "And the devils have not brought it [i.e., the revelation] down.[1062]"
     },
@@ -1480,6 +1690,7 @@
       "number": 211,
       "verseKey": "26:211",
       "arabic": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+      "simpleArabic": "وَمَا يَنبَغِي لَهُمْ وَمَا يَسْتَطِيعُونَ",
       "transliteration": "Wama yanbaghee lahum wamayastateeAAoon",
       "translation": "It is not allowable for them, nor would they be able."
     },
@@ -1487,6 +1698,7 @@
       "number": 212,
       "verseKey": "26:212",
       "arabic": "إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ",
+      "simpleArabic": "إِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُولُونَ",
       "transliteration": "Innahum AAani assamAAilamaAAzooloona",
       "translation": "Indeed they, from [its] hearing, are removed.[1063]"
     },
@@ -1494,6 +1706,7 @@
       "number": 213,
       "verseKey": "26:213",
       "arabic": "فَلَا تَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ",
+      "simpleArabic": "فَلَا تَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِينَ",
       "transliteration": "Fala tadAAu maAAa Allahi ilahanakhara fatakoona mina almuAAaththabeen",
       "translation": "So do not invoke[1064] with Allāh another deity and [thus] be among the punished."
     },
@@ -1501,6 +1714,7 @@
       "number": 214,
       "verseKey": "26:214",
       "arabic": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+      "simpleArabic": "وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ",
       "transliteration": "Waanthir AAasheerataka al-aqrabeen",
       "translation": "And warn, [O Muḥammad], your closest kindred."
     },
@@ -1508,6 +1722,7 @@
       "number": 215,
       "verseKey": "26:215",
       "arabic": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ",
       "transliteration": "Wakhfid janahakalimani ittabaAAaka mina almu/mineen",
       "translation": "And lower your wing [i.e., show kindness] to those who follow you of the believers."
     },
@@ -1515,6 +1730,7 @@
       "number": 216,
       "verseKey": "26:216",
       "arabic": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "simpleArabic": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِّمَّا تَعْمَلُونَ",
       "transliteration": "Fa-in AAasawka faqul innee baree-onmimma taAAmaloon",
       "translation": "And if they disobey you, then say, \"Indeed, I am disassociated from what you are doing.\""
     },
@@ -1522,6 +1738,7 @@
       "number": 217,
       "verseKey": "26:217",
       "arabic": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ",
+      "simpleArabic": "وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ",
       "transliteration": "Watawakkal AAala alAAazeezi arraheem",
       "translation": "And rely upon the Exalted in Might, the Merciful,"
     },
@@ -1529,6 +1746,7 @@
       "number": 218,
       "verseKey": "26:218",
       "arabic": "ٱلَّذِى يَرَىٰكَ حِينَ تَقُومُ",
+      "simpleArabic": "الَّذِي يَرَاكَ حِينَ تَقُومُ",
       "transliteration": "Allathee yaraka heenataqoom",
       "translation": "Who sees you when you arise[1065]"
     },
@@ -1536,6 +1754,7 @@
       "number": 219,
       "verseKey": "26:219",
       "arabic": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ",
+      "simpleArabic": "وَتَقَلُّبَكَ فِي السَّاجِدِينَ",
       "transliteration": "Wataqallubaka fee assajideen",
       "translation": "And your movement among those who prostrate.[1066]"
     },
@@ -1543,6 +1762,7 @@
       "number": 220,
       "verseKey": "26:220",
       "arabic": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "simpleArabic": "إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
       "transliteration": "Innahu huwa assameeAAu alAAaleem",
       "translation": "Indeed, He is the Hearing, the Knowing."
     },
@@ -1550,6 +1770,7 @@
       "number": 221,
       "verseKey": "26:221",
       "arabic": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَـٰطِينُ",
+      "simpleArabic": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ الشَّيَاطِينُ",
       "transliteration": "Hal onabbi-okum AAala man tanazzaluashshayateen",
       "translation": "Shall I inform you upon whom the devils descend?"
     },
@@ -1557,6 +1778,7 @@
       "number": 222,
       "verseKey": "26:222",
       "arabic": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+      "simpleArabic": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
       "transliteration": "Tanazzalu AAala kulli affakinatheem",
       "translation": "They descend upon every sinful liar."
     },
@@ -1564,6 +1786,7 @@
       "number": 223,
       "verseKey": "26:223",
       "arabic": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَـٰذِبُونَ",
+      "simpleArabic": "يُلْقُونَ السَّمْعَ وَأَكْثَرُهُمْ كَاذِبُونَ",
       "transliteration": "Yulqoona assamAAa waaktharuhum kathiboon",
       "translation": "They pass on what is heard,[1067] and most of them are liars."
     },
@@ -1571,6 +1794,7 @@
       "number": 224,
       "verseKey": "26:224",
       "arabic": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ",
+      "simpleArabic": "وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ",
       "transliteration": "WashshuAAaraoyattabiAAuhumu alghawoon",
       "translation": "And the poets - [only] the deviators follow them."
     },
@@ -1578,6 +1802,7 @@
       "number": 225,
       "verseKey": "26:225",
       "arabic": "أَلَمْ تَرَ أَنَّهُمْ فِى كُلِّ وَادٍ يَهِيمُونَ",
+      "simpleArabic": "أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ",
       "transliteration": "Alam tara annahum fee kulli wadinyaheemoon",
       "translation": "Do you not see that in every valley they roam[1068]"
     },
@@ -1585,6 +1810,7 @@
       "number": 226,
       "verseKey": "26:226",
       "arabic": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+      "simpleArabic": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
       "transliteration": "Waannahum yaqooloona ma layafAAaloon",
       "translation": "And that they say what they do not do? -"
     },
@@ -1592,6 +1818,7 @@
       "number": 227,
       "verseKey": "26:227",
       "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِيرًا وَٱنتَصَرُوا۟ مِنۢ بَعْدِ مَا ظُلِمُوا۟ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓا۟ أَىَّ مُنقَلَبٍ يَنقَلِبُونَ",
+      "simpleArabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ كَثِيرًا وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ",
       "transliteration": "Illa allatheena amanoowaAAamiloo assalihati wathakaroo Allahakatheeran wantasaroo min baAAdi ma thulimoowasayaAAlamu allatheena thalamoo ayyamunqalabin yanqaliboon",
       "translation": "Except those [poets] who believe and do righteous deeds and remember Allāh often and defend [the Muslims][1069] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned."
     }

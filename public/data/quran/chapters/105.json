@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "105:1",
       "arabic": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "simpleArabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
       "transliteration": "Alam tara kayfa faAAala rabbuka bi-as-habialfeel",
       "translation": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?[1992]"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "105:2",
       "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "simpleArabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
       "transliteration": "Alam yajAAal kaydahum fee tadleel",
       "translation": "Did He not make their plan into misguidance?[1993]"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "105:3",
       "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "simpleArabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
       "transliteration": "Waarsala AAalayhim tayran ababeel",
       "translation": "And He sent against them birds in flocks,"
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "105:4",
       "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "simpleArabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
       "transliteration": "Tarmeehim bihijaratin minsijjeel",
       "translation": "Striking them with stones of hard clay,"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "105:5",
       "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "simpleArabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
       "transliteration": "FajaAAalahum kaAAasfin ma/kool",
       "translation": "And He made them like eaten straw.[1994]"
     }

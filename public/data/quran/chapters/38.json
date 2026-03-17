@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "38:1",
       "arabic": " صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+      "simpleArabic": "ص ۚ وَالْقُرْآنِ ذِي الذِّكْرِ",
       "transliteration": "Sad walqur-ani theeaththikr",
       "translation": "Ṣād.[1316] By the Qur’ān containing reminder...[1317]"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "38:2",
       "arabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى عِزَّةٍ وَشِقَاقٍ",
+      "simpleArabic": "بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ",
       "transliteration": "Bali allatheena kafaroo fee AAizzatinwashiqaq",
       "translation": "But those who disbelieve are in pride and dissension."
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "38:3",
       "arabic": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ",
+      "simpleArabic": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا وَّلَاتَ حِينَ مَنَاصٍ",
       "transliteration": "Kam ahlakna min qablihim min qarninfanadaw walata heena manas",
       "translation": "How many a generation have We destroyed before them, and they [then] called out; but it was not a time for escape."
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "38:4",
       "arabic": "وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌ كَذَّابٌ",
+      "simpleArabic": "وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ الْكَافِرُونَ هَٰذَا سَاحِرٌ كَذَّابٌ",
       "transliteration": "WaAAajiboo an jaahum munthirunminhum waqala alkafiroona hatha sahirunkaththab",
       "translation": "And they wonder that there has come to them a warner [i.e., Prophet Muḥammad (ﷺ)] from among themselves. And the disbelievers say, \"This is a magician and a liar."
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "38:5",
       "arabic": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًا وَٰحِدًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌ",
+      "simpleArabic": "أَجَعَلَ الْآلِهَةَ إِلَٰهًا وَاحِدًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عُجَابٌ",
       "transliteration": "AjaAAala al-alihata ilahan wahidaninna hatha lashay-on AAujab",
       "translation": "Has he made the gods [only] one God? Indeed, this is a curious thing.\""
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "38:6",
       "arabic": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ ۖ إِنَّ هَـٰذَا لَشَىْءٌ يُرَادُ",
+      "simpleArabic": "وَانطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَىٰ آلِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ",
       "transliteration": "Wantalaqa almalao minhum aniimshoo wasbiroo AAala alihatikuminna hatha lashay-on yurad",
       "translation": "And the eminent among them went forth, [saying], \"Continue, and be patient over [the defense of] your gods. Indeed, this is a thing intended.[1318]"
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "38:7",
       "arabic": "مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلْـَٔاخِرَةِ إِنْ هَـٰذَآ إِلَّا ٱخْتِلَـٰقٌ",
+      "simpleArabic": "مَا سَمِعْنَا بِهَٰذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ هَٰذَا إِلَّا اخْتِلَاقٌ",
       "transliteration": "Ma samiAAna bihatha feealmillati al-akhirati in hatha illa ikhtilaq",
       "translation": "We have not heard of this in the latest religion.[1319] This is not but a fabrication."
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "38:8",
       "arabic": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ",
+      "simpleArabic": "أَأُنزِلَ عَلَيْهِ الذِّكْرُ مِن بَيْنِنَا ۚ بَلْ هُمْ فِي شَكٍّ مِّن ذِكْرِي ۖ بَل لَّمَّا يَذُوقُوا عَذَابِ",
       "transliteration": "Aonzila AAalayhi aththikru minbaynina bal hum fee shakkin min thikree bal lammayathooqoo AAathab",
       "translation": "Has the message been revealed to him out of [all of] us?\" Rather, they are in doubt about My message. Rather, they have not yet tasted My punishment."
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "38:9",
       "arabic": "أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+      "simpleArabic": "أَمْ عِندَهُمْ خَزَائِنُ رَحْمَةِ رَبِّكَ الْعَزِيزِ الْوَهَّابِ",
       "transliteration": "Am AAindahum khaza-inu rahmatirabbika alAAazeezi alwahhab",
       "translation": "Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower?[1320]"
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "38:10",
       "arabic": "أَمْ لَهُم مُّلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَـٰبِ",
+      "simpleArabic": "أَمْ لَهُم مُّلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا فِي الْأَسْبَابِ",
       "transliteration": "Am lahum mulku assamawatiwal-ardi wama baynahuma falyartaqoofee al-asbab",
       "translation": "Or is theirs the dominion of the heavens and the earth and what is between them? Then let them ascend through [any] ways of access.[1321]"
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "38:11",
       "arabic": "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ",
+      "simpleArabic": "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ الْأَحْزَابِ",
       "transliteration": "Jundun ma hunalika mahzoomunmina al-ahzab",
       "translation": "[They are but] soldiers [who will be] defeated there among the companies [of disbelievers]."
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "38:12",
       "arabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ",
+      "simpleArabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو الْأَوْتَادِ",
       "transliteration": "Kaththabat qablahum qawmu noohinwaAAadun wafirAAawnu thoo al-awtad",
       "translation": "The people of Noah denied before them, and [the tribe of] ʿAad and Pharaoh, the owner of stakes,[1322]"
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "38:13",
       "arabic": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَـٰبُ لْـَٔيْكَةِ ۚ أُو۟لَـٰٓئِكَ ٱلْأَحْزَابُ",
+      "simpleArabic": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَابُ الْأَيْكَةِ ۚ أُولَٰئِكَ الْأَحْزَابُ",
       "transliteration": "Wathamoodu waqawmu lootin waas-habual-aykati ola-ika al-ahzab",
       "translation": "And [the tribe of] Thamūd and the people of Lot and the companions of the thicket [i.e., people of Madyan]. Those are the companies.[1323]"
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "38:14",
       "arabic": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+      "simpleArabic": "إِن كُلٌّ إِلَّا كَذَّبَ الرُّسُلَ فَحَقَّ عِقَابِ",
       "transliteration": "In kullun illa kaththaba arrusulafahaqqa AAiqab",
       "translation": "Each of them denied the messengers, so My penalty was justified."
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "38:15",
       "arabic": "وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةً وَٰحِدَةً مَّا لَهَا مِن فَوَاقٍ",
+      "simpleArabic": "وَمَا يَنظُرُ هَٰؤُلَاءِ إِلَّا صَيْحَةً وَاحِدَةً مَّا لَهَا مِن فَوَاقٍ",
       "transliteration": "Wama yanthuru haola-iilla sayhatan wahidatan ma lahamin fawaq",
       "translation": "And these [disbelievers] await not but one blast [of the Horn]; for it there will be no delay.[1324]"
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "38:16",
       "arabic": "وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ",
+      "simpleArabic": "وَقَالُوا رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ الْحِسَابِ",
       "transliteration": "Waqaloo rabbana AAajjil lanaqittana qabla yawmi alhisab",
       "translation": "And they say, \"Our Lord, hasten for us our share [of the punishment] before the Day of Account.\""
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "38:17",
       "arabic": "ٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا دَاوُۥدَ ذَا ٱلْأَيْدِ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "simpleArabic": "اصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ ۖ إِنَّهُ أَوَّابٌ",
       "transliteration": "Isbir AAala mayaqooloona wathkur AAabdana dawooda thaal-aydi innahu awwab",
       "translation": "Be patient over what they say and remember Our servant, David, the possessor of strength; indeed, he was one who repeatedly turned back [to Allāh]."
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "38:18",
       "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+      "simpleArabic": "إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَاقِ",
       "transliteration": "Inna sakhkharna aljibalamaAAahu yusabbihna bilAAashiyyi wal-ishraq",
       "translation": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise."
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "38:19",
       "arabic": "وَٱلطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَّهُۥٓ أَوَّابٌ",
+      "simpleArabic": "وَالطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَّهُ أَوَّابٌ",
       "transliteration": "Wattayra mahshooratankullun lahu awwab",
       "translation": "And the birds were assembled, all with him repeating [praises]."
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "38:20",
       "arabic": "وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَـٰهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ",
+      "simpleArabic": "وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ",
       "transliteration": "Washadadna mulkahu waataynahualhikmata wafasla alkhitab",
       "translation": "And We strengthened his kingdom and gave him wisdom and discernment in speech."
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "38:21",
       "arabic": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ",
+      "simpleArabic": "وَهَلْ أَتَاكَ نَبَأُ الْخَصْمِ إِذْ تَسَوَّرُوا الْمِحْرَابَ",
       "transliteration": "Wahal ataka nabao alkhasmi ithtasawwaroo almihrab",
       "translation": "And has there come to you the news of the adversaries, when they climbed over the wall of [his] prayer chamber -"
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "38:22",
       "arabic": "إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "simpleArabic": "إِذْ دَخَلُوا عَلَىٰ دَاوُودَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَلَا تُشْطِطْ وَاهْدِنَا إِلَىٰ سَوَاءِ الصِّرَاطِ",
       "transliteration": "Ith dakhaloo AAala dawoodafafaziAAa minhum qaloo la takhaf khasmanibagha baAAduna AAala baAAdinfahkum baynana bilhaqqi walatushtit wahdina ila sawa-iassirat",
       "translation": "When they entered upon David and he was alarmed by them? They said, \"Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path."
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "38:23",
       "arabic": "إِنَّ هَـٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ",
+      "simpleArabic": "إِنَّ هَٰذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نَعْجَةٌ وَاحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِي فِي الْخِطَابِ",
       "transliteration": "Inna hatha akhee lahu tisAAunwatisAAoona naAAjatan waliya naAAjatun wahidatun faqalaakfilneeha waAAazzanee fee alkhitab",
       "translation": "Indeed this, my brother, has ninety-nine ewes, and I have one ewe; so he said, 'Entrust her to me,' and he overpowered me in speech.\""
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "38:24",
       "arabic": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَقَلِيلٌ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّـٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ ۩",
+      "simpleArabic": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِ ۖ وَإِنَّ كَثِيرًا مِّنَ الْخُلَطَاءِ لَيَبْغِي بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَقَلِيلٌ مَّا هُمْ ۗ وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ",
       "transliteration": "Qala laqad thalamakabisu-ali naAAjatika ila niAAajihi wa-innakatheeran mina alkhulata-i layabghee baAAduhum AAalabaAAdin illa allatheena amanoowaAAamiloo assalihati waqaleelun mahum wathanna dawoodu annama fatannahufastaghfara rabbahu wakharra rakiAAan waanab",
       "translation": "[David] said, \"He has certainly wronged you in demanding your ewe [in addition] to his ewes. And indeed, many associates oppress one another, except for those who believe and do righteous deeds - and few are they.\" And David became certain that We had tried him, and he asked forgiveness of his Lord[1325] and fell down bowing [in prostration] and turned in repentance [to Allāh]."
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "38:25",
       "arabic": "فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ",
+      "simpleArabic": "فَغَفَرْنَا لَهُ ذَٰلِكَ ۖ وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ",
       "transliteration": "Faghafarna lahu thalikawa-inna lahu AAindana lazulfa wahusna maab",
       "translation": "So We forgave him that; and indeed, for him is nearness to Us and a good place of return."
     },
@@ -185,6 +210,7 @@
       "number": 26,
       "verseKey": "38:26",
       "arabic": "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ",
+      "simpleArabic": "يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ ۚ إِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ بِمَا نَسُوا يَوْمَ الْحِسَابِ",
       "transliteration": "Ya dawoodu inna jaAAalnakakhaleefatan fee al-ardi fahkum bayna annasibilhaqqi wala tattabiAAi alhawa fayudillakaAAan sabeeli Allahi inna allatheena yadilloonaAAan sabeeli Allahi lahum AAathabun shadeedun bimanasoo yawma alhisab",
       "translation": "[We said], \"O David, indeed We have made you a successor upon the earth, so judge between the people in truth and do not follow [your own] desire, as it will lead you astray from the way of Allāh.\" Indeed, those who go astray from the way of Allāh will have a severe punishment for having forgotten the Day of Account."
     },
@@ -192,6 +218,7 @@
       "number": 27,
       "verseKey": "38:27",
       "arabic": "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَـٰطِلًا ۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟ ۚ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ",
+      "simpleArabic": "وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُوا ۚ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِنَ النَّارِ",
       "transliteration": "Wama khalaqna assamaawal-arda wama baynahuma batilanthalika thannu allatheena kafaroofawaylun lillatheena kafaroo mina annar",
       "translation": "And We did not create the heaven and the earth and that between them aimlessly. That is the assumption of those who disbelieve, so woe to those who disbelieve from the Fire."
     },
@@ -199,6 +226,7 @@
       "number": 28,
       "verseKey": "38:28",
       "arabic": "أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ",
+      "simpleArabic": "أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ",
       "transliteration": "Am najAAalu allatheena amanoowaAAamiloo assalihati kalmufsideenafee al-ardi am najAAalu almuttaqeena kalfujjar",
       "translation": "Or should We treat those who believe and do righteous deeds like corrupters in the land? Or should We treat those who fear Allāh like the wicked?"
     },
@@ -206,6 +234,7 @@
       "number": 29,
       "verseKey": "38:29",
       "arabic": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "simpleArabic": "كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِّيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ",
       "transliteration": "Kitabun anzalnahu ilayka mubarakunliyaddabbaroo ayatihi waliyatathakkara olooal-albab",
       "translation": "[This is] a blessed Book which We have revealed to you, [O Muḥammad], that they might reflect upon its verses and that those of understanding would be reminded."
     },
@@ -213,6 +242,7 @@
       "number": 30,
       "verseKey": "38:30",
       "arabic": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَـٰنَ ۚ نِعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "simpleArabic": "وَوَهَبْنَا لِدَاوُودَ سُلَيْمَانَ ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ",
       "transliteration": "Wawahabna lidawooda sulaymananiAAma alAAabdu innahu awwab",
       "translation": "And to David We gave Solomon. An excellent servant, indeed he was one repeatedly turning back [to Allāh]."
     },
@@ -220,6 +250,7 @@
       "number": 31,
       "verseKey": "38:31",
       "arabic": "إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّـٰفِنَـٰتُ ٱلْجِيَادُ",
+      "simpleArabic": "إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ الصَّافِنَاتُ الْجِيَادُ",
       "transliteration": "Ith AAurida AAalayhi bilAAashiyyiassafinatu aljiyad",
       "translation": "[Mention] when there were exhibited before him in the afternoon the poised [standing] racehorses."
     },
@@ -227,6 +258,7 @@
       "number": 32,
       "verseKey": "38:32",
       "arabic": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+      "simpleArabic": "فَقَالَ إِنِّي أَحْبَبْتُ حُبَّ الْخَيْرِ عَن ذِكْرِ رَبِّي حَتَّىٰ تَوَارَتْ بِالْحِجَابِ",
       "transliteration": "Faqala innee ahbabtu hubbaalkhayri AAan thikri rabbee hatta tawaratbilhijab",
       "translation": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\""
     },
@@ -234,6 +266,7 @@
       "number": 33,
       "verseKey": "38:33",
       "arabic": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
+      "simpleArabic": "رُدُّوهَا عَلَيَّ ۖ فَطَفِقَ مَسْحًا بِالسُّوقِ وَالْأَعْنَاقِ",
       "transliteration": "Ruddooha AAalayya fatafiqa mashanbissooqi wal-aAAnaq",
       "translation": "[He said], \"Return them to me,\" and set about striking[1326] [their] legs and necks."
     },
@@ -241,6 +274,7 @@
       "number": 34,
       "verseKey": "38:34",
       "arabic": "وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ",
+      "simpleArabic": "وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِ جَسَدًا ثُمَّ أَنَابَ",
       "transliteration": "Walaqad fatanna sulaymanawaalqayna AAala kursiyyihi jasadan thumma anab",
       "translation": "And We certainly tried Solomon and placed on his throne a body;[1327] then he returned.[1328]"
     },
@@ -248,6 +282,7 @@
       "number": 35,
       "verseKey": "38:35",
       "arabic": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "simpleArabic": "قَالَ رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي ۖ إِنَّكَ أَنتَ الْوَهَّابُ",
       "transliteration": "Qala rabbi ighfir lee wahab leemulkan la yanbaghee li-ahadin min baAAdee innakaanta alwahhab",
       "translation": "He said, \"My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are the Bestower.\""
     },
@@ -255,6 +290,7 @@
       "number": 36,
       "verseKey": "38:36",
       "arabic": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ",
+      "simpleArabic": "فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ أَصَابَ",
       "transliteration": "Fasakhkharna lahu arreehatajree bi-amrihi rukhaan haythu asab",
       "translation": "So We subjected to him the wind blowing by his command, gently, wherever he directed,"
     },
@@ -262,6 +298,7 @@
       "number": 37,
       "verseKey": "38:37",
       "arabic": "وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍ وَغَوَّاصٍ",
+      "simpleArabic": "وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ",
       "transliteration": "Washshayateena kulla banna-inwaghawwas",
       "translation": "And [also] the devils [of jinn] - every builder and diver"
     },
@@ -269,6 +306,7 @@
       "number": 38,
       "verseKey": "38:38",
       "arabic": "وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+      "simpleArabic": "وَآخَرِينَ مُقَرَّنِينَ فِي الْأَصْفَادِ",
       "transliteration": "Waakhareena muqarraneena fee al-asfad",
       "translation": "And others bound together in irons."
     },
@@ -276,6 +314,7 @@
       "number": 39,
       "verseKey": "38:39",
       "arabic": "هَـٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "simpleArabic": "هَٰذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
       "transliteration": "Hatha AAataona famnunaw amsik bighayri hisab",
       "translation": "[We said], \"This is Our gift, so grant or withhold without account.\""
     },
@@ -283,6 +322,7 @@
       "number": 40,
       "verseKey": "38:40",
       "arabic": "وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ",
+      "simpleArabic": "وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ",
       "transliteration": "Wa-inna lahu AAindana lazulfawahusna maab",
       "translation": "And indeed, for him is nearness to Us and a good place of return."
     },
@@ -290,6 +330,7 @@
       "number": 41,
       "verseKey": "38:41",
       "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍ وَعَذَابٍ",
+      "simpleArabic": "وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ",
       "transliteration": "Wathkur AAabdanaayyooba ith nada rabbahu annee massaniya ashshaytanubinusbin waAAathab",
       "translation": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\""
     },
@@ -297,6 +338,7 @@
       "number": 42,
       "verseKey": "38:42",
       "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌ وَشَرَابٌ",
+      "simpleArabic": "ارْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ",
       "transliteration": "Orkud birijlika hathamughtasalun baridun washarab",
       "translation": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\""
     },
@@ -304,6 +346,7 @@
       "number": 43,
       "verseKey": "38:43",
       "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+      "simpleArabic": "وَوَهَبْنَا لَهُ أَهْلَهُ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُولِي الْأَلْبَابِ",
       "transliteration": "Wawahabna lahu ahlahu wamithlahummaAAahum rahmatan minna wathikrali-olee al-albab",
       "translation": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding."
     },
@@ -311,6 +354,7 @@
       "number": 44,
       "verseKey": "38:44",
       "arabic": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَـٰهُ صَابِرًا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "simpleArabic": "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِّعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ",
       "transliteration": "Wakhuth biyadika dighthan fadribbihi wala tahnath inna wajadnahu sabiranniAAma alAAabdu innahu awwab",
       "translation": "[We said], \"And take in your hand a bunch [of grass] and strike with it and do not break your oath.\"[1329] Indeed, We found him patient, an excellent servant. Indeed, he was one repeatedly turning back [to Allāh]."
     },
@@ -318,6 +362,7 @@
       "number": 45,
       "verseKey": "38:45",
       "arabic": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَـٰرِ",
+      "simpleArabic": "وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي الْأَيْدِي وَالْأَبْصَارِ",
       "transliteration": "Wathkur AAibadanaibraheema wa-ishaqa wayaAAqooba olee al-aydee wal-absar",
       "translation": "And remember Our servants, Abraham, Isaac and Jacob - those of strength and [religious] vision."
     },
@@ -325,6 +370,7 @@
       "number": 46,
       "verseKey": "38:46",
       "arabic": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ",
+      "simpleArabic": "إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَى الدَّارِ",
       "transliteration": "Inna akhlasnahum bikhalisatinthikra addar",
       "translation": "Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter]."
     },
@@ -332,6 +378,7 @@
       "number": 47,
       "verseKey": "38:47",
       "arabic": "وَإِنَّهُمْ عِندَنَا لَمِنَ ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ",
+      "simpleArabic": "وَإِنَّهُمْ عِندَنَا لَمِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ",
       "transliteration": "Wa-innahum AAindana lamina almustafaynaal-akhyar",
       "translation": "And indeed they are, to Us, among the chosen and outstanding."
     },
@@ -339,6 +386,7 @@
       "number": 48,
       "verseKey": "38:48",
       "arabic": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
+      "simpleArabic": "وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ ۖ وَكُلٌّ مِّنَ الْأَخْيَارِ",
       "transliteration": "Wathkur ismaAAeelawa-ilyasaAAa watha alkifli wakullun mina al-akhyar",
       "translation": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding."
     },
@@ -346,6 +394,7 @@
       "number": 49,
       "verseKey": "38:49",
       "arabic": "هَـٰذَا ذِكْرٌ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَـَٔابٍ",
+      "simpleArabic": "هَٰذَا ذِكْرٌ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَآبٍ",
       "transliteration": "Hatha thikrun wa-innalilmuttaqeena lahusna maab",
       "translation": "This is a reminder. And indeed, for the righteous is a good place of return -"
     },
@@ -353,6 +402,7 @@
       "number": 50,
       "verseKey": "38:50",
       "arabic": "جَنَّـٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ",
+      "simpleArabic": "جَنَّاتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ الْأَبْوَابُ",
       "transliteration": "Jannati AAadnin mufattahatanlahumu al-abwab",
       "translation": "Gardens of perpetual residence, whose doors will be opened to them."
     },
@@ -360,6 +410,7 @@
       "number": 51,
       "verseKey": "38:51",
       "arabic": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ فِيهَا بِفَـٰكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+      "simpleArabic": "مُتَّكِئِينَ فِيهَا يَدْعُونَ فِيهَا بِفَاكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
       "transliteration": "Muttaki-eena feeha yadAAoona feehabifakihatin katheeratin washarab",
       "translation": "Reclining within them, they will call therein for abundant fruit and drink."
     },
@@ -367,6 +418,7 @@
       "number": 52,
       "verseKey": "38:52",
       "arabic": "۞ وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ أَتْرَابٌ",
+      "simpleArabic": "وَعِندَهُمْ قَاصِرَاتُ الطَّرْفِ أَتْرَابٌ",
       "transliteration": "WaAAindahum qasiratu attarfiatrab",
       "translation": "And with them will be women limiting [their] glances[1330] and of equal age."
     },
@@ -374,6 +426,7 @@
       "number": 53,
       "verseKey": "38:53",
       "arabic": "هَـٰذَا مَا تُوعَدُونَ لِيَوْمِ ٱلْحِسَابِ",
+      "simpleArabic": "هَٰذَا مَا تُوعَدُونَ لِيَوْمِ الْحِسَابِ",
       "transliteration": "Hatha ma tooAAadoona liyawmialhisab",
       "translation": "This is what you, [the righteous], are promised for the Day of Account."
     },
@@ -381,6 +434,7 @@
       "number": 54,
       "verseKey": "38:54",
       "arabic": "إِنَّ هَـٰذَا لَرِزْقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+      "simpleArabic": "إِنَّ هَٰذَا لَرِزْقُنَا مَا لَهُ مِن نَّفَادٍ",
       "transliteration": "Inna hatha larizquna malahu min nafad",
       "translation": "Indeed, this is Our provision; for it there is no depletion."
     },
@@ -388,6 +442,7 @@
       "number": 55,
       "verseKey": "38:55",
       "arabic": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ لَشَرَّ مَـَٔابٍ",
+      "simpleArabic": "هَٰذَا ۚ وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَآبٍ",
       "transliteration": "Hatha wa-inna littagheenalasharra maab",
       "translation": "This [is so]. But indeed, for the transgressors is an evil place of return -"
     },
@@ -395,6 +450,7 @@
       "number": 56,
       "verseKey": "38:56",
       "arabic": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ ٱلْمِهَادُ",
+      "simpleArabic": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ",
       "transliteration": "Jahannama yaslawnaha fabi/saalmihad",
       "translation": "Hell, which they will [enter to] burn, and wretched is the resting place."
     },
@@ -402,6 +458,7 @@
       "number": 57,
       "verseKey": "38:57",
       "arabic": "هَـٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ",
+      "simpleArabic": "هَٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ",
       "transliteration": "Hatha falyathooqoohu hameemunwaghassaq",
       "translation": "This - so let them taste it - is scalding water and [foul] purulence."
     },
@@ -409,6 +466,7 @@
       "number": 58,
       "verseKey": "38:58",
       "arabic": "وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ",
+      "simpleArabic": "وَآخَرُ مِن شَكْلِهِ أَزْوَاجٌ",
       "transliteration": "Waakharu min shaklihi azwaj",
       "translation": "And other [punishments] of its type [in various] kinds."
     },
@@ -416,6 +474,7 @@
       "number": 59,
       "verseKey": "38:59",
       "arabic": "هَـٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ",
+      "simpleArabic": "هَٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ ۖ لَا مَرْحَبًا بِهِمْ ۚ إِنَّهُمْ صَالُو النَّارِ",
       "transliteration": "Hatha fawjun muqtahimunmaAAakum la marhaban bihim innahum saloo annar",
       "translation": "[Its inhabitants will say], \"This is a company bursting in with you. No welcome for them. Indeed, they will burn in the Fire.\""
     },
@@ -423,6 +482,7 @@
       "number": 60,
       "verseKey": "38:60",
       "arabic": "قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ",
+      "simpleArabic": "قَالُوا بَلْ أَنتُمْ لَا مَرْحَبًا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ الْقَرَارُ",
       "transliteration": "Qaloo bal antum la marhabanbikum antum qaddamtumoohu lana fabi/sa alqarar",
       "translation": "They will say, \"Nor you! No welcome for you. You, [our leaders], brought this upon us, and wretched is the settlement.\""
     },
@@ -430,6 +490,7 @@
       "number": 61,
       "verseKey": "38:61",
       "arabic": "قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِى ٱلنَّارِ",
+      "simpleArabic": "قَالُوا رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ",
       "transliteration": "Qaloo rabbana man qaddama lanahatha fazidhu AAathaban diAAfan fee annar",
       "translation": "They will say, \"Our Lord, whoever brought this upon us - increase for him double punishment in the Fire.\""
     },
@@ -437,6 +498,7 @@
       "number": 62,
       "verseKey": "38:62",
       "arabic": "وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ",
+      "simpleArabic": "وَقَالُوا مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُم مِّنَ الْأَشْرَارِ",
       "transliteration": "Waqaloo ma lana lanara rijalan kunna naAAudduhum mina al-ashrar",
       "translation": "And they will say, \"Why do we not see men whom we used to count among the worst?[1331]"
     },
@@ -444,6 +506,7 @@
       "number": 63,
       "verseKey": "38:63",
       "arabic": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَـٰرُ",
+      "simpleArabic": "أَتَّخَذْنَاهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ الْأَبْصَارُ",
       "transliteration": "Attakhathnahum sikhriyyan am zaghatAAanhumu al-absar",
       "translation": "Is it [because] we took them in ridicule, or has [our] vision turned away from them?\""
     },
@@ -451,6 +514,7 @@
       "number": 64,
       "verseKey": "38:64",
       "arabic": "إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ ٱلنَّارِ",
+      "simpleArabic": "إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ",
       "transliteration": "Inna thalika lahaqqun takhasumuahli annar",
       "translation": "Indeed, that is truth [i.e., reality] - the quarreling of the people of the Fire."
     },
@@ -458,6 +522,7 @@
       "number": 65,
       "verseKey": "38:65",
       "arabic": "قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌ ۖ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "simpleArabic": "قُلْ إِنَّمَا أَنَا مُنذِرٌ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ",
       "transliteration": "Qul innama ana munthirunwama min ilahin illa Allahu alwahidualqahhar",
       "translation": "Say, [O Muḥammad], \"I am only a warner, and there is not any deity except Allāh, the One, the Prevailing,[1332]"
     },
@@ -465,6 +530,7 @@
       "number": 66,
       "verseKey": "38:66",
       "arabic": "رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلْعَزِيزُ ٱلْغَفَّـٰرُ",
+      "simpleArabic": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ",
       "transliteration": "Rabbu assamawati wal-ardiwama baynahuma alAAazeezu alghaffar",
       "translation": "Lord of the heavens and the earth and whatever is between them, the Exalted in Might,[1333] the Perpetual Forgiver.\"[1334]"
     },
@@ -472,6 +538,7 @@
       "number": 67,
       "verseKey": "38:67",
       "arabic": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ",
+      "simpleArabic": "قُلْ هُوَ نَبَأٌ عَظِيمٌ",
       "transliteration": "Qul huwa nabaon AAatheem",
       "translation": "Say, \"It is great news"
     },
@@ -479,6 +546,7 @@
       "number": 68,
       "verseKey": "38:68",
       "arabic": "أَنتُمْ عَنْهُ مُعْرِضُونَ",
+      "simpleArabic": "أَنتُمْ عَنْهُ مُعْرِضُونَ",
       "transliteration": "Antum AAanhu muAAridoon",
       "translation": "From which you turn away."
     },
@@ -486,6 +554,7 @@
       "number": 69,
       "verseKey": "38:69",
       "arabic": "مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ",
+      "simpleArabic": "مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلَإِ الْأَعْلَىٰ إِذْ يَخْتَصِمُونَ",
       "transliteration": "Ma kana liya min AAilmin bilmala-ial-aAAla ith yakhtasimoon",
       "translation": "I had no knowledge of the exalted assembly [of angels] when they were disputing [the creation of Adam]."
     },
@@ -493,6 +562,7 @@
       "number": 70,
       "verseKey": "38:70",
       "arabic": "إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "simpleArabic": "إِن يُوحَىٰ إِلَيَّ إِلَّا أَنَّمَا أَنَا نَذِيرٌ مُّبِينٌ",
       "transliteration": "In yooha ilayya illa annamaana natheerun mubeen",
       "translation": "It has not been revealed to me except that I am a clear warner.\""
     },
@@ -500,6 +570,7 @@
       "number": 71,
       "verseKey": "38:71",
       "arabic": "إِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن طِينٍ",
+      "simpleArabic": "إِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن طِينٍ",
       "transliteration": "Ith qala rabbuka lilmala-ikatiinnee khaliqun basharan min teen",
       "translation": "[So mention] when your Lord said to the angels, \"Indeed, I am going to create a human being from clay."
     },
@@ -507,6 +578,7 @@
       "number": 72,
       "verseKey": "38:72",
       "arabic": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ",
+      "simpleArabic": "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ",
       "transliteration": "Fa-itha sawwaytuhu wanafakhtu feehimin roohee faqaAAoo lahu sajideen",
       "translation": "So when I have proportioned him and breathed into him of My [created] soul,[1335] then fall down to him in prostration.\""
     },
@@ -514,6 +586,7 @@
       "number": 73,
       "verseKey": "38:73",
       "arabic": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "simpleArabic": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
       "transliteration": "Fasajada almala-ikatu kulluhumajmaAAoon",
       "translation": "So the angels prostrated - all of them entirely,"
     },
@@ -521,6 +594,7 @@
       "number": 74,
       "verseKey": "38:74",
       "arabic": "إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ",
+      "simpleArabic": "إِلَّا إِبْلِيسَ اسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
       "transliteration": "Illa ibleesa istakbara wakanamina alkafireen",
       "translation": "Except Iblees;[1336] he was arrogant and became among the disbelievers."
     },
@@ -528,6 +602,7 @@
       "number": 75,
       "verseKey": "38:75",
       "arabic": "قَالَ يَـٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ",
+      "simpleArabic": "قَالَ يَا إِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ الْعَالِينَ",
       "transliteration": "Qala ya ibleesu mamanaAAaka an tasjuda lima khalaqtu biyadayya astakbarta amkunta mina alAAaleen",
       "translation": "[Allāh] said, \"O Iblees, what prevented you from prostrating to that which I created with My hands?[1337] Were you arrogant [then], or were you [already] among the haughty?\""
     },
@@ -535,6 +610,7 @@
       "number": 76,
       "verseKey": "38:76",
       "arabic": "قَالَ أَنَا۠ خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
+      "simpleArabic": "قَالَ أَنَا خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ",
       "transliteration": "Qala ana khayrun minhukhalaqtanee min narin wakhalaqtahu min teen",
       "translation": "He said, \"I am better than him. You created me from fire and created him from clay.\""
     },
@@ -542,6 +618,7 @@
       "number": 77,
       "verseKey": "38:77",
       "arabic": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+      "simpleArabic": "قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
       "transliteration": "Qala fakhruj minhafa-innaka rajeem",
       "translation": "[Allāh] said, \"Then get out of it [i.e., Paradise], for indeed, you are expelled."
     },
@@ -549,6 +626,7 @@
       "number": 78,
       "verseKey": "38:78",
       "arabic": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "simpleArabic": "وَإِنَّ عَلَيْكَ لَعْنَتِي إِلَىٰ يَوْمِ الدِّينِ",
       "transliteration": "Wa-inna AAalayka laAAnatee ila yawmiaddeen",
       "translation": "And indeed, upon you is My curse until the Day of Recompense.\""
     },
@@ -556,6 +634,7 @@
       "number": 79,
       "verseKey": "38:79",
       "arabic": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "simpleArabic": "قَالَ رَبِّ فَأَنظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ",
       "transliteration": "Qala rabbi faanthirneeila yawmi yubAAathoon",
       "translation": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\""
     },
@@ -563,6 +642,7 @@
       "number": 80,
       "verseKey": "38:80",
       "arabic": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "simpleArabic": "قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ",
       "transliteration": "Qala fa-innaka mina almunthareen",
       "translation": "[Allāh] said, \"So indeed, you are of those reprieved"
     },
@@ -570,6 +650,7 @@
       "number": 81,
       "verseKey": "38:81",
       "arabic": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+      "simpleArabic": "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
       "transliteration": "Ila yawmi alwaqti almaAAloom",
       "translation": "Until the Day of the time well-known.\""
     },
@@ -577,6 +658,7 @@
       "number": 82,
       "verseKey": "38:82",
       "arabic": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+      "simpleArabic": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
       "transliteration": "Qala fabiAAizzatika laoghwiyannahumajmaAAeen",
       "translation": "[Iblees] said, \"By Your might, I will surely mislead them all"
     },
@@ -584,6 +666,7 @@
       "number": 83,
       "verseKey": "38:83",
       "arabic": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+      "simpleArabic": "إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ",
       "transliteration": "Illa AAibadaka minhumualmukhlaseen",
       "translation": "Except, among them, Your chosen servants.\""
     },
@@ -591,6 +674,7 @@
       "number": 84,
       "verseKey": "38:84",
       "arabic": "قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ",
+      "simpleArabic": "قَالَ فَالْحَقُّ وَالْحَقَّ أَقُولُ",
       "transliteration": "Qala falhaqqu walhaqqaaqool",
       "translation": "[Allāh] said, \"The truth [is My oath], and the truth I say -"
     },
@@ -598,6 +682,7 @@
       "number": 85,
       "verseKey": "38:85",
       "arabic": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
+      "simpleArabic": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
       "transliteration": "Laamlaanna jahannama minka wamimmantabiAAaka minhum ajmaAAeen",
       "translation": "[That] I will surely fill Hell with you and those of them that follow you all together.\""
     },
@@ -605,6 +690,7 @@
       "number": 86,
       "verseKey": "38:86",
       "arabic": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+      "simpleArabic": "قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ",
       "transliteration": "Qul ma as-alukum AAalayhi min ajrinwama ana mina almutakallifeen",
       "translation": "Say, [O Muḥammad], \"I do not ask you for it [i.e., the Qur’ān] any payment, and I am not of the pretentious."
     },
@@ -612,6 +698,7 @@
       "number": 87,
       "verseKey": "38:87",
       "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "simpleArabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
       "transliteration": "In huwa illa thikrun lilAAalameen",
       "translation": "It is but a reminder to the worlds."
     },
@@ -619,6 +706,7 @@
       "number": 88,
       "verseKey": "38:88",
       "arabic": "وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ",
+      "simpleArabic": "وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ",
       "transliteration": "WalataAAlamunna nabaahu baAAda heen",
       "translation": "And you will surely know [the truth of] its information after a time.\""
     }

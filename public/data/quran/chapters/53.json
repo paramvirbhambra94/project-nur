@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "53:1",
       "arabic": " وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "simpleArabic": "وَالنَّجْمِ إِذَا هَوَىٰ",
       "transliteration": "Wannajmi itha hawa",
       "translation": "By the star when it descends,"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "53:2",
       "arabic": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "simpleArabic": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
       "transliteration": "Ma dalla sahibukum wamaghawa",
       "translation": "Your companion [i.e., Muḥammad] has not strayed, nor has he erred,"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "53:3",
       "arabic": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+      "simpleArabic": "وَمَا يَنطِقُ عَنِ الْهَوَىٰ",
       "transliteration": "Wama yantiqu AAani alhawa",
       "translation": "Nor does he speak from [his own] inclination."
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "53:4",
       "arabic": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+      "simpleArabic": "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ",
       "transliteration": "In huwa illa wahyun yooha",
       "translation": "It is not but a revelation revealed,"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "53:5",
       "arabic": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+      "simpleArabic": "عَلَّمَهُ شَدِيدُ الْقُوَىٰ",
       "transliteration": "AAallamahu shadeedu alquwa",
       "translation": "Taught to him by one intense in strength [i.e., Gabriel] -"
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "53:6",
       "arabic": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "simpleArabic": "ذُو مِرَّةٍ فَاسْتَوَىٰ",
       "transliteration": "Thoo mirratin fastawa",
       "translation": "One of soundness.[1562] And he rose to [his] true form[1563]"
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "53:7",
       "arabic": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+      "simpleArabic": "وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ",
       "transliteration": "Wahuwa bil-ofuqi al-aAAla",
       "translation": "While he was in the higher [part of the] horizon.[1564]"
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "53:8",
       "arabic": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "simpleArabic": "ثُمَّ دَنَا فَتَدَلَّىٰ",
       "transliteration": "Thumma dana fatadalla",
       "translation": "Then he approached and descended"
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "53:9",
       "arabic": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+      "simpleArabic": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
       "transliteration": "Fakana qaba qawsayni aw adna",
       "translation": "And was at a distance of two bow lengths or nearer."
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "53:10",
       "arabic": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+      "simpleArabic": "فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ",
       "transliteration": "Faawha ila AAabdihi maawha",
       "translation": "And he revealed to His Servant[1565] what he revealed [i.e., conveyed]."
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "53:11",
       "arabic": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+      "simpleArabic": "مَا كَذَبَ الْفُؤَادُ مَا رَأَىٰ",
       "transliteration": "Ma kathaba alfu-adu maraa",
       "translation": "The heart[1566] did not lie [about] what it saw."
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "53:12",
       "arabic": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "simpleArabic": "أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ",
       "transliteration": "Afatumaroonahu AAala mayara",
       "translation": "So will you dispute with him over what he saw?"
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "53:13",
       "arabic": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+      "simpleArabic": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ",
       "transliteration": "Walaqad raahu nazlatan okhra",
       "translation": "And he certainly saw him in another descent[1567]"
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "53:14",
       "arabic": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+      "simpleArabic": "عِندَ سِدْرَةِ الْمُنتَهَىٰ",
       "transliteration": "AAinda sidrati almuntaha",
       "translation": "At the Lote Tree of the Utmost Boundary -"
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "53:15",
       "arabic": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+      "simpleArabic": "عِندَهَا جَنَّةُ الْمَأْوَىٰ",
       "transliteration": "AAindaha jannatu alma/wa",
       "translation": "Near it is the Garden of Refuge [i.e., Paradise] -"
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "53:16",
       "arabic": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+      "simpleArabic": "إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ",
       "transliteration": "Ith yaghsha assidratama yaghsha",
       "translation": "When there covered the Lote Tree that which covered [it].[1568]"
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "53:17",
       "arabic": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+      "simpleArabic": "مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ",
       "transliteration": "Ma zagha albasaru wamatagha",
       "translation": "The sight [of the Prophet (ﷺ)] did not swerve, nor did it transgress [its limit]."
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "53:18",
       "arabic": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+      "simpleArabic": "لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ",
       "transliteration": "Laqad raa min ayatirabbihi alkubra",
       "translation": "He certainly saw of the greatest signs of his Lord."
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "53:19",
       "arabic": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+      "simpleArabic": "أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ",
       "transliteration": "Afaraaytumu allata walAAuzza",
       "translation": "So have you considered al-Lāt and al-ʿUzzā?"
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "53:20",
       "arabic": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+      "simpleArabic": "وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ",
       "transliteration": "Wamanata aththalithataal-okhra",
       "translation": "And Manāt, the third - the other one?[1569]"
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "53:21",
       "arabic": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+      "simpleArabic": "أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنثَىٰ",
       "transliteration": "Alakumu aththakaru walahual-ontha",
       "translation": "Is the male for you and for Him the female?"
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "53:22",
       "arabic": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+      "simpleArabic": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ",
       "transliteration": "Tilka ithan qismatun deeza",
       "translation": "That, then, is an unjust division.[1570]"
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "53:23",
       "arabic": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "simpleArabic": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ ۚ إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ",
       "transliteration": "In hiya illa asmaonsammaytumooha antum waabaokum maanzala Allahu biha min sultanin inyattabiAAoona illa aththanna wamatahwa al-anfusu walaqad jaahum min rabbihimu alhuda",
       "translation": "They are not but [mere] names you have named them - you and your forefathers - for which Allāh has sent down no authority. They follow not except assumption and what [their] souls desire, and there has already come to them from their Lord guidance."
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "53:24",
       "arabic": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+      "simpleArabic": "أَمْ لِلْإِنسَانِ مَا تَمَنَّىٰ",
       "transliteration": "Am lil-insani ma tamanna",
       "translation": "Or is there for man whatever he wishes?"
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "53:25",
       "arabic": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+      "simpleArabic": "فَلِلَّهِ الْآخِرَةُ وَالْأُولَىٰ",
       "transliteration": "Falillahi al-akhiratu wal-oola",
       "translation": "Rather, to Allāh belongs the Hereafter and the first [life]."
     },
@@ -185,6 +210,7 @@
       "number": 26,
       "verseKey": "53:26",
       "arabic": "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+      "simpleArabic": "وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَاءُ وَيَرْضَىٰ",
       "transliteration": "Wakam min malakin fee assamawatila tughnee shafaAAatuhum shay-an illa minbaAAdi an ya/thana Allahu liman yashao wayarda",
       "translation": "And how many angels there are in the heavens whose intercession will not avail at all except [only] after Allāh has permitted [it] to whom He wills and approves."
     },
@@ -192,6 +218,7 @@
       "number": 27,
       "verseKey": "53:27",
       "arabic": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+      "simpleArabic": "إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ الْمَلَائِكَةَ تَسْمِيَةَ الْأُنثَىٰ",
       "transliteration": "Inna allatheena la yu/minoonabil-akhirati layusammoona almala-ikatatasmiyata al-ontha",
       "translation": "Indeed, those who do not believe in the Hereafter name the angels female names,"
     },
@@ -199,6 +226,7 @@
       "number": 28,
       "verseKey": "53:28",
       "arabic": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+      "simpleArabic": "وَمَا لَهُم بِهِ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا الظَّنَّ ۖ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا",
       "transliteration": "Wama lahum bihi min AAilmin inyattabiAAoona illa aththanna wa-innaaththanna la yughnee mina alhaqqishay-a",
       "translation": "And they have thereof no knowledge. They follow not except assumption, and indeed, assumption avails not against the truth at all."
     },
@@ -206,6 +234,7 @@
       "number": 29,
       "verseKey": "53:29",
       "arabic": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "simpleArabic": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا الْحَيَاةَ الدُّنْيَا",
       "transliteration": "FaaAArid AAan man tawalla AAanthikrina walam yurid illa alhayataaddunya",
       "translation": "So turn away from whoever turns his back on Our message and desires not except the worldly life."
     },
@@ -213,6 +242,7 @@
       "number": 30,
       "verseKey": "53:30",
       "arabic": "ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ",
+      "simpleArabic": "ذَٰلِكَ مَبْلَغُهُم مِّنَ الْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَىٰ",
       "transliteration": "Thalika mablaghuhum mina alAAilmiinna rabbaka huwa aAAlamu biman dalla AAan sabeelihiwahuwa aAAlamu bimani ihtada",
       "translation": "That is their sum of knowledge. Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of who is guided."
     },
@@ -220,6 +250,7 @@
       "number": 31,
       "verseKey": "53:31",
       "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "simpleArabic": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ لِيَجْزِيَ الَّذِينَ أَسَاءُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أَحْسَنُوا بِالْحُسْنَى",
       "transliteration": "Walillahi ma fee assamawatiwama fee al-ardi liyajziya allatheena asaoobima AAamiloo wayajziya allatheena ahsanoobilhusna",
       "translation": "And to Allāh belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward] -"
     },
@@ -227,6 +258,7 @@
       "number": 32,
       "verseKey": "53:32",
       "arabic": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "simpleArabic": "الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ ۚ إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ الْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِي بُطُونِ أُمَّهَاتِكُمْ ۖ فَلَا تُزَكُّوا أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ اتَّقَىٰ",
       "transliteration": "Allatheena yajtaniboona kaba-iraal-ithmi walfawahisha illa allamama innarabbaka wasiAAu almaghfirati huwa aAAlamu bikum ithanshaakum mina al-ardi wa-ith antum ajinnatun feebutooni ommahatikum fala tuzakkoo anfusakumhuwa aAAlamu bimani ittaqa",
       "translation": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him."
     },
@@ -234,6 +266,7 @@
       "number": 33,
       "verseKey": "53:33",
       "arabic": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+      "simpleArabic": "أَفَرَأَيْتَ الَّذِي تَوَلَّىٰ",
       "transliteration": "Afaraayta allathee tawalla",
       "translation": "Have you seen the one who turned away"
     },
@@ -241,6 +274,7 @@
       "number": 34,
       "verseKey": "53:34",
       "arabic": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+      "simpleArabic": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰ",
       "transliteration": "WaaAAta qaleelan waakda",
       "translation": "And gave a little and [then] refrained?"
     },
@@ -248,6 +282,7 @@
       "number": 35,
       "verseKey": "53:35",
       "arabic": "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ",
+      "simpleArabic": "أَعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَىٰ",
       "transliteration": "aAAindahu AAilmu alghaybi fahuwa yara",
       "translation": "Does he have knowledge of the unseen, so he sees?[1571]"
     },
@@ -255,6 +290,7 @@
       "number": 36,
       "verseKey": "53:36",
       "arabic": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+      "simpleArabic": "أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ",
       "transliteration": "Am lam yunabba/ bima fee suhufimoosa",
       "translation": "Or has he not been informed of what was in the scriptures of Moses"
     },
@@ -262,6 +298,7 @@
       "number": 37,
       "verseKey": "53:37",
       "arabic": "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ",
+      "simpleArabic": "وَإِبْرَاهِيمَ الَّذِي وَفَّىٰ",
       "transliteration": "Wa-ibraheema allathee waffa",
       "translation": "And [of] Abraham, who fulfilled [his obligations] -"
     },
@@ -269,6 +306,7 @@
       "number": 38,
       "verseKey": "53:38",
       "arabic": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+      "simpleArabic": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
       "transliteration": "Alla taziru waziratun wizraokhra",
       "translation": "That no bearer of burdens will bear the burden of another"
     },
@@ -276,6 +314,7 @@
       "number": 39,
       "verseKey": "53:39",
       "arabic": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+      "simpleArabic": "وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ",
       "transliteration": "Waan laysa lil-insani illa masaAAa",
       "translation": "And that there is not for man except that [good] for which he strives"
     },
@@ -283,6 +322,7 @@
       "number": 40,
       "verseKey": "53:40",
       "arabic": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+      "simpleArabic": "وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ",
       "transliteration": "Waanna saAAyahu sawfa yura",
       "translation": "And that his effort is going to be seen -"
     },
@@ -290,6 +330,7 @@
       "number": 41,
       "verseKey": "53:41",
       "arabic": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "simpleArabic": "ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَىٰ",
       "transliteration": "Thumma yujzahu aljazaa al-awfa",
       "translation": "Then he will be recompensed for it with the fullest recompense -"
     },
@@ -297,6 +338,7 @@
       "number": 42,
       "verseKey": "53:42",
       "arabic": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+      "simpleArabic": "وَأَنَّ إِلَىٰ رَبِّكَ الْمُنتَهَىٰ",
       "transliteration": "Waanna ila rabbika almuntaha",
       "translation": "And that to your Lord is the finality"
     },
@@ -304,6 +346,7 @@
       "number": 43,
       "verseKey": "53:43",
       "arabic": "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+      "simpleArabic": "وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَىٰ",
       "transliteration": "Waannahu huwa adhaka waabka",
       "translation": "And that it is He who makes [one] laugh and weep"
     },
@@ -311,6 +354,7 @@
       "number": 44,
       "verseKey": "53:44",
       "arabic": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+      "simpleArabic": "وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا",
       "transliteration": "Waannahu huwa amata waahya",
       "translation": "And that it is He who causes death and gives life"
     },
@@ -318,6 +362,7 @@
       "number": 45,
       "verseKey": "53:45",
       "arabic": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+      "simpleArabic": "وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ",
       "transliteration": "Waannahu khalaqa azzawjayni aththakarawal-ontha",
       "translation": "And that He creates the two mates - the male and female -"
     },
@@ -325,6 +370,7 @@
       "number": 46,
       "verseKey": "53:46",
       "arabic": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+      "simpleArabic": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
       "transliteration": "Min nutfatin itha tumna",
       "translation": "From a sperm-drop when it is emitted"
     },
@@ -332,6 +378,7 @@
       "number": 47,
       "verseKey": "53:47",
       "arabic": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+      "simpleArabic": "وَأَنَّ عَلَيْهِ النَّشْأَةَ الْأُخْرَىٰ",
       "transliteration": "Waanna AAalayhi annash-ata al-okhra",
       "translation": "And that [incumbent] upon Him is the other [i.e., next] creation."
     },
@@ -339,6 +386,7 @@
       "number": 48,
       "verseKey": "53:48",
       "arabic": "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+      "simpleArabic": "وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
       "transliteration": "Waannahu huwa aghna waaqna",
       "translation": "And that it is He who enriches and suffices"
     },
@@ -346,6 +394,7 @@
       "number": 49,
       "verseKey": "53:49",
       "arabic": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+      "simpleArabic": "وَأَنَّهُ هُوَ رَبُّ الشِّعْرَىٰ",
       "transliteration": "Waannahu huwa rabbu ashshiAAra",
       "translation": "And that it is He who is the Lord of Sirius[1572]"
     },
@@ -353,6 +402,7 @@
       "number": 50,
       "verseKey": "53:50",
       "arabic": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+      "simpleArabic": "وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَىٰ",
       "transliteration": "Waannahu ahlaka AAadan al-oola",
       "translation": "And that He destroyed the first [people of] ʿAad"
     },
@@ -360,6 +410,7 @@
       "number": 51,
       "verseKey": "53:51",
       "arabic": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+      "simpleArabic": "وَثَمُودَ فَمَا أَبْقَىٰ",
       "transliteration": "Wathamooda fama abqa",
       "translation": "And Thamūd - and He did not spare [them] -"
     },
@@ -367,6 +418,7 @@
       "number": 52,
       "verseKey": "53:52",
       "arabic": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ",
+      "simpleArabic": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ",
       "transliteration": "Waqawma noohin min qablu innahum kanoohum athlama waatgha",
       "translation": "And the people of Noah before. Indeed, it was they who were [even] more unjust and oppressing."
     },
@@ -374,6 +426,7 @@
       "number": 53,
       "verseKey": "53:53",
       "arabic": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+      "simpleArabic": "وَالْمُؤْتَفِكَةَ أَهْوَىٰ",
       "transliteration": "Walmu/tafikata ahwa",
       "translation": "And the overturned towns[1573] He hurled down"
     },
@@ -381,6 +434,7 @@
       "number": 54,
       "verseKey": "53:54",
       "arabic": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "simpleArabic": "فَغَشَّاهَا مَا غَشَّىٰ",
       "transliteration": "Faghashshaha ma ghashsha",
       "translation": "And covered them by that which He covered.[1574]"
     },
@@ -388,6 +442,7 @@
       "number": 55,
       "verseKey": "53:55",
       "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "simpleArabic": "فَبِأَيِّ آلَاءِ رَبِّكَ تَتَمَارَىٰ",
       "transliteration": "Fabi-ayyi ala-i rabbika tatamara",
       "translation": "Then which of the favors of your Lord do you doubt?"
     },
@@ -395,6 +450,7 @@
       "number": 56,
       "verseKey": "53:56",
       "arabic": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "simpleArabic": "هَٰذَا نَذِيرٌ مِّنَ النُّذُرِ الْأُولَىٰ",
       "transliteration": "Hatha natheerun mina annuthurial-oola",
       "translation": "This [Prophet (ﷺ)] is a warner from [i.e., like] the former warners."
     },
@@ -402,6 +458,7 @@
       "number": 57,
       "verseKey": "53:57",
       "arabic": "أَزِفَتِ ٱلْـَٔازِفَةُ",
+      "simpleArabic": "أَزِفَتِ الْآزِفَةُ",
       "transliteration": "Azifati al-azifat",
       "translation": "The Approaching Day has approached."
     },
@@ -409,6 +466,7 @@
       "number": 58,
       "verseKey": "53:58",
       "arabic": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "simpleArabic": "لَيْسَ لَهَا مِن دُونِ اللَّهِ كَاشِفَةٌ",
       "transliteration": "Laysa laha min dooni Allahi kashifat",
       "translation": "Of it, [from those] besides Allāh, there is no remover."
     },
@@ -416,6 +474,7 @@
       "number": 59,
       "verseKey": "53:59",
       "arabic": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+      "simpleArabic": "أَفَمِنْ هَٰذَا الْحَدِيثِ تَعْجَبُونَ",
       "transliteration": "Afamin hatha alhadeethitaAAjaboon",
       "translation": "Then at this statement do you wonder?"
     },
@@ -423,6 +482,7 @@
       "number": 60,
       "verseKey": "53:60",
       "arabic": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+      "simpleArabic": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
       "transliteration": "Watadhakoona wala tabkoon",
       "translation": "And you laugh and do not weep"
     },
@@ -430,6 +490,7 @@
       "number": 61,
       "verseKey": "53:61",
       "arabic": "وَأَنتُمْ سَـٰمِدُونَ",
+      "simpleArabic": "وَأَنتُمْ سَامِدُونَ",
       "transliteration": "Waantum samidoon",
       "translation": "While you are proudly sporting?[1575]"
     },
@@ -437,6 +498,7 @@
       "number": 62,
       "verseKey": "53:62",
       "arabic": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+      "simpleArabic": "فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا",
       "transliteration": "Fasjudoo lillahi waAAbudoo",
       "translation": "So prostrate to Allāh and worship [Him]."
     }

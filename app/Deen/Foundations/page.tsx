@@ -22,32 +22,32 @@ const foundations = [
     subtitle: "The unseen roots of belief",
     description:
       "Understand belief in Allah, His angels, His books, His messengers, the Last Day, and divine decree — the unseen truths that anchor the believer.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Foundations/Six-Pillars-of-Iman",
+    clickable: true,
   },
   {
     title: "Purpose",
     subtitle: "Why you were created",
     description:
       "Return to the question many hearts quietly carry: why am I here? Foundations should reconnect the soul to worship, servitude, and meaning.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Foundations/Purpose",
+    clickable: true,
   },
   {
     title: "Akhirah",
     subtitle: "Remember the return",
     description:
       "Reflect on death, accountability, mercy, hope, and the meeting with Allah — not to create fear alone, but to awaken sincerity and direction.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Foundations/Akhirah",
+    clickable: true,
   },
   {
     title: "Repentance and Hope",
     subtitle: "Return is always open",
     description:
       "A person beginning deen should know this deeply: the door back to Allah is open, and no sincere return is small in the sight of the Most Merciful.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Foundations/Repentance-and-Hope",
+    clickable: true,
   },
 ];
 
@@ -138,9 +138,7 @@ export default function FoundationsPage() {
                     <p className="text-sm uppercase tracking-[0.3em] text-[#b08d57]">
                       {item.subtitle}
                     </p>
-
                     <h2 className="mt-3 text-2xl font-semibold">{item.title}</h2>
-
                     <p className="mt-4 text-base leading-8 text-[#5e6558]">
                       {item.description}
                     </p>
@@ -163,9 +161,7 @@ export default function FoundationsPage() {
                     <p className="text-sm uppercase tracking-[0.3em] text-[#b08d57]">
                       {item.subtitle}
                     </p>
-
                     <h2 className="mt-3 text-2xl font-semibold">{item.title}</h2>
-
                     <p className="mt-4 text-base leading-8 text-[#5e6558]">
                       {item.description}
                     </p>

@@ -11,11 +11,11 @@ const paths = [
   },
   {
     title: "Prophets",
-    subtitle: "Lessons from the chosen",
+    subtitle: "Walk through the lives of the chosen",
     description:
-      "Learn from the lives, trials, patience, trust, and wisdom of the prophets in a way that strengthens faith and perspective.",
-    href: "#",
-    clickable: false,
+      "Journey through the prophets in order and learn lessons of tawheed, patience, repentance, courage, mercy, and return to Allah.",
+    href: "/Deen/Prophets",
+    clickable: true,
   },
   {
     title: "Quran Basics",
@@ -132,37 +132,31 @@ export default function DeenPage() {
         <div className="space-y-4">
           {paths.map((path) =>
             path.clickable ? (
-              <div
+              <Link
                 key={path.title}
-                className="relative rounded-[28px] border border-[#e3d8c8] bg-[#fffaf2] transition hover:bg-[#fcf6ec]"
+                href={path.href}
+                className="block rounded-[28px] border border-[#e3d8c8] bg-[#fffaf2] p-6 transition hover:bg-[#fcf6ec]"
               >
-                <Link
-                  href={path.href}
-                  className="absolute inset-0 z-10 rounded-[28px]"
-                  aria-label={`Open ${path.title}`}
-                />
-                <div className="relative z-0 p-6">
-                  <div className="md:flex md:items-start md:justify-between md:gap-8">
-                    <div className="max-w-3xl">
-                      <p className="text-sm uppercase tracking-[0.3em] text-[#b08d57]">
-                        {path.subtitle}
-                      </p>
+                <div className="md:flex md:items-start md:justify-between md:gap-8">
+                  <div className="max-w-3xl">
+                    <p className="text-sm uppercase tracking-[0.3em] text-[#b08d57]">
+                      {path.subtitle}
+                    </p>
 
-                      <h3 className="mt-3 text-2xl font-semibold">{path.title}</h3>
+                    <h3 className="mt-3 text-2xl font-semibold">{path.title}</h3>
 
-                      <p className="mt-4 text-base leading-8 text-[#5e6558]">
-                        {path.description}
-                      </p>
-                    </div>
+                    <p className="mt-4 text-base leading-8 text-[#5e6558]">
+                      {path.description}
+                    </p>
+                  </div>
 
-                    <div className="mt-5 md:mt-1">
-                      <span className="rounded-full border border-[#d9cfbc] bg-white px-5 py-2.5 text-sm font-medium text-[#4f7a5a]">
-                        Enter
-                      </span>
-                    </div>
+                  <div className="mt-5 md:mt-1">
+                    <span className="rounded-full border border-[#d9cfbc] bg-white px-5 py-2.5 text-sm font-medium text-[#4f7a5a]">
+                      Enter
+                    </span>
                   </div>
                 </div>
-              </div>
+              </Link>
             ) : (
               <div
                 key={path.title}

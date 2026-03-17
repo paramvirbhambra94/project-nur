@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "88:1",
       "arabic": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "simpleArabic": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
       "transliteration": "Hal ataka hadeethu alghashiyat",
       "translation": "Has there reached you the report of the Overwhelming [event]?"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "88:2",
       "arabic": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "simpleArabic": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
       "transliteration": "Wujoohun yawma-ithin khashiAAa",
       "translation": "[Some] faces, that Day, will be humbled,"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "88:3",
       "arabic": "عَامِلَةٌ نَّاصِبَةٌ",
+      "simpleArabic": "عَامِلَةٌ نَّاصِبَةٌ",
       "transliteration": "AAamilatun nasiba",
       "translation": "Working [hard] and exhausted.[1910]"
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "88:4",
       "arabic": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "simpleArabic": "تَصْلَىٰ نَارًا حَامِيَةً",
       "transliteration": "Tasla naran hamiya",
       "translation": "They will [enter to] burn in an intensely hot Fire."
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "88:5",
       "arabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "simpleArabic": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
       "transliteration": "Tusqa min AAaynin aniya",
       "translation": "They will be given drink from a boiling spring."
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "88:6",
       "arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "simpleArabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
       "transliteration": "Laysa lahum taAAamun illamin dareeAA",
       "translation": "For them there will be no food except from a poisonous, thorny plant"
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "88:7",
       "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "simpleArabic": "لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ",
       "transliteration": "La yusminu wala yughnee minjooAA",
       "translation": "Which neither nourishes nor avails against hunger."
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "88:8",
       "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "simpleArabic": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
       "transliteration": "Wujoohun yawma-ithin naAAima",
       "translation": "[Other] faces, that Day, will show pleasure."
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "88:9",
       "arabic": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "simpleArabic": "لِّسَعْيِهَا رَاضِيَةٌ",
       "transliteration": "LisaAAyiha radiya",
       "translation": "With their effort [they are] satisfied"
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "88:10",
       "arabic": "فِى جَنَّةٍ عَالِيَةٍ",
+      "simpleArabic": "فِي جَنَّةٍ عَالِيَةٍ",
       "transliteration": "Fee jannatin AAaliya",
       "translation": "In an elevated garden,"
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "88:11",
       "arabic": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "simpleArabic": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
       "transliteration": "La tasmaAAu feeha laghiya",
       "translation": "Wherein they will hear no unsuitable speech.[1911]"
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "88:12",
       "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "simpleArabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
       "transliteration": "Feeha AAaynun jariya",
       "translation": "Within it is a flowing spring."
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "88:13",
       "arabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "simpleArabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
       "transliteration": "Feeha sururun marfooAAa",
       "translation": "Within it are couches raised high"
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "88:14",
       "arabic": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "simpleArabic": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
       "transliteration": "Waakwabun mawdooAAa",
       "translation": "And cups put in place"
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "88:15",
       "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "simpleArabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
       "transliteration": "Wanamariqu masfoofa",
       "translation": "And cushions lined up"
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "88:16",
       "arabic": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "simpleArabic": "وَزَرَابِيُّ مَبْثُوثَةٌ",
       "transliteration": "Wazarabiyyu mabthootha",
       "translation": "And carpets spread around."
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "88:17",
       "arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "simpleArabic": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
       "transliteration": "Afala yanthuroona ilaal-ibili kayfa khuliqat",
       "translation": "Then do they not look at the camels - how they are created?"
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "88:18",
       "arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "simpleArabic": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
       "transliteration": "Wa-ila assama-i kayfarufiAAat",
       "translation": "And at the sky - how it is raised?"
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "88:19",
       "arabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "simpleArabic": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
       "transliteration": "Wa-ila aljibali kayfa nusibat",
       "translation": "And at the mountains - how they are erected?"
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "88:20",
       "arabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "simpleArabic": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
       "transliteration": "Wa-ila al-ardi kayfa sutihat",
       "translation": "And at the earth - how it is spread out?"
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "88:21",
       "arabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "simpleArabic": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
       "transliteration": "Fathakkir innama anta muthakkir",
       "translation": "So remind, [O Muḥammad]; you are only a reminder."
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "88:22",
       "arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "simpleArabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
       "transliteration": "Lasta AAalayhim bimusaytir",
       "translation": "You are not over them a controller."
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "88:23",
       "arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "simpleArabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
       "transliteration": "Illa man tawalla wakafar",
       "translation": "However, he who turns away and disbelieves –"
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "88:24",
       "arabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "simpleArabic": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
       "transliteration": "FayuAAaththibuhu Allahu alAAathabaal-akbar",
       "translation": "Then Allāh will punish him with the greatest punishment."
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "88:25",
       "arabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "simpleArabic": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
       "transliteration": "Inna ilayna iyabahum",
       "translation": "Indeed, to Us is their return."
     },
@@ -185,6 +210,7 @@
       "number": 26,
       "verseKey": "88:26",
       "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "simpleArabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
       "transliteration": "Thumma inna AAalayna hisabahum",
       "translation": "Then indeed, upon Us is their account."
     }

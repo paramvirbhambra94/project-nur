@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "111:1",
       "arabic": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "simpleArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
       "transliteration": "Tabbat yada abee lahabin watab",
       "translation": "May the hands of Abū Lahab be ruined, and ruined is he.[2008]"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "111:2",
       "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "simpleArabic": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
       "transliteration": "Ma aghna AAanhu maluhuwama kasab",
       "translation": "His wealth will not avail him or that which he gained."
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "111:3",
       "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "simpleArabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
       "transliteration": "Sayasla naran thatalahab",
       "translation": "He will [enter to] burn in a Fire of [blazing] flame"
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "111:4",
       "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "simpleArabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
       "transliteration": "Wamraatuhu hammalata alhatab",
       "translation": "And his wife [as well] - the carrier of firewood.[2009]"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "111:5",
       "arabic": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "simpleArabic": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
       "transliteration": "Fee jeediha hablun min masad",
       "translation": "Around her neck is a rope of [twisted] fiber."
     }

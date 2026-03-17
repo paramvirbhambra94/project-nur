@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "110:1",
       "arabic": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "simpleArabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
       "transliteration": "Itha jaa nasru Allahiwalfath",
       "translation": "When the victory of Allāh has come and the conquest,[2005]"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "110:2",
       "arabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "simpleArabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
       "transliteration": "Waraayta annasa yadkhuloonafee deeni Allahi afwaja",
       "translation": "And you see the people entering into the religion of Allāh in multitudes,"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "110:3",
       "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "simpleArabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
       "transliteration": "Fasabbih bihamdi rabbika wastaghfirhuinnahu kana tawwaba",
       "translation": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.[2006]"
     }

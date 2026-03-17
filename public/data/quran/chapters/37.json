@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "37:1",
       "arabic": " وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
+      "simpleArabic": "وَالصَّافَّاتِ صَفًّا",
       "transliteration": "Wassaffati saffa",
       "translation": "By those [angels] lined up in rows"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "37:2",
       "arabic": "فَٱلزَّٰجِرَٰتِ زَجْرًا",
+      "simpleArabic": "فَالزَّاجِرَاتِ زَجْرًا",
       "transliteration": "Fazzajirati zajra",
       "translation": "And those who drive [the clouds]"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "37:3",
       "arabic": "فَٱلتَّـٰلِيَـٰتِ ذِكْرًا",
+      "simpleArabic": "فَالتَّالِيَاتِ ذِكْرًا",
       "transliteration": "Fattaliyati thikra",
       "translation": "And those who recite the message,[1286]"
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "37:4",
       "arabic": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌ",
+      "simpleArabic": "إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ",
       "transliteration": "Inna ilahakum lawahid",
       "translation": "Indeed, your God is One,"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "37:5",
       "arabic": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَـٰرِقِ",
+      "simpleArabic": "رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ",
       "transliteration": "Rabbu assamawati wal-ardiwama baynahuma warabbu almashariq",
       "translation": "Lord of the heavens and the earth and that between them and Lord of the sunrises.[1287]"
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "37:6",
       "arabic": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
+      "simpleArabic": "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
       "transliteration": "Inna zayyanna assamaaaddunya bizeenatin alkawakib",
       "translation": "Indeed, We have adorned the nearest heaven with an adornment of stars"
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "37:7",
       "arabic": "وَحِفْظًا مِّن كُلِّ شَيْطَـٰنٍ مَّارِدٍ",
+      "simpleArabic": "وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ",
       "transliteration": "Wahifthan min kulli shaytaninmarid",
       "translation": "And as protection against every rebellious devil"
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "37:8",
       "arabic": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
+      "simpleArabic": "لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
       "transliteration": "La yassammaAAoona ila almala-ial-aAAla wayuqthafoona min kulli janib",
       "translation": "[So] they may not listen to the exalted assembly [of angels] and are pelted from every side,[1288]"
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "37:9",
       "arabic": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+      "simpleArabic": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
       "transliteration": "Duhooran walahum AAathabun wasib",
       "translation": "Repelled; and for them is a constant punishment,"
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "37:10",
       "arabic": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ",
+      "simpleArabic": "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
       "transliteration": "Illa man khatifa alkhatfatafaatbaAAahu shihabun thaqib",
       "translation": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]."
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "37:11",
       "arabic": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَـٰهُم مِّن طِينٍ لَّازِبٍۭ",
+      "simpleArabic": "فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَا ۚ إِنَّا خَلَقْنَاهُم مِّن طِينٍ لَّازِبٍ",
       "transliteration": "Fastaftihim ahum ashaddu khalqan amman khalaqna inna khalaqnahum min teeninlazib",
       "translation": "Then inquire of them, [O Muḥammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created them [i.e., men] from sticky clay."
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "37:12",
       "arabic": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "simpleArabic": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
       "transliteration": "Bal AAajibta wayaskharoon",
       "translation": "But you wonder, while they mock,"
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "37:13",
       "arabic": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ",
+      "simpleArabic": "وَإِذَا ذُكِّرُوا لَا يَذْكُرُونَ",
       "transliteration": "Wa-itha thukkiroo la yathkuroon",
       "translation": "And when they are reminded, they remember not."
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "37:14",
       "arabic": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+      "simpleArabic": "وَإِذَا رَأَوْا آيَةً يَسْتَسْخِرُونَ",
       "transliteration": "Wa-itha raaw ayatanyastaskhiroon",
       "translation": "And when they see a sign, they ridicule."
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "37:15",
       "arabic": "وَقَالُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "simpleArabic": "وَقَالُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُّبِينٌ",
       "transliteration": "Waqaloo in hatha illasihrun mubeen",
       "translation": "And say, \"This is not but obvious magic."
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "37:16",
       "arabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "simpleArabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
       "transliteration": "A-itha mitna wakunnaturaban waAAithaman a-innalamabAAoothoon",
       "translation": "When we have died and become dust and bones, are we indeed to be resurrected?"
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "37:17",
       "arabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "simpleArabic": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
       "transliteration": "Awa abaona al-awwaloon",
       "translation": "And our forefathers [as well]?\""
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "37:18",
       "arabic": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+      "simpleArabic": "قُلْ نَعَمْ وَأَنتُمْ دَاخِرُونَ",
       "transliteration": "Qul naAAam waantum dakhiroon",
       "translation": "Say, \"Yes, and you will be [rendered] contemptible.\""
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "37:19",
       "arabic": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+      "simpleArabic": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
       "transliteration": "Fa-innama hiya zajratun wahidatunfa-itha hum yanthuroon",
       "translation": "It will be only one shout, and at once they will be observing."
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "37:20",
       "arabic": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ",
+      "simpleArabic": "وَقَالُوا يَا وَيْلَنَا هَٰذَا يَوْمُ الدِّينِ",
       "transliteration": "Waqaloo ya waylana hathayawmu addeen",
       "translation": "They will say, \"O woe to us! This is the Day of Recompense.\""
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "37:21",
       "arabic": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "simpleArabic": "هَٰذَا يَوْمُ الْفَصْلِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ",
       "transliteration": "Hatha yawmu alfasli allatheekuntum bihi tukaththiboon",
       "translation": "[They will be told], \"This is the Day of Judgement which you used to deny.\""
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "37:22",
       "arabic": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+      "simpleArabic": "احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ",
       "transliteration": "Ohshuroo allatheena thalamoowaazwajahum wama kanoo yaAAbudoon",
       "translation": "[The angels will be ordered], \"Gather those who committed wrong, their kinds,[1289] and what they used to worship"
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "37:23",
       "arabic": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+      "simpleArabic": "مِن دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ",
       "transliteration": "Min dooni Allahi fahdoohum ilasirati aljaheem",
       "translation": "Other than Allāh, and guide them to the path of Hellfire"
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "37:24",
       "arabic": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
+      "simpleArabic": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْئُولُونَ",
       "transliteration": "Waqifoohum innahum masooloon",
       "translation": "And stop them; indeed, they are to be questioned.\""
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "37:25",
       "arabic": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+      "simpleArabic": "مَا لَكُمْ لَا تَنَاصَرُونَ",
       "transliteration": "Ma lakum la tanasaroon",
       "translation": "[They will be asked], \"What is [wrong] with you? Why do you not help each other?\""
     },
@@ -185,6 +210,7 @@
       "number": 26,
       "verseKey": "37:26",
       "arabic": "بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ",
+      "simpleArabic": "بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ",
       "transliteration": "Bal humu alyawma mustaslimoon",
       "translation": "But they, that Day, are in surrender."
     },
@@ -192,6 +218,7 @@
       "number": 27,
       "verseKey": "37:27",
       "arabic": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "simpleArabic": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
       "transliteration": "Waaqbala baAAduhum AAala baAAdinyatasaaloon",
       "translation": "And they will approach one another asking [i.e., blaming] each other."
     },
@@ -199,6 +226,7 @@
       "number": 28,
       "verseKey": "37:28",
       "arabic": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ",
+      "simpleArabic": "قَالُوا إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ",
       "transliteration": "Qaloo innakum kuntum ta/toonanaAAani alyameen",
       "translation": "They will say, \"Indeed, you used to come at us from the right.\"[1290]"
     },
@@ -206,6 +234,7 @@
       "number": 29,
       "verseKey": "37:29",
       "arabic": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ",
+      "simpleArabic": "قَالُوا بَل لَّمْ تَكُونُوا مُؤْمِنِينَ",
       "transliteration": "Qaloo bal lam takoonoo mu/mineen",
       "translation": "They [i.e., the oppressors] will say, \"Rather, you [yourselves] were not believers,"
     },
@@ -213,6 +242,7 @@
       "number": 30,
       "verseKey": "37:30",
       "arabic": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَـٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًا طَـٰغِينَ",
+      "simpleArabic": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَانٍ ۖ بَلْ كُنتُمْ قَوْمًا طَاغِينَ",
       "transliteration": "Wama kana lanaAAalaykum min sultanin bal kuntum qawman tagheen",
       "translation": "And we had over you no authority, but you were a transgressing people."
     },
@@ -220,6 +250,7 @@
       "number": 31,
       "verseKey": "37:31",
       "arabic": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ",
+      "simpleArabic": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَا ۖ إِنَّا لَذَائِقُونَ",
       "transliteration": "Fahaqqa AAalayna qawlu rabbinainna latha-iqoon",
       "translation": "So the word [i.e., decree] of our Lord has come into effect upon us; indeed, we will taste [punishment]."
     },
@@ -227,6 +258,7 @@
       "number": 32,
       "verseKey": "37:32",
       "arabic": "فَأَغْوَيْنَـٰكُمْ إِنَّا كُنَّا غَـٰوِينَ",
+      "simpleArabic": "فَأَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ",
       "transliteration": "Faaghwaynakum inna kunnaghaween",
       "translation": "And we led you to deviation; indeed, we were deviators.\""
     },
@@ -234,6 +266,7 @@
       "number": 33,
       "verseKey": "37:33",
       "arabic": "فَإِنَّهُمْ يَوْمَئِذٍ فِى ٱلْعَذَابِ مُشْتَرِكُونَ",
+      "simpleArabic": "فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ",
       "transliteration": "Fa-innahum yawma-ithin fee alAAathabimushtarikoon",
       "translation": "So indeed they, that Day, will be sharing in the punishment."
     },
@@ -241,6 +274,7 @@
       "number": 34,
       "verseKey": "37:34",
       "arabic": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "simpleArabic": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
       "transliteration": "Inna kathalika nafAAalu bilmujrimeen",
       "translation": "Indeed, that is how We deal with the criminals."
     },
@@ -248,6 +282,7 @@
       "number": 35,
       "verseKey": "37:35",
       "arabic": "إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ",
+      "simpleArabic": "إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ",
       "transliteration": "Innahum kanoo itha qeela lahumla ilaha illa Allahu yastakbiroon",
       "translation": "Indeed they, when it was said to them, \"There is no deity but Allāh,\" were arrogant"
     },
@@ -255,6 +290,7 @@
       "number": 36,
       "verseKey": "37:36",
       "arabic": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ",
+      "simpleArabic": "وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ مَّجْنُونٍ",
       "transliteration": "Wayaqooloona a-inna latarikoo alihatinalishaAAirin majnoon",
       "translation": "And were saying, \"Are we to leave our gods for a mad poet?\""
     },
@@ -262,6 +298,7 @@
       "number": 37,
       "verseKey": "37:37",
       "arabic": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "بَلْ جَاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِينَ",
       "transliteration": "Bal jaa bilhaqqi wasaddaqaalmursaleen",
       "translation": "Rather, he [i.e., the Prophet (ﷺ)] has come with the truth and confirmed the [previous] messengers."
     },
@@ -269,6 +306,7 @@
       "number": 38,
       "verseKey": "37:38",
       "arabic": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ",
+      "simpleArabic": "إِنَّكُمْ لَذَائِقُو الْعَذَابِ الْأَلِيمِ",
       "transliteration": "Innakum latha-iqoo alAAathabial-aleem",
       "translation": "Indeed, you [disbelievers] will be tasters of the painful punishment,"
     },
@@ -276,6 +314,7 @@
       "number": 39,
       "verseKey": "37:39",
       "arabic": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "simpleArabic": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
       "transliteration": "Wama tujzawna illa makuntum taAAmaloon",
       "translation": "And you will not be recompensed except for what you used to do -"
     },
@@ -283,6 +322,7 @@
       "number": 40,
       "verseKey": "37:40",
       "arabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "simpleArabic": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
       "transliteration": "Illa AAibada Allahialmukhlaseen",
       "translation": "But not the chosen servants of Allāh."
     },
@@ -290,6 +330,7 @@
       "number": 41,
       "verseKey": "37:41",
       "arabic": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ",
+      "simpleArabic": "أُولَٰئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ",
       "transliteration": "Ola-ika lahum rizqun maAAloom",
       "translation": "Those will have a provision determined -"
     },
@@ -297,6 +338,7 @@
       "number": 42,
       "verseKey": "37:42",
       "arabic": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
+      "simpleArabic": "فَوَاكِهُ ۖ وَهُم مُّكْرَمُونَ",
       "transliteration": "Fawakihu wahum mukramoon",
       "translation": "Fruits;[1291] and they will be honored"
     },
@@ -304,6 +346,7 @@
       "number": 43,
       "verseKey": "37:43",
       "arabic": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+      "simpleArabic": "فِي جَنَّاتِ النَّعِيمِ",
       "transliteration": "Fee jannati annaAAeem",
       "translation": "In gardens of pleasure"
     },
@@ -311,6 +354,7 @@
       "number": 44,
       "verseKey": "37:44",
       "arabic": "عَلَىٰ سُرُرٍ مُّتَقَـٰبِلِينَ",
+      "simpleArabic": "عَلَىٰ سُرُرٍ مُّتَقَابِلِينَ",
       "transliteration": "AAala sururin mutaqabileen",
       "translation": "On thrones facing one another."
     },
@@ -318,6 +362,7 @@
       "number": 45,
       "verseKey": "37:45",
       "arabic": "يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ",
+      "simpleArabic": "يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍ",
       "transliteration": "Yutafu AAalayhim bika/sin min maAAeen",
       "translation": "There will be circulated among them a cup [of wine] from a flowing spring,"
     },
@@ -325,6 +370,7 @@
       "number": 46,
       "verseKey": "37:46",
       "arabic": "بَيْضَآءَ لَذَّةٍ لِّلشَّـٰرِبِينَ",
+      "simpleArabic": "بَيْضَاءَ لَذَّةٍ لِّلشَّارِبِينَ",
       "transliteration": "Baydaa laththatin lishsharibeen",
       "translation": "White and delicious to the drinkers;"
     },
@@ -332,6 +378,7 @@
       "number": 47,
       "verseKey": "37:47",
       "arabic": "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ",
+      "simpleArabic": "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ",
       "transliteration": "La feeha ghawlun walahum AAanha yunzafoon",
       "translation": "No bad effect is there in it, nor from it will they be intoxicated."
     },
@@ -339,6 +386,7 @@
       "number": 48,
       "verseKey": "37:48",
       "arabic": "وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ عِينٌ",
+      "simpleArabic": "وَعِندَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ",
       "transliteration": "WaAAindahum qasiratu attarfiAAeen",
       "translation": "And with them will be women limiting [their] glances,[1292] with large, [beautiful] eyes,"
     },
@@ -346,6 +394,7 @@
       "number": 49,
       "verseKey": "37:49",
       "arabic": "كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ",
+      "simpleArabic": "كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ",
       "transliteration": "Kaannahunna baydun maknoon",
       "translation": "As if they were [delicate] eggs, well-protected."
     },
@@ -353,6 +402,7 @@
       "number": 50,
       "verseKey": "37:50",
       "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "simpleArabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
       "transliteration": "Faaqbala baAAduhum AAala baAAdinyatasaaloon",
       "translation": "And they will approach one another, inquiring of each other."
     },
@@ -360,6 +410,7 @@
       "number": 51,
       "verseKey": "37:51",
       "arabic": "قَالَ قَآئِلٌ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌ",
+      "simpleArabic": "قَالَ قَائِلٌ مِّنْهُمْ إِنِّي كَانَ لِي قَرِينٌ",
       "transliteration": "Qala qa-ilun minhum innee kanalee qareen",
       "translation": "A speaker among them will say, \"Indeed, I had a companion [on earth]."
     },
@@ -367,6 +418,7 @@
       "number": 52,
       "verseKey": "37:52",
       "arabic": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ",
+      "simpleArabic": "يَقُولُ أَإِنَّكَ لَمِنَ الْمُصَدِّقِينَ",
       "transliteration": "Yaqoolu a-innaka lamina almusaddiqeen",
       "translation": "Who would say, 'Are you indeed of those who believe"
     },
@@ -374,6 +426,7 @@
       "number": 53,
       "verseKey": "37:53",
       "arabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَدِينُونَ",
+      "simpleArabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ",
       "transliteration": "A-itha mitna wakunnaturaban waAAithaman a-innalamadeenoon",
       "translation": "That when we have died and become dust and bones, we will indeed be recompensed?'\""
     },
@@ -381,6 +434,7 @@
       "number": 54,
       "verseKey": "37:54",
       "arabic": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ",
+      "simpleArabic": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ",
       "transliteration": "Qala hal antum muttaliAAoon",
       "translation": "He will say,[1293] \"Would you [care to] look?\""
     },
@@ -388,6 +442,7 @@
       "number": 55,
       "verseKey": "37:55",
       "arabic": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+      "simpleArabic": "فَاطَّلَعَ فَرَآهُ فِي سَوَاءِ الْجَحِيمِ",
       "transliteration": "FattalaAAa faraahu feesawa-i aljaheem",
       "translation": "And he will look and see him[1294] in the midst of the Hellfire."
     },
@@ -395,6 +450,7 @@
       "number": 56,
       "verseKey": "37:56",
       "arabic": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ",
+      "simpleArabic": "قَالَ تَاللَّهِ إِن كِدتَّ لَتُرْدِينِ",
       "transliteration": "Qala tallahi in kidtalaturdeen",
       "translation": "He will say, \"By Allāh, you almost ruined me."
     },
@@ -402,6 +458,7 @@
       "number": 57,
       "verseKey": "37:57",
       "arabic": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ",
+      "simpleArabic": "وَلَوْلَا نِعْمَةُ رَبِّي لَكُنتُ مِنَ الْمُحْضَرِينَ",
       "transliteration": "Walawla niAAmatu rabbee lakuntu minaalmuhdareen",
       "translation": "If not for the favor of my Lord, I would have been of those brought in [to Hell]."
     },
@@ -409,6 +466,7 @@
       "number": 58,
       "verseKey": "37:58",
       "arabic": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+      "simpleArabic": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
       "transliteration": "Afama nahnu bimayyiteen",
       "translation": "Then, are we not to die"
     },
@@ -416,6 +474,7 @@
       "number": 59,
       "verseKey": "37:59",
       "arabic": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "simpleArabic": "إِلَّا مَوْتَتَنَا الْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
       "transliteration": "Illa mawtatana al-oolawama nahnu bimuAAaththabeen",
       "translation": "Except for our first death, and we will not be punished?\""
     },
@@ -423,6 +482,7 @@
       "number": 60,
       "verseKey": "37:60",
       "arabic": "إِنَّ هَـٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "simpleArabic": "إِنَّ هَٰذَا لَهُوَ الْفَوْزُ الْعَظِيمُ",
       "transliteration": "Inna hatha lahuwa alfawzu alAAatheem",
       "translation": "Indeed, this is the great attainment."
     },
@@ -430,6 +490,7 @@
       "number": 61,
       "verseKey": "37:61",
       "arabic": "لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ ٱلْعَـٰمِلُونَ",
+      "simpleArabic": "لِمِثْلِ هَٰذَا فَلْيَعْمَلِ الْعَامِلُونَ",
       "transliteration": "Limithli hatha falyaAAmali alAAamiloon",
       "translation": "For the like of this let the workers [on earth] work."
     },
@@ -437,6 +498,7 @@
       "number": 62,
       "verseKey": "37:62",
       "arabic": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+      "simpleArabic": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ الزَّقُّومِ",
       "transliteration": "Athalika khayrun nuzulan am shajaratuazzaqqoom",
       "translation": "Is that [i.e., Paradise] a better accommodation or the tree of zaqqūm?"
     },
@@ -444,6 +506,7 @@
       "number": 63,
       "verseKey": "37:63",
       "arabic": "إِنَّا جَعَلْنَـٰهَا فِتْنَةً لِّلظَّـٰلِمِينَ",
+      "simpleArabic": "إِنَّا جَعَلْنَاهَا فِتْنَةً لِّلظَّالِمِينَ",
       "transliteration": "Inna jaAAalnahafitnatan liththalimeen",
       "translation": "Indeed, We have made it a torment for the wrongdoers."
     },
@@ -451,6 +514,7 @@
       "number": 64,
       "verseKey": "37:64",
       "arabic": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ",
+      "simpleArabic": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ",
       "transliteration": "Innaha shajaratun takhruju fee aslialjaheem",
       "translation": "Indeed, it is a tree issuing from the bottom of the Hellfire,"
     },
@@ -458,6 +522,7 @@
       "number": 65,
       "verseKey": "37:65",
       "arabic": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَـٰطِينِ",
+      "simpleArabic": "طَلْعُهَا كَأَنَّهُ رُءُوسُ الشَّيَاطِينِ",
       "transliteration": "TalAAuha kaannahu ruoosu ashshayateen",
       "translation": "Its emerging fruit as if it was heads of the devils."
     },
@@ -465,6 +530,7 @@
       "number": 66,
       "verseKey": "37:66",
       "arabic": "فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "simpleArabic": "فَإِنَّهُمْ لَآكِلُونَ مِنْهَا فَمَالِئُونَ مِنْهَا الْبُطُونَ",
       "transliteration": "Fa-innahum laakiloona minhafamali-oona minha albutoon",
       "translation": "And indeed, they will eat from it and fill with it their bellies."
     },
@@ -472,6 +538,7 @@
       "number": 67,
       "verseKey": "37:67",
       "arabic": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيمٍ",
+      "simpleArabic": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيمٍ",
       "transliteration": "Thumma inna lahum AAalayha lashawbanmin hameem",
       "translation": "Then indeed, they will have after it a mixture of scalding water."
     },
@@ -479,6 +546,7 @@
       "number": 68,
       "verseKey": "37:68",
       "arabic": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ",
+      "simpleArabic": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى الْجَحِيمِ",
       "transliteration": "Thumma inna marjiAAahum la-ila aljaheem",
       "translation": "Then indeed, their return will be to the Hellfire."
     },
@@ -486,6 +554,7 @@
       "number": 69,
       "verseKey": "37:69",
       "arabic": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+      "simpleArabic": "إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ",
       "transliteration": "Innahum alfaw abaahum dalleen",
       "translation": "Indeed they found their fathers astray."
     },
@@ -493,6 +562,7 @@
       "number": 70,
       "verseKey": "37:70",
       "arabic": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ يُهْرَعُونَ",
+      "simpleArabic": "فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ",
       "transliteration": "Fahum AAala atharihimyuhraAAoon",
       "translation": "So they hastened [to follow] in their footsteps."
     },
@@ -500,6 +570,7 @@
       "number": 71,
       "verseKey": "37:71",
       "arabic": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ",
+      "simpleArabic": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الْأَوَّلِينَ",
       "transliteration": "Walaqad dalla qablahum aktharual-awwaleen",
       "translation": "And there had already strayed before them most of the former peoples,"
     },
@@ -507,6 +578,7 @@
       "number": 72,
       "verseKey": "37:72",
       "arabic": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
+      "simpleArabic": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
       "transliteration": "Walaqad arsalna feehim munthireen",
       "translation": "And We had already sent among them warners."
     },
@@ -514,6 +586,7 @@
       "number": 73,
       "verseKey": "37:73",
       "arabic": "فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ",
+      "simpleArabic": "فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنذَرِينَ",
       "transliteration": "Fanthur kayfa kanaAAaqibatu almunthareen",
       "translation": "Then look how was the end of those who were warned -"
     },
@@ -521,6 +594,7 @@
       "number": 74,
       "verseKey": "37:74",
       "arabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "simpleArabic": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
       "transliteration": "Illa AAibada Allahialmukhlaseen",
       "translation": "But not the chosen servants of Allāh."
     },
@@ -528,6 +602,7 @@
       "number": 75,
       "verseKey": "37:75",
       "arabic": "وَلَقَدْ نَادَىٰنَا نُوحٌ فَلَنِعْمَ ٱلْمُجِيبُونَ",
+      "simpleArabic": "وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُجِيبُونَ",
       "transliteration": "Walaqad nadana noohunfalaniAAma almujeeboon",
       "translation": "And Noah had certainly called Us, and [We are] the best of responders."
     },
@@ -535,6 +610,7 @@
       "number": 76,
       "verseKey": "37:76",
       "arabic": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "simpleArabic": "وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
       "transliteration": "Wanajjaynahu waahlahu mina alkarbialAAatheem",
       "translation": "And We saved him and his family from the great affliction."
     },
@@ -542,6 +618,7 @@
       "number": 77,
       "verseKey": "37:77",
       "arabic": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
+      "simpleArabic": "وَجَعَلْنَا ذُرِّيَّتَهُ هُمُ الْبَاقِينَ",
       "transliteration": "WajaAAalna thurriyyatahu humualbaqeen",
       "translation": "And We made his descendants those remaining [on the earth]"
     },
@@ -549,6 +626,7 @@
       "number": 78,
       "verseKey": "37:78",
       "arabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+      "simpleArabic": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
       "transliteration": "Watarakna AAalayhi fee al-akhireen",
       "translation": "And left for him [favorable mention] among later generations:"
     },
@@ -556,6 +634,7 @@
       "number": 79,
       "verseKey": "37:79",
       "arabic": "سَلَـٰمٌ عَلَىٰ نُوحٍ فِى ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ",
       "transliteration": "Salamun AAala noohinfee alAAalameen",
       "translation": "\"Peace upon Noah among the worlds.\""
     },
@@ -563,6 +642,7 @@
       "number": 80,
       "verseKey": "37:80",
       "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "simpleArabic": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
       "transliteration": "Inna kathalika najzee almuhsineen",
       "translation": "Indeed, We thus reward the doers of good."
     },
@@ -570,6 +650,7 @@
       "number": 81,
       "verseKey": "37:81",
       "arabic": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
       "transliteration": "Innahu min AAibadinaalmu/mineen",
       "translation": "Indeed, he was of Our believing servants."
     },
@@ -577,6 +658,7 @@
       "number": 82,
       "verseKey": "37:82",
       "arabic": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
+      "simpleArabic": "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
       "transliteration": "Thumma aghraqna al-akhareen",
       "translation": "Then We drowned the others [i.e., disbelievers]."
     },
@@ -584,6 +666,7 @@
       "number": 83,
       "verseKey": "37:83",
       "arabic": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ",
+      "simpleArabic": "وَإِنَّ مِن شِيعَتِهِ لَإِبْرَاهِيمَ",
       "transliteration": "Wa-inna min sheeAAatihi la-ibraheem",
       "translation": "And indeed, among his kind was Abraham,"
     },
@@ -591,6 +674,7 @@
       "number": 84,
       "verseKey": "37:84",
       "arabic": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍ سَلِيمٍ",
+      "simpleArabic": "إِذْ جَاءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ",
       "transliteration": "Ith jaa rabbahu biqalbinsaleem",
       "translation": "When he came to his Lord with a sound heart"
     },
@@ -598,6 +682,7 @@
       "number": 85,
       "verseKey": "37:85",
       "arabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+      "simpleArabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَاذَا تَعْبُدُونَ",
       "transliteration": "Ith qala li-abeehi waqawmihi mathataAAbudoon",
       "translation": "[And] when he said to his father and his people, \"What do you worship?"
     },
@@ -605,6 +690,7 @@
       "number": 86,
       "verseKey": "37:86",
       "arabic": "أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ",
+      "simpleArabic": "أَئِفْكًا آلِهَةً دُونَ اللَّهِ تُرِيدُونَ",
       "transliteration": "A-ifkan alihatan doona Allahitureedoon",
       "translation": "Is it falsehood [as] gods other than Allāh you desire?"
     },
@@ -612,6 +698,7 @@
       "number": 87,
       "verseKey": "37:87",
       "arabic": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "فَمَا ظَنُّكُم بِرَبِّ الْعَالَمِينَ",
       "transliteration": "Fama thannukum birabbialAAalameen",
       "translation": "Then what is your thought about the Lord of the worlds?\""
     },
@@ -619,6 +706,7 @@
       "number": 88,
       "verseKey": "37:88",
       "arabic": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+      "simpleArabic": "فَنَظَرَ نَظْرَةً فِي النُّجُومِ",
       "transliteration": "Fanathara nathratanfee annujoom",
       "translation": "And he cast a look at the stars"
     },
@@ -626,6 +714,7 @@
       "number": 89,
       "verseKey": "37:89",
       "arabic": "فَقَالَ إِنِّى سَقِيمٌ",
+      "simpleArabic": "فَقَالَ إِنِّي سَقِيمٌ",
       "transliteration": "Faqala innee saqeem",
       "translation": "And said, \"Indeed, I am [about to be] ill.\""
     },
@@ -633,6 +722,7 @@
       "number": 90,
       "verseKey": "37:90",
       "arabic": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ",
+      "simpleArabic": "فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ",
       "transliteration": "Fatawallaw AAanhu mudbireen",
       "translation": "So they turned away from him, departing."
     },
@@ -640,6 +730,7 @@
       "number": 91,
       "verseKey": "37:91",
       "arabic": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "simpleArabic": "فَرَاغَ إِلَىٰ آلِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
       "transliteration": "Faragha ila alihatihimfaqala ala ta/kuloon",
       "translation": "Then he turned to their gods and said, \"Do you not eat?[1295]"
     },
@@ -647,6 +738,7 @@
       "number": 92,
       "verseKey": "37:92",
       "arabic": "مَا لَكُمْ لَا تَنطِقُونَ",
+      "simpleArabic": "مَا لَكُمْ لَا تَنطِقُونَ",
       "transliteration": "Ma lakum la tantiqoon",
       "translation": "What is [wrong] with you that you do not speak?\""
     },
@@ -654,6 +746,7 @@
       "number": 93,
       "verseKey": "37:93",
       "arabic": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+      "simpleArabic": "فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ",
       "transliteration": "Faragha AAalayhim darban bilyameen",
       "translation": "And he turned upon them a blow with [his] right hand."
     },
@@ -661,6 +754,7 @@
       "number": 94,
       "verseKey": "37:94",
       "arabic": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ",
+      "simpleArabic": "فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ",
       "transliteration": "Faaqbaloo ilayhi yaziffoon",
       "translation": "Then they [i.e., the people] came toward him, hastening."
     },
@@ -668,6 +762,7 @@
       "number": 95,
       "verseKey": "37:95",
       "arabic": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+      "simpleArabic": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
       "transliteration": "Qala ataAAbudoona ma tanhitoon",
       "translation": "He said, \"Do you worship that which you [yourselves] carve,"
     },
@@ -675,6 +770,7 @@
       "number": 96,
       "verseKey": "37:96",
       "arabic": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+      "simpleArabic": "وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
       "transliteration": "Wallahu khalaqakum wamataAAmaloon",
       "translation": "While Allāh created you and that which you do?\""
     },
@@ -682,6 +778,7 @@
       "number": 97,
       "verseKey": "37:97",
       "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+      "simpleArabic": "قَالُوا ابْنُوا لَهُ بُنْيَانًا فَأَلْقُوهُ فِي الْجَحِيمِ",
       "transliteration": "Qaloo ibnoo lahu bunyananfaalqoohu fee aljaheem",
       "translation": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\""
     },
@@ -689,6 +786,7 @@
       "number": 98,
       "verseKey": "37:98",
       "arabic": "فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ",
+      "simpleArabic": "فَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِينَ",
       "transliteration": "Faaradoo bihi kaydan fajaAAalnahumual-asfaleen",
       "translation": "And they intended for him a plan [i.e., harm], but We made them the most debased."
     },
@@ -696,6 +794,7 @@
       "number": 99,
       "verseKey": "37:99",
       "arabic": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ",
+      "simpleArabic": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ",
       "transliteration": "Waqala innee thahibun ilarabbee sayahdeen",
       "translation": "And [then] he said, \"Indeed, I will go to [where I am ordered by] my Lord; He will guide me."
     },
@@ -703,6 +802,7 @@
       "number": 100,
       "verseKey": "37:100",
       "arabic": "رَبِّ هَبْ لِى مِنَ ٱلصَّـٰلِحِينَ",
+      "simpleArabic": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
       "transliteration": "Rabbi hablee mina assaliheen",
       "translation": "My Lord, grant me [a child] from among the righteous.\""
     },
@@ -710,6 +810,7 @@
       "number": 101,
       "verseKey": "37:101",
       "arabic": "فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ",
+      "simpleArabic": "فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ",
       "transliteration": "Fabashsharnahu bighulamin haleem",
       "translation": "So We gave him good tidings of a forbearing boy."
     },
@@ -717,6 +818,7 @@
       "number": 102,
       "verseKey": "37:102",
       "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+      "simpleArabic": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِن شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
       "transliteration": "Falamma balagha maAAahu assaAAyaqala ya bunayya innee ara fee almanamiannee athbahuka fanthur mathatara qala ya abati ifAAal ma tu/marusatajidunee in shaa Allahu mina assabireen",
       "translation": "And when he reached with him [the age of] exertion,[1296] he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\""
     },
@@ -724,6 +826,7 @@
       "number": 103,
       "verseKey": "37:103",
       "arabic": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+      "simpleArabic": "فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ",
       "transliteration": "Falamma aslama watallahuliljabeen",
       "translation": "And when they had both submitted[1297] and he put him down upon his forehead,"
     },
@@ -731,6 +834,7 @@
       "number": 104,
       "verseKey": "37:104",
       "arabic": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ",
+      "simpleArabic": "وَنَادَيْنَاهُ أَن يَا إِبْرَاهِيمُ",
       "transliteration": "Wanadaynahu an ya ibraheem",
       "translation": "We called to him, \"O Abraham,"
     },
@@ -738,6 +842,7 @@
       "number": 105,
       "verseKey": "37:105",
       "arabic": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "simpleArabic": "قَدْ صَدَّقْتَ الرُّؤْيَا ۚ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
       "transliteration": "Qad saddaqta arru/yainna kathalika najzee almuhsineen",
       "translation": "You have fulfilled the vision.\" Indeed, We thus reward the doers of good."
     },
@@ -745,6 +850,7 @@
       "number": 106,
       "verseKey": "37:106",
       "arabic": "إِنَّ هَـٰذَا لَهُوَ ٱلْبَلَـٰٓؤُا۟ ٱلْمُبِينُ",
+      "simpleArabic": "إِنَّ هَٰذَا لَهُوَ الْبَلَاءُ الْمُبِينُ",
       "transliteration": "Inna hatha lahuwa albalaoalmubeen",
       "translation": "Indeed, this was the clear trial."
     },
@@ -752,6 +858,7 @@
       "number": 107,
       "verseKey": "37:107",
       "arabic": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ",
+      "simpleArabic": "وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ",
       "transliteration": "Wafadaynahu bithibhinAAatheem",
       "translation": "And We ransomed him with a great sacrifice,[1298]"
     },
@@ -759,6 +866,7 @@
       "number": 108,
       "verseKey": "37:108",
       "arabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+      "simpleArabic": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
       "transliteration": "Watarakna AAalayhi fee al-akhireen",
       "translation": "And We left for him [favorable mention] among later generations:"
     },
@@ -766,6 +874,7 @@
       "number": 109,
       "verseKey": "37:109",
       "arabic": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ",
+      "simpleArabic": "سَلَامٌ عَلَىٰ إِبْرَاهِيمَ",
       "transliteration": "Salamun AAala ibraheem",
       "translation": "\"Peace upon Abraham.\""
     },
@@ -773,6 +882,7 @@
       "number": 110,
       "verseKey": "37:110",
       "arabic": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "simpleArabic": "كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
       "transliteration": "Kathalika najzee almuhsineen",
       "translation": "Indeed, We thus reward the doers of good."
     },
@@ -780,6 +890,7 @@
       "number": 111,
       "verseKey": "37:111",
       "arabic": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
       "transliteration": "Innahu min AAibadinaalmu/mineen",
       "translation": "Indeed, he was of Our believing servants."
     },
@@ -787,6 +898,7 @@
       "number": 112,
       "verseKey": "37:112",
       "arabic": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ",
+      "simpleArabic": "وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِّنَ الصَّالِحِينَ",
       "transliteration": "Wabashsharnahu bi-ishaqanabiyyan mina assaliheen",
       "translation": "And We gave him good tidings of Isaac, a prophet from among the righteous.[1299]"
     },
@@ -794,6 +906,7 @@
       "number": 113,
       "verseKey": "37:113",
       "arabic": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
+      "simpleArabic": "وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ",
       "transliteration": "Wabarakna AAalayhi waAAalaishaqa wamin thurriyyatihima muhsinunwathalimun linafsihi mubeen",
       "translation": "And We blessed him and Isaac. But among their descendants is the doer of good and the clearly unjust to himself [i.e., sinner]."
     },
@@ -801,6 +914,7 @@
       "number": 114,
       "verseKey": "37:114",
       "arabic": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "simpleArabic": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَارُونَ",
       "transliteration": "Walaqad mananna AAala moosawaharoon",
       "translation": "And We did certainly confer favor upon Moses and Aaron."
     },
@@ -808,6 +922,7 @@
       "number": 115,
       "verseKey": "37:115",
       "arabic": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "simpleArabic": "وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ",
       "transliteration": "Wanajjaynahuma waqawmahumamina alkarbi alAAatheem",
       "translation": "And We saved them and their people from the great affliction,"
     },
@@ -815,6 +930,7 @@
       "number": 116,
       "verseKey": "37:116",
       "arabic": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ",
+      "simpleArabic": "وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِبِينَ",
       "transliteration": "Wanasarnahum fakanoohumu alghalibeen",
       "translation": "And We supported them so it was they who overcame."
     },
@@ -822,6 +938,7 @@
       "number": 117,
       "verseKey": "37:117",
       "arabic": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ",
+      "simpleArabic": "وَآتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ",
       "transliteration": "Waataynahuma alkitabaalmustabeen",
       "translation": "And We gave them the explicit Scripture [i.e., the Torah],"
     },
@@ -829,6 +946,7 @@
       "number": 118,
       "verseKey": "37:118",
       "arabic": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "simpleArabic": "وَهَدَيْنَاهُمَا الصِّرَاطَ الْمُسْتَقِيمَ",
       "transliteration": "Wahadaynahuma assirataalmustaqeem",
       "translation": "And We guided them on the straight path."
     },
@@ -836,6 +954,7 @@
       "number": 119,
       "verseKey": "37:119",
       "arabic": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْـَٔاخِرِينَ",
+      "simpleArabic": "وَتَرَكْنَا عَلَيْهِمَا فِي الْآخِرِينَ",
       "transliteration": "Watarakna AAalayhima fee al-akhireen",
       "translation": "And We left for them [favorable mention] among later generations:"
     },
@@ -843,6 +962,7 @@
       "number": 120,
       "verseKey": "37:120",
       "arabic": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "simpleArabic": "سَلَامٌ عَلَىٰ مُوسَىٰ وَهَارُونَ",
       "transliteration": "Salamun AAala moosawaharoon",
       "translation": "\"Peace upon Moses and Aaron.\""
     },
@@ -850,6 +970,7 @@
       "number": 121,
       "verseKey": "37:121",
       "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "simpleArabic": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
       "transliteration": "Inna kathalika najzee almuhsineen",
       "translation": "Indeed, We thus reward the doers of good."
     },
@@ -857,6 +978,7 @@
       "number": 122,
       "verseKey": "37:122",
       "arabic": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
       "transliteration": "Innahuma min AAibadinaalmu/mineen",
       "translation": "Indeed, they were of Our believing servants."
     },
@@ -864,6 +986,7 @@
       "number": 123,
       "verseKey": "37:123",
       "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ",
       "transliteration": "Wa-inna ilyasa lamina almursaleen",
       "translation": "And indeed, Elias was from among the messengers,"
     },
@@ -871,6 +994,7 @@
       "number": 124,
       "verseKey": "37:124",
       "arabic": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+      "simpleArabic": "إِذْ قَالَ لِقَوْمِهِ أَلَا تَتَّقُونَ",
       "transliteration": "Ith qala liqawmihi alatattaqoon",
       "translation": "When he said to his people, \"Will you not fear Allāh?"
     },
@@ -878,6 +1002,7 @@
       "number": 125,
       "verseKey": "37:125",
       "arabic": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
+      "simpleArabic": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ",
       "transliteration": "AtadAAoona baAAlan watatharoona ahsanaalkhaliqeen",
       "translation": "Do you call upon Baʿl[1300] and leave the best of creators -"
     },
@@ -885,6 +1010,7 @@
       "number": 126,
       "verseKey": "37:126",
       "arabic": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "simpleArabic": "اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ",
       "transliteration": "Allaha rabbakum warabba aba-ikumual-awwaleen",
       "translation": "Allāh, your Lord and the Lord of your first forefathers?\""
     },
@@ -892,6 +1018,7 @@
       "number": 127,
       "verseKey": "37:127",
       "arabic": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+      "simpleArabic": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
       "transliteration": "Fakaththaboohu fa-innahum lamuhdaroon",
       "translation": "And they denied him, so indeed, they will be brought [for punishment],"
     },
@@ -899,6 +1026,7 @@
       "number": 128,
       "verseKey": "37:128",
       "arabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "simpleArabic": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
       "transliteration": "Illa AAibada Allahialmukhlaseen",
       "translation": "Except the chosen servants of Allāh."
     },
@@ -906,6 +1034,7 @@
       "number": 129,
       "verseKey": "37:129",
       "arabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+      "simpleArabic": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
       "transliteration": "Watarakna AAalayhi fee al-akhireen",
       "translation": "And We left for him [favorable mention] among later generations:"
     },
@@ -913,6 +1042,7 @@
       "number": 130,
       "verseKey": "37:130",
       "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+      "simpleArabic": "سَلَامٌ عَلَىٰ إِلْ يَاسِينَ",
       "transliteration": "Salamun AAala il yaseen",
       "translation": "\"Peace upon Elias.\"[1301]"
     },
@@ -920,6 +1050,7 @@
       "number": 131,
       "verseKey": "37:131",
       "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "simpleArabic": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
       "transliteration": "Inna kathalika najzee almuhsineen",
       "translation": "Indeed, We thus reward the doers of good."
     },
@@ -927,6 +1058,7 @@
       "number": 132,
       "verseKey": "37:132",
       "arabic": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "simpleArabic": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
       "transliteration": "Innahu min AAibadinaalmu/mineen",
       "translation": "Indeed, he was of Our believing servants."
     },
@@ -934,6 +1066,7 @@
       "number": 133,
       "verseKey": "37:133",
       "arabic": "وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "وَإِنَّ لُوطًا لَّمِنَ الْمُرْسَلِينَ",
       "transliteration": "Wa-inna lootan lamina almursaleen",
       "translation": "And indeed, Lot was among the messengers."
     },
@@ -941,6 +1074,7 @@
       "number": 134,
       "verseKey": "37:134",
       "arabic": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "simpleArabic": "إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
       "transliteration": "Ith najjaynahu waahlahuajmaAAeen",
       "translation": "[So mention] when We saved him and his family, all,"
     },
@@ -948,6 +1082,7 @@
       "number": 135,
       "verseKey": "37:135",
       "arabic": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+      "simpleArabic": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
       "transliteration": "Illa AAajoozan fee alghabireen",
       "translation": "Except an old woman [i.e., his wife] among those who remained [with the evildoers]."
     },
@@ -955,6 +1090,7 @@
       "number": 136,
       "verseKey": "37:136",
       "arabic": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ",
+      "simpleArabic": "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
       "transliteration": "Thumma dammarna al-akhareen",
       "translation": "Then We destroyed the others."
     },
@@ -962,6 +1098,7 @@
       "number": 137,
       "verseKey": "37:137",
       "arabic": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+      "simpleArabic": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
       "transliteration": "Wa-innakum latamurroona AAalayhim musbiheen",
       "translation": "And indeed, you pass by them in the morning"
     },
@@ -969,6 +1106,7 @@
       "number": 138,
       "verseKey": "37:138",
       "arabic": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+      "simpleArabic": "وَبِاللَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
       "transliteration": "Wabillayli afala taAAqiloon",
       "translation": "And at night. Then will you not use reason?"
     },
@@ -976,6 +1114,7 @@
       "number": 139,
       "verseKey": "37:139",
       "arabic": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "simpleArabic": "وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ",
       "transliteration": "Wa-inna yoonusa lamina almursaleen",
       "translation": "And indeed, Jonah was among the messengers."
     },
@@ -983,6 +1122,7 @@
       "number": 140,
       "verseKey": "37:140",
       "arabic": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "simpleArabic": "إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ",
       "transliteration": "Ith abaqa ila alfulki almashhoon",
       "translation": "[Mention] when he ran away to the laden ship."
     },
@@ -990,6 +1130,7 @@
       "number": 141,
       "verseKey": "37:141",
       "arabic": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ",
+      "simpleArabic": "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ",
       "transliteration": "Fasahama fakana mina almudhadeen",
       "translation": "And he drew lots[1302] and was among the losers."
     },
@@ -997,6 +1138,7 @@
       "number": 142,
       "verseKey": "37:142",
       "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ",
+      "simpleArabic": "فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ",
       "transliteration": "Faltaqamahu alhootu wahuwamuleem",
       "translation": "Then the fish swallowed him, while he was blameworthy.[1303]"
     },
@@ -1004,6 +1146,7 @@
       "number": 143,
       "verseKey": "37:143",
       "arabic": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+      "simpleArabic": "فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ",
       "transliteration": "Falawla annahu kana minaalmusabbiheen",
       "translation": "And had he not been of those who exalt Allāh,"
     },
@@ -1011,6 +1154,7 @@
       "number": 144,
       "verseKey": "37:144",
       "arabic": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "simpleArabic": "لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ",
       "transliteration": "Lalabitha fee batnihi ilayawmi yubAAathoon",
       "translation": "He would have remained inside its belly until the Day they are resurrected.[1304]"
     },
@@ -1018,6 +1162,7 @@
       "number": 145,
       "verseKey": "37:145",
       "arabic": "۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ",
+      "simpleArabic": "فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ",
       "transliteration": "Fanabathnahu bilAAara-iwahuwa saqeem",
       "translation": "But We threw him onto the open shore while he was ill."
     },
@@ -1025,6 +1170,7 @@
       "number": 146,
       "verseKey": "37:146",
       "arabic": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+      "simpleArabic": "وَأَنبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
       "transliteration": "Waanbatna AAalayhi shajaratan minyaqteen",
       "translation": "And We caused to grow over him a gourd vine.[1305]"
     },
@@ -1032,6 +1178,7 @@
       "number": 147,
       "verseKey": "37:147",
       "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "simpleArabic": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
       "transliteration": "Waarsalnahu ila mi-ati alfinaw yazeedoon",
       "translation": "And We sent him[1306] to [his people of] a hundred thousand or more."
     },
@@ -1039,6 +1186,7 @@
       "number": 148,
       "verseKey": "37:148",
       "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+      "simpleArabic": "فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ",
       "transliteration": "Faamanoo famattaAAnahum ilaheen",
       "translation": "And they believed, so We gave them enjoyment [of life] for a time."
     },
@@ -1046,6 +1194,7 @@
       "number": 149,
       "verseKey": "37:149",
       "arabic": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ",
+      "simpleArabic": "فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ",
       "transliteration": "Fastaftihim alirabbika albanatuwalahumu albanoon",
       "translation": "So inquire of them, [O Muḥammad], \"Does your Lord have daughters while they have sons?[1307]"
     },
@@ -1053,6 +1202,7 @@
       "number": 150,
       "verseKey": "37:150",
       "arabic": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ إِنَـٰثًا وَهُمْ شَـٰهِدُونَ",
+      "simpleArabic": "أَمْ خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا وَهُمْ شَاهِدُونَ",
       "transliteration": "Am khalaqna almala-ikata inathanwahum shahidoon",
       "translation": "Or did We create the angels as females while they were witnesses?\""
     },
@@ -1060,6 +1210,7 @@
       "number": 151,
       "verseKey": "37:151",
       "arabic": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
+      "simpleArabic": "أَلَا إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
       "transliteration": "Ala innahum min ifkihim layaqooloon",
       "translation": "Unquestionably, it is out of their [invented] falsehood that they say,"
     },
@@ -1067,6 +1218,7 @@
       "number": 152,
       "verseKey": "37:152",
       "arabic": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+      "simpleArabic": "وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ",
       "transliteration": "Walada Allahu wa-innahum lakathiboon",
       "translation": "\"Allāh has begotten,\" and indeed, they are liars."
     },
@@ -1074,6 +1226,7 @@
       "number": 153,
       "verseKey": "37:153",
       "arabic": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
+      "simpleArabic": "أَصْطَفَى الْبَنَاتِ عَلَى الْبَنِينَ",
       "transliteration": "Astafa albanati AAalaalbaneen",
       "translation": "Has He chosen daughters over sons?"
     },
@@ -1081,6 +1234,7 @@
       "number": 154,
       "verseKey": "37:154",
       "arabic": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "simpleArabic": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
       "transliteration": "Ma lakum kayfa tahkumoon",
       "translation": "What is [wrong] with you? How do you make judgement?"
     },
@@ -1088,6 +1242,7 @@
       "number": 155,
       "verseKey": "37:155",
       "arabic": "أَفَلَا تَذَكَّرُونَ",
+      "simpleArabic": "أَفَلَا تَذَكَّرُونَ",
       "transliteration": "Afala tathakkaroon",
       "translation": "Then will you not be reminded?"
     },
@@ -1095,6 +1250,7 @@
       "number": 156,
       "verseKey": "37:156",
       "arabic": "أَمْ لَكُمْ سُلْطَـٰنٌ مُّبِينٌ",
+      "simpleArabic": "أَمْ لَكُمْ سُلْطَانٌ مُّبِينٌ",
       "transliteration": "Am lakum sultanun mubeen",
       "translation": "Or do you have a clear authority?[1308]"
     },
@@ -1102,6 +1258,7 @@
       "number": 157,
       "verseKey": "37:157",
       "arabic": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+      "simpleArabic": "فَأْتُوا بِكِتَابِكُمْ إِن كُنتُمْ صَادِقِينَ",
       "transliteration": "Fa/too bikitabikum in kuntum sadiqeen",
       "translation": "Then produce your scripture, if you should be truthful."
     },
@@ -1109,6 +1266,7 @@
       "number": 158,
       "verseKey": "37:158",
       "arabic": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+      "simpleArabic": "وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
       "transliteration": "WajaAAaloo baynahu wabayna aljinnatinasaban walaqad AAalimati aljinnatu innahum lamuhdaroon",
       "translation": "And they have made [i.e., claimed] between Him and the jinn a lineage, but the jinn have already known that they [who made such claims] will be brought [to punishment]."
     },
@@ -1116,6 +1274,7 @@
       "number": 159,
       "verseKey": "37:159",
       "arabic": "سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "simpleArabic": "سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
       "transliteration": "Subhana Allahi AAammayasifoon",
       "translation": "Exalted is Allāh above what they describe,"
     },
@@ -1123,6 +1282,7 @@
       "number": 160,
       "verseKey": "37:160",
       "arabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "simpleArabic": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
       "transliteration": "Illa AAibada Allahialmukhlaseen",
       "translation": "Except the chosen servants of Allāh [who do not share in that sin]."
     },
@@ -1130,6 +1290,7 @@
       "number": 161,
       "verseKey": "37:161",
       "arabic": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+      "simpleArabic": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
       "transliteration": "Fa-innakum wama taAAbudoon",
       "translation": "So indeed, you [disbelievers] and whatever you worship,"
     },
@@ -1137,6 +1298,7 @@
       "number": 162,
       "verseKey": "37:162",
       "arabic": "مَآ أَنتُمْ عَلَيْهِ بِفَـٰتِنِينَ",
+      "simpleArabic": "مَا أَنتُمْ عَلَيْهِ بِفَاتِنِينَ",
       "transliteration": "Ma antum AAalayhi bifatineen",
       "translation": "You cannot tempt [anyone] away from Him"
     },
@@ -1144,6 +1306,7 @@
       "number": 163,
       "verseKey": "37:163",
       "arabic": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ",
+      "simpleArabic": "إِلَّا مَنْ هُوَ صَالِ الْجَحِيمِ",
       "transliteration": "Illa man huwa sali aljaheem",
       "translation": "Except he who is to [enter and] burn in the Hellfire.[1309]"
     },
@@ -1151,6 +1314,7 @@
       "number": 164,
       "verseKey": "37:164",
       "arabic": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ",
+      "simpleArabic": "وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَّعْلُومٌ",
       "transliteration": "Wama minna illa lahumaqamun maAAloom",
       "translation": "[The angels say],[1310] \"There is not among us any except that he has a known position.[1311]"
     },
@@ -1158,6 +1322,7 @@
       "number": 165,
       "verseKey": "37:165",
       "arabic": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
+      "simpleArabic": "وَإِنَّا لَنَحْنُ الصَّافُّونَ",
       "transliteration": "Wa-inna lanahnu assaffoon",
       "translation": "And indeed, we are those who line up [for prayer]."
     },
@@ -1165,6 +1330,7 @@
       "number": 166,
       "verseKey": "37:166",
       "arabic": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+      "simpleArabic": "وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ",
       "transliteration": "Wa-inna lanahnu almusabbihoon",
       "translation": "And indeed, we are those who exalt Allāh.\""
     },
@@ -1172,6 +1338,7 @@
       "number": 167,
       "verseKey": "37:167",
       "arabic": "وَإِن كَانُوا۟ لَيَقُولُونَ",
+      "simpleArabic": "وَإِن كَانُوا لَيَقُولُونَ",
       "transliteration": "Wa-in kanoo layaqooloon",
       "translation": "And indeed, they [i.e., the disbelievers] used to say,[1312]"
     },
@@ -1179,6 +1346,7 @@
       "number": 168,
       "verseKey": "37:168",
       "arabic": "لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ",
+      "simpleArabic": "لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ الْأَوَّلِينَ",
       "transliteration": "Law anna AAindana thikranmina al-awwaleen",
       "translation": "\"If we had a message from [those of] the former peoples,"
     },
@@ -1186,6 +1354,7 @@
       "number": 169,
       "verseKey": "37:169",
       "arabic": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "simpleArabic": "لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
       "transliteration": "Lakunna AAibada Allahialmukhlaseen",
       "translation": "We would have been the chosen servants of Allāh.\""
     },
@@ -1193,6 +1362,7 @@
       "number": 170,
       "verseKey": "37:170",
       "arabic": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ",
+      "simpleArabic": "فَكَفَرُوا بِهِ ۖ فَسَوْفَ يَعْلَمُونَ",
       "transliteration": "Fakafaroo bihi fasawfa yaAAlamoon",
       "translation": "But they disbelieved in it,[1313] so they are going to know."
     },
@@ -1200,6 +1370,7 @@
       "number": 171,
       "verseKey": "37:171",
       "arabic": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ",
+      "simpleArabic": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ",
       "transliteration": "Walaqad sabaqat kalimatuna liAAibadinaalmursaleen",
       "translation": "And Our word [i.e., decree] has already preceded for Our servants, the messengers,"
     },
@@ -1207,6 +1378,7 @@
       "number": 172,
       "verseKey": "37:172",
       "arabic": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ",
+      "simpleArabic": "إِنَّهُمْ لَهُمُ الْمَنصُورُونَ",
       "transliteration": "Innahum lahumu almansooroon",
       "translation": "[That] indeed, they would be those given victory"
     },
@@ -1214,6 +1386,7 @@
       "number": 173,
       "verseKey": "37:173",
       "arabic": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَـٰلِبُونَ",
+      "simpleArabic": "وَإِنَّ جُندَنَا لَهُمُ الْغَالِبُونَ",
       "transliteration": "Wa-inna jundana lahumu alghaliboon",
       "translation": "And [that] indeed, Our soldiers [i.e., the believers] will be those who overcome.[1314]"
     },
@@ -1221,6 +1394,7 @@
       "number": 174,
       "verseKey": "37:174",
       "arabic": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "simpleArabic": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
       "transliteration": "Fatawalla AAanhum hatta heen",
       "translation": "So, [O Muḥammad], leave them for a time."
     },
@@ -1228,6 +1402,7 @@
       "number": 175,
       "verseKey": "37:175",
       "arabic": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+      "simpleArabic": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
       "transliteration": "Waabsirhum fasawfa yubsiroon",
       "translation": "And see [what will befall] them, for they are going to see."
     },
@@ -1235,6 +1410,7 @@
       "number": 176,
       "verseKey": "37:176",
       "arabic": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "simpleArabic": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
       "transliteration": "AfabiAAathabina yastaAAjiloon",
       "translation": "Then for Our punishment are they impatient?"
     },
@@ -1242,6 +1418,7 @@
       "number": 177,
       "verseKey": "37:177",
       "arabic": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "simpleArabic": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنذَرِينَ",
       "transliteration": "Fa-itha nazala bisahatihimfasaa sabahu almunthareen",
       "translation": "But when it descends in their territory, then evil is the morning of those who were warned."
     },
@@ -1249,6 +1426,7 @@
       "number": 178,
       "verseKey": "37:178",
       "arabic": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "simpleArabic": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
       "transliteration": "Watawalla AAanhum hatta heen",
       "translation": "And leave them for a time."
     },
@@ -1256,6 +1434,7 @@
       "number": 179,
       "verseKey": "37:179",
       "arabic": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+      "simpleArabic": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
       "transliteration": "Waabsir fasawfa yubsiroon",
       "translation": "And see, for they are going to see."
     },
@@ -1263,6 +1442,7 @@
       "number": 180,
       "verseKey": "37:180",
       "arabic": "سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+      "simpleArabic": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ",
       "transliteration": "Subhana rabbika rabbi alAAizzatiAAamma yasifoon",
       "translation": "Exalted is your Lord, the Lord of might, above what they describe."
     },
@@ -1270,6 +1450,7 @@
       "number": 181,
       "verseKey": "37:181",
       "arabic": "وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ",
+      "simpleArabic": "وَسَلَامٌ عَلَى الْمُرْسَلِينَ",
       "transliteration": "Wasalamun AAala almursaleen",
       "translation": "And peace upon the messengers."
     },
@@ -1277,6 +1458,7 @@
       "number": 182,
       "verseKey": "37:182",
       "arabic": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "simpleArabic": "وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
       "transliteration": "Walhamdu lillahirabbi alAAalameen",
       "translation": "And praise to Allāh, Lord of the worlds."
     }

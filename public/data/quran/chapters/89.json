@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "89:1",
       "arabic": " وَٱلْفَجْرِ",
+      "simpleArabic": "وَالْفَجْرِ",
       "transliteration": "Walfajr",
       "translation": "By the dawn"
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "89:2",
       "arabic": "وَلَيَالٍ عَشْرٍ",
+      "simpleArabic": "وَلَيَالٍ عَشْرٍ",
       "transliteration": "Walayalin AAashr",
       "translation": "And [by] ten nights[1913]"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "89:3",
       "arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "simpleArabic": "وَالشَّفْعِ وَالْوَتْرِ",
       "transliteration": "WashshafAAi walwatr",
       "translation": "And [by] the even [number] and the odd"
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "89:4",
       "arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "simpleArabic": "وَاللَّيْلِ إِذَا يَسْرِ",
       "transliteration": "Wallayli itha yasr",
       "translation": "And [by] the night when it passes,"
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "89:5",
       "arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "simpleArabic": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ",
       "transliteration": "Hal fee thalika qasamun lithee hijr",
       "translation": "Is there [not] in [all] that an oath [sufficient] for one of perception?[1914]"
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "89:6",
       "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "simpleArabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
       "transliteration": "Alam tara kayfa faAAala rabbuka biAAad",
       "translation": "Have you not considered how your Lord dealt with ʿAad -"
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "89:7",
       "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "simpleArabic": "إِرَمَ ذَاتِ الْعِمَادِ",
       "transliteration": "Irama thati alAAimad",
       "translation": "[With] Iram[1915] - who had lofty pillars,[1916]"
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "89:8",
       "arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "simpleArabic": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
       "transliteration": "Allatee lam yukhlaq mithluha fee albilad",
       "translation": "The likes of whom had never been created in the land?"
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "89:9",
       "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "simpleArabic": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
       "transliteration": "Wathamooda allatheena jaboo assakhrabilwad",
       "translation": "And [with] Thamūd, who carved out the rocks in the valley?"
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "89:10",
       "arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "simpleArabic": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
       "transliteration": "WafirAAawna thee al-awtad",
       "translation": "And [with] Pharaoh, owner of the stakes?[1917]"
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "89:11",
       "arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+      "simpleArabic": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
       "transliteration": "Allatheena taghaw fee albilad",
       "translation": "[All of] whom oppressed within the lands"
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "89:12",
       "arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "simpleArabic": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
       "transliteration": "Faaktharoo feeha alfasad",
       "translation": "And increased therein the corruption."
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "89:13",
       "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "simpleArabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
       "transliteration": "Fasabba AAalayhim rabbuka sawtaAAathab",
       "translation": "So your Lord poured upon them a scourge of punishment."
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "89:14",
       "arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "simpleArabic": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
       "transliteration": "Inna rabbaka labilmirsad",
       "translation": "Indeed, your Lord is in observation."
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "89:15",
       "arabic": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "simpleArabic": "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
       "transliteration": "Faamma al-insanu itha maibtalahu rabbuhu faakramahu wanaAAAAamahu fayaqoolu rabbeeakraman",
       "translation": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"[1918]"
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "89:16",
       "arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+      "simpleArabic": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
       "transliteration": "Waamma itha ma ibtalahufaqadara AAalayhi rizqahu fayaqoolu rabbee ahanan",
       "translation": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\""
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "89:17",
       "arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "simpleArabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ",
       "transliteration": "Kalla bal la tukrimoonaalyateem",
       "translation": "No![1919] But you do not honor the orphan"
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "89:18",
       "arabic": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "simpleArabic": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
       "transliteration": "Wala tahaddoona AAala taAAamialmiskeen",
       "translation": "And you do not encourage one another to feed the poor."
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "89:19",
       "arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "simpleArabic": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا",
       "transliteration": "Wata/kuloona atturatha aklanlamma",
       "translation": "And you consume inheritance, devouring [it] altogether,[1920]"
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "89:20",
       "arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "simpleArabic": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
       "transliteration": "Watuhibboona almala hubbanjamma",
       "translation": "And you love wealth with immense love."
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "89:21",
       "arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "simpleArabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
       "transliteration": "Kalla itha dukkati al-ardudakkan dakka",
       "translation": "No! When the earth has been leveled - pounded and crushed"
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "89:22",
       "arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "simpleArabic": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
       "transliteration": "Wajaa rabbuka walmalaku saffansaffa",
       "translation": "And your Lord has come[1921] and the angels, rank upon rank,"
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "89:23",
       "arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "simpleArabic": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
       "transliteration": "Wajee-a yawma-ithin bijahannamayawma-ithin yatathakkaru al-insanu waannalahu aththikra",
       "translation": "And brought [within view], that Day, is Hell - that Day, man will remember, but how [i.e., what good] to him will be the remembrance?"
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "89:24",
       "arabic": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "simpleArabic": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
       "transliteration": "Yaqoolu ya laytanee qaddamtu lihayatee",
       "translation": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"[1922]"
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "89:25",
       "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "simpleArabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
       "transliteration": "Fayawma-ithin la yuAAaththibuAAathabahu ahad",
       "translation": "So on that Day, none will punish [as severely] as His punishment,"
     },
@@ -185,6 +210,7 @@
       "number": 26,
       "verseKey": "89:26",
       "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "simpleArabic": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
       "transliteration": "Wala yoothiqu wathaqahu ahad",
       "translation": "And none will bind [as severely] as His binding [of the evildoers]."
     },
@@ -192,6 +218,7 @@
       "number": 27,
       "verseKey": "89:27",
       "arabic": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "simpleArabic": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
       "transliteration": "Ya ayyatuha annafsualmutma-inna",
       "translation": "[To the righteous it will be said], \"O reassured soul,"
     },
@@ -199,6 +226,7 @@
       "number": 28,
       "verseKey": "89:28",
       "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "simpleArabic": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
       "transliteration": "IrjiAAee ila rabbiki radiyatanmardiyya",
       "translation": "Return to your Lord, well-pleased and pleasing [to Him],"
     },
@@ -206,6 +234,7 @@
       "number": 29,
       "verseKey": "89:29",
       "arabic": "فَٱدْخُلِى فِى عِبَـٰدِى",
+      "simpleArabic": "فَادْخُلِي فِي عِبَادِي",
       "transliteration": "Fadkhulee fee AAibadee",
       "translation": "And enter among My [righteous] servants"
     },
@@ -213,6 +242,7 @@
       "number": 30,
       "verseKey": "89:30",
       "arabic": "وَٱدْخُلِى جَنَّتِى",
+      "simpleArabic": "وَادْخُلِي جَنَّتِي",
       "transliteration": "Wadkhulee jannatee",
       "translation": "And enter My Paradise.\""
     }

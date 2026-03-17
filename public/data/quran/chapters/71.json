@@ -10,6 +10,7 @@
       "number": 1,
       "verseKey": "71:1",
       "arabic": " إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+      "simpleArabic": "إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
       "transliteration": "Inna arsalna noohan ilaqawmihi an anthir qawmaka min qabli an ya/tiyahum AAathabunaleem",
       "translation": "Indeed, We sent Noah to his people, [saying], \"Warn your people before there comes to them a painful punishment.\""
     },
@@ -17,6 +18,7 @@
       "number": 2,
       "verseKey": "71:2",
       "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "simpleArabic": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ",
       "transliteration": "Qala ya qawmi innee lakum natheerunmubeen",
       "translation": "He said, \"O my people, indeed I am to you a clear warner -"
     },
@@ -24,6 +26,7 @@
       "number": 3,
       "verseKey": "71:3",
       "arabic": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+      "simpleArabic": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
       "transliteration": "Ani oAAbudoo Allaha wattaqoohuwaateeAAoon",
       "translation": "To worship Allāh, fear Him and obey me."
     },
@@ -31,6 +34,7 @@
       "number": 4,
       "verseKey": "71:4",
       "arabic": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+      "simpleArabic": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
       "transliteration": "Yaghfir lakum min thunoobikumwayu-akhkhirkum ila ajalin musamman inna ajala Allahiitha jaa la yu-akhkharu law kuntumtaAAlamoon",
       "translation": "He [i.e., Allāh] will forgive you of your sins and delay you for a specified term. Indeed, the time [set by] Allāh, when it comes, will not be delayed, if you only knew.\""
     },
@@ -38,6 +42,7 @@
       "number": 5,
       "verseKey": "71:5",
       "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا",
+      "simpleArabic": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
       "transliteration": "Qala rabbi innee daAAawtu qawmeelaylan wanahara",
       "translation": "He said, \"My Lord, indeed I invited my people [to truth] night and day."
     },
@@ -45,6 +50,7 @@
       "number": 6,
       "verseKey": "71:6",
       "arabic": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
+      "simpleArabic": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
       "transliteration": "Falam yazidhum duAAa-ee illafirara",
       "translation": "But my invitation increased them not except in flight [i.e., aversion]."
     },
@@ -52,6 +58,7 @@
       "number": 7,
       "verseKey": "71:7",
       "arabic": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا",
+      "simpleArabic": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
       "transliteration": "Wa-innee kullama daAAawtuhumlitaghfira lahum jaAAaloo asabiAAahum fee athanihimwastaghshaw thiyabahum waasarroo wastakbarooistikbara",
       "translation": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments,[1761] persisted, and were arrogant with [great] arrogance."
     },
@@ -59,6 +66,7 @@
       "number": 8,
       "verseKey": "71:8",
       "arabic": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا",
+      "simpleArabic": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
       "transliteration": "Thumma innee daAAawtuhum jihara",
       "translation": "Then I invited them publicly."
     },
@@ -66,6 +74,7 @@
       "number": 9,
       "verseKey": "71:9",
       "arabic": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+      "simpleArabic": "ثُمَّ إِنِّي أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
       "transliteration": "Thumma innee aAAlantu lahum waasrartu lahumisrara",
       "translation": "Then I announced to them and [also] confided to them secretly"
     },
@@ -73,6 +82,7 @@
       "number": 10,
       "verseKey": "71:10",
       "arabic": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+      "simpleArabic": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
       "transliteration": "Faqultu istaghfiroo rabbakum innahu kanaghaffara",
       "translation": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver."
     },
@@ -80,6 +90,7 @@
       "number": 11,
       "verseKey": "71:11",
       "arabic": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا",
+      "simpleArabic": "يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا",
       "transliteration": "Yursili assamaa AAalaykummidrara",
       "translation": "He will send [rain from] the sky upon you in [continuing] showers"
     },
@@ -87,6 +98,7 @@
       "number": 12,
       "verseKey": "71:12",
       "arabic": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا",
+      "simpleArabic": "وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ وَيَجْعَل لَّكُمْ أَنْهَارًا",
       "transliteration": "Wayumdidkum bi-amwalin wabaneenawayajAAal lakum jannatin wayajAAal lakum anhara",
       "translation": "And give you increase in wealth and children and provide for you gardens and provide for you rivers."
     },
@@ -94,6 +106,7 @@
       "number": 13,
       "verseKey": "71:13",
       "arabic": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+      "simpleArabic": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
       "transliteration": "Ma lakum la tarjoona lillahiwaqara",
       "translation": "What is [the matter] with you that you do not attribute to Allāh [due] grandeur"
     },
@@ -101,6 +114,7 @@
       "number": 14,
       "verseKey": "71:14",
       "arabic": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+      "simpleArabic": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
       "transliteration": "Waqad khalaqakum atwara",
       "translation": "While He has created you in stages?[1762]"
     },
@@ -108,6 +122,7 @@
       "number": 15,
       "verseKey": "71:15",
       "arabic": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا",
+      "simpleArabic": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
       "transliteration": "Alam taraw kayfa khalaqa AllahusabAAa samawatin tibaqa",
       "translation": "Do you not consider how Allāh has created seven heavens in layers[1763]"
     },
@@ -115,6 +130,7 @@
       "number": 16,
       "verseKey": "71:16",
       "arabic": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا",
+      "simpleArabic": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
       "transliteration": "WajaAAala alqamara feehinna nooran wajaAAalaashshamsa siraja",
       "translation": "And made the moon therein a [reflected] light and made the sun a burning lamp?"
     },
@@ -122,6 +138,7 @@
       "number": 17,
       "verseKey": "71:17",
       "arabic": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+      "simpleArabic": "وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا",
       "transliteration": "Wallahu anbatakum mina al-ardinabata",
       "translation": "And Allāh has caused you to grow from the earth a [progressive] growth."
     },
@@ -129,6 +146,7 @@
       "number": 18,
       "verseKey": "71:18",
       "arabic": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+      "simpleArabic": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
       "transliteration": "Thumma yuAAeedukum feehawayukhrijukum ikhraja",
       "translation": "Then He will return you into it and extract you [another] extraction."
     },
@@ -136,6 +154,7 @@
       "number": 19,
       "verseKey": "71:19",
       "arabic": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًا",
+      "simpleArabic": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
       "transliteration": "Wallahu jaAAala lakumu al-ardabisata",
       "translation": "And Allāh has made for you the earth an expanse"
     },
@@ -143,6 +162,7 @@
       "number": 20,
       "verseKey": "71:20",
       "arabic": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا",
+      "simpleArabic": "لِّتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
       "transliteration": "Litaslukoo minha subulan fijaja",
       "translation": "That you may follow therein roads of passage.'\""
     },
@@ -150,6 +170,7 @@
       "number": 21,
       "verseKey": "71:21",
       "arabic": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+      "simpleArabic": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
       "transliteration": "Qala noohun rabbi innahum AAasawneewattabaAAoo man lam yazidhu maluhu wawaladuhu illakhasara",
       "translation": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss."
     },
@@ -157,6 +178,7 @@
       "number": 22,
       "verseKey": "71:22",
       "arabic": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "simpleArabic": "وَمَكَرُوا مَكْرًا كُبَّارًا",
       "transliteration": "Wamakaroo makran kubbara",
       "translation": "And they conspired an immense conspiracy"
     },
@@ -164,6 +186,7 @@
       "number": 23,
       "verseKey": "71:23",
       "arabic": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+      "simpleArabic": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
       "transliteration": "Waqaloo la tatharunna alihatakumwala tatharunna waddan wala suwaAAanwala yaghootha wayaAAooqa wanasra",
       "translation": "And said, 'Never leave your gods and never leave Wadd or Suwāʿ or Yaghūth and Yaʿūq and Nasr.'[1764]"
     },
@@ -171,6 +194,7 @@
       "number": 24,
       "verseKey": "71:24",
       "arabic": "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+      "simpleArabic": "وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
       "transliteration": "Waqad adalloo katheeran walatazidi aththalimeena illa dalala",
       "translation": "And already they have misled many. And, [my Lord], do not increase the wrongdoers except in error.\""
     },
@@ -178,6 +202,7 @@
       "number": 25,
       "verseKey": "71:25",
       "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا",
+      "simpleArabic": "مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّهِ أَنصَارًا",
       "transliteration": "Mimma khatee-atihimoghriqoo faodkhiloo naran falam yajidoo lahum min dooniAllahi ansara",
       "translation": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers."
     },
@@ -185,6 +210,7 @@
       "number": 26,
       "verseKey": "71:26",
       "arabic": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+      "simpleArabic": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
       "transliteration": "Waqala noohun rabbi latathar AAala al-ardi mina alkafireenadayyara",
       "translation": "And Noah said, \"My Lord, do not leave upon the earth from among the disbelievers an inhabitant."
     },
@@ -192,6 +218,7 @@
       "number": 27,
       "verseKey": "71:27",
       "arabic": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا",
+      "simpleArabic": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
       "transliteration": "Innaka in tatharhum yudillooAAibadaka wala yalidoo illa fajirankaffara",
       "translation": "Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever."
     },
@@ -199,6 +226,7 @@
       "number": 28,
       "verseKey": "71:28",
       "arabic": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+      "simpleArabic": "رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
       "transliteration": "Rabbi ighfir lee waliwalidayyawaliman dakhala baytiya mu/minan walilmu/mineena walmu/minatiwala tazidi aththalimeena illatabaran",
       "translation": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\""
     }
