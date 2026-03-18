@@ -18,18 +18,18 @@ const paths = [
     clickable: true,
   },
   {
+    title: "Worship",
+    subtitle: "Live Islam with clarity",
+    description:
+      "Learn practical worship through prayer rakats, wudu, and simple guidance that helps daily practice feel clear and approachable.",
+    href: "/Deen/Worship",
+    clickable: true,
+  },
+  {
     title: "Quran Basics",
     subtitle: "Understand the book you read",
     description:
       "Discover what the Quran is, how it was revealed, how it is structured, and why it remains the center of a believer’s life.",
-    href: "#",
-    clickable: false,
-  },
-  {
-    title: "Worship",
-    subtitle: "Live Islam with intention",
-    description:
-      "Explore salah, wudu, fasting, duas, adhkar, zakah, and acts of worship through simple and beginner-friendly guidance.",
     href: "#",
     clickable: false,
   },

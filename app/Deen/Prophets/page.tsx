@@ -61,8 +61,8 @@ const prophets = [
     mentions: 27,
     description:
       "A prophet who stood for truth and purity even when society turned away.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Lut",
+    clickable: true,
   },
   {
     name: "Ismail",
@@ -70,8 +70,8 @@ const prophets = [
     mentions: 12,
     description:
       "A prophet remembered for trust, sacrifice, and willing submission.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Ismail",
+    clickable: true,
   },
   {
     name: "Ishaq",
@@ -79,8 +79,8 @@ const prophets = [
     mentions: 17,
     description:
       "A prophet through whom Allah continued a blessed prophetic line.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Ishaq",
+    clickable: true,
   },
   {
     name: "Yaqub",
@@ -88,8 +88,8 @@ const prophets = [
     mentions: 16,
     description:
       "A prophet of patience, grief, and beautiful hope in Allah.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Yaqub",
+    clickable: true,
   },
   {
     name: "Yusuf",
@@ -97,8 +97,8 @@ const prophets = [
     mentions: 27,
     description:
       "A prophet whose life teaches beauty, restraint, patience, and Allah’s hidden wisdom.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Yusuf",
+    clickable: true,
   },
   {
     name: "Shu’aib",
@@ -106,17 +106,17 @@ const prophets = [
     mentions: 11,
     description:
       "A messenger who called his people to honesty, fairness, and upright dealings.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Shuaib",
+    clickable: true,
   },
   {
     name: "Ayyub",
     theme: "Endurance",
     mentions: 4,
     description:
-      "A prophet remembered for deep patience and steadfastness in suffering.",
-    href: "#",
-    clickable: false,
+      "A prophet remembered for deep patience, dignity in suffering, and beautiful turning to Allah.",
+    href: "/Deen/Prophets/Ayyub",
+    clickable: true,
   },
   {
     name: "Musa",
@@ -124,8 +124,8 @@ const prophets = [
     mentions: 136,
     description:
       "A prophet of struggle, leadership, dependence on Allah, and deliverance.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Musa",
+    clickable: true,
   },
   {
     name: "Harun",
@@ -133,8 +133,8 @@ const prophets = [
     mentions: 20,
     description:
       "A prophet who stood alongside Musa and supported the mission of truth.",
-    href: "#",
-    clickable: false,
+    href: "/Deen/Prophets/Harun",
+    clickable: true,
   },
   {
     name: "Dawud",

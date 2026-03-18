@@ -1,5 +1,8 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
+import { useEffect, useMemo, useState } from "react";
 import { Cormorant_Garamond } from "next/font/google";
 
 const projectNurFont = Cormorant_Garamond({
@@ -21,16 +24,16 @@ const sections = [
     href: "/Deen",
   },
   {
+    title: "Names of Allah",
+    description:
+      "Reflect on the beautiful names of Allah and their meanings through a soft, elegant space made for remembrance.",
+    href: "/Names-of-Allah",
+  },
+  {
     title: "Explore",
     description:
       "Browse reminders, reflections, and themes that help the heart stay connected.",
     href: "/Explore",
-  },
-  {
-    title: "Ask Nur",
-    description:
-      "Ask simple questions and receive beginner-friendly Islamic explanations.",
-    href: "/Ask-Nur",
   },
   {
     title: "My Nur",
@@ -40,7 +43,157 @@ const sections = [
   },
 ];
 
+type PrayerTimes = {
+  Fajr: string;
+  Dhuhr: string;
+  Asr: string;
+  Maghrib: string;
+  Isha: string;
+};
+
+type PrayerState = {
+  loading: boolean;
+  error: string;
+  timings: PrayerTimes | null;
+  timezone: string;
+  nextPrayer: string;
+};
+
+function cleanTime(value: string) {
+  return value.split(" ")[0].trim();
+}
+
+function buildPrayerDate(time: string) {
+  const [hours, minutes] = cleanTime(time).split(":").map(Number);
+  const now = new Date();
+  const date = new Date(now);
+  date.setHours(hours || 0, minutes || 0, 0, 0);
+  return date;
+}
+
+function getNextPrayerName(timings: PrayerTimes | null) {
+  if (!timings) return "";
+
+  const order: Array<keyof PrayerTimes> = [
+    "Fajr",
+    "Dhuhr",
+    "Asr",
+    "Maghrib",
+    "Isha",
+  ];
+
+  const now = new Date();
+
+  for (const prayer of order) {
+    const prayerDate = buildPrayerDate(timings[prayer]);
+    if (prayerDate > now) {
+      return prayer;
+    }
+  }
+
+  return "Fajr";
+}
+
 export default function HomePage() {
+  const [prayerState, setPrayerState] = useState<PrayerState>({
+    loading: true,
+    error: "",
+    timings: null,
+    timezone: "",
+    nextPrayer: "",
+  });
+
+  useEffect(() => {
+    if (!navigator.geolocation) {
+      setPrayerState({
+        loading: false,
+        error: "Location is not supported on this device.",
+        timings: null,
+        timezone: "",
+        nextPrayer: "",
+      });
+      return;
+    }
+
+    navigator.geolocation.getCurrentPosition(
+      async (position) => {
+        try {
+          const { latitude, longitude } = position.coords;
+
+          const response = await fetch(
+            `https://api.aladhan.com/v1/timings?latitude=${latitude}&longitude=${longitude}&method=2`
+          );
+
+          const json = await response.json();
+
+          if (!response.ok || !json?.data?.timings) {
+            throw new Error("Unable to load prayer times right now.");
+          }
+
+          const timings: PrayerTimes = {
+            Fajr: cleanTime(json.data.timings.Fajr),
+            Dhuhr: cleanTime(json.data.timings.Dhuhr),
+            Asr: cleanTime(json.data.timings.Asr),
+            Maghrib: cleanTime(json.data.timings.Maghrib),
+            Isha: cleanTime(json.data.timings.Isha),
+          };
+
+          setPrayerState({
+            loading: false,
+            error: "",
+            timings,
+            timezone:
+              json?.data?.meta?.timezone ||
+              Intl.DateTimeFormat().resolvedOptions().timeZone ||
+              "",
+            nextPrayer: getNextPrayerName(timings),
+          });
+        } catch {
+          setPrayerState({
+            loading: false,
+            error: "Unable to load prayer times right now.",
+            timings: null,
+            timezone: "",
+            nextPrayer: "",
+          });
+        }
+      },
+      (error) => {
+        let message = "Location permission was denied.";
+
+        if (error.code === error.POSITION_UNAVAILABLE) {
+          message = "Your location could not be determined.";
+        }
+
+        if (error.code === error.TIMEOUT) {
+          message = "Location request timed out.";
+        }
+
+        setPrayerState({
+          loading: false,
+          error: message,
+          timings: null,
+          timezone: "",
+          nextPrayer: "",
+        });
+      },
+      {
+        enableHighAccuracy: true,
+        timeout: 12000,
+        maximumAge: 300000,
+      }
+    );
+  }, []);
+
+  const todayLabel = useMemo(() => {
+    return new Date().toLocaleDateString(undefined, {
+      weekday: "long",
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+    });
+  }, []);
+
   return (
     <div className="min-h-screen bg-[#f7f2e8] text-[#2f3a2f] antialiased">
       <section className="relative overflow-hidden border-b border-[#e3d8c8] bg-[#fbf7ef]">
@@ -99,20 +252,43 @@ export default function HomePage() {
               and easy to return to.
             </p>
 
-            <div className="mt-10 flex flex-wrap justify-center gap-3">
-              <Link
-                href="/Quran"
-                className="rounded-full bg-[#4f7a5a] px-7 py-3.5 text-sm font-semibold text-[#f7f2e8]"
-              >
-                Enter Quran
-              </Link>
+            <div className="mx-auto mt-12 grid max-w-5xl gap-4 md:grid-cols-2">
+              <div className="rounded-[32px] border border-[#e3d8c8] bg-[#fffaf2]/90 p-8 text-left shadow-sm backdrop-blur-sm md:p-10">
+                <p className="text-sm uppercase tracking-[0.35em] text-[#b08d57]">
+                  Mission
+                </p>
 
-              <Link
-                href="/My-Nur"
-                className="rounded-full border border-[#d9cfbc] bg-white px-7 py-3.5 text-sm font-semibold text-[#4f7a5a]"
-              >
-                Continue Journey
-              </Link>
+                <h3 className="mt-4 text-2xl font-semibold leading-tight md:text-3xl">
+                  To make returning to Quran and deen feel gentle, clear, and deeply rooted.
+                </h3>
+
+                <p className="mt-5 text-base leading-8 text-[#5e6558]">
+                  Project Nur exists to remove friction from learning and create
+                  a calm digital space where a person can read, reflect,
+                  worship, and grow closer to Allah without feeling overwhelmed.
+                </p>
+              </div>
+
+              <div className="rounded-[32px] border border-[#e3d8c8] bg-[#fffaf2]/90 p-8 text-left shadow-sm backdrop-blur-sm md:p-10">
+                <p className="text-sm uppercase tracking-[0.35em] text-[#b08d57]">
+                  About Project Nur
+                </p>
+
+                <p className="mt-5 text-base leading-8 text-[#5e6558]">
+                  Project Nur is being built as a soft and practical companion
+                  for Muslims and anyone sincerely exploring Islam. It brings
+                  together Quran reading, foundational learning, prophetic
+                  stories, worship guidance, reflection, and remembrance in one
+                  place — designed with beauty, simplicity, and consistency in
+                  mind.
+                </p>
+
+                <p className="mt-5 text-base leading-8 text-[#5e6558]">
+                  The aim is not just to provide information, but to create a
+                  space people want to return to often — one that feels
+                  peaceful, trustworthy, and spiritually useful in daily life.
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -120,23 +296,99 @@ export default function HomePage() {
 
       <section className="mx-auto max-w-5xl px-6 py-12 md:py-16">
         <div className="rounded-[32px] border border-[#e3d8c8] bg-[#fffaf2] p-8 md:p-10">
-          <p className="text-sm uppercase tracking-[0.35em] text-[#b08d57]">
-            Reflection
-          </p>
+          <div className="flex flex-wrap items-start justify-between gap-4">
+            <div>
+              <p className="text-sm uppercase tracking-[0.35em] text-[#b08d57]">
+                Prayer Times
+              </p>
 
-          <blockquote className="mt-5 text-2xl leading-relaxed text-[#2f3a2f] md:text-3xl">
-            “And We have certainly made the Quran easy for remembrance, so is
-            there any who will remember?”
-          </blockquote>
+              <h2 className="mt-4 text-2xl font-semibold md:text-3xl">
+                Today’s salah times based on your location
+              </h2>
 
-          <p className="mt-4 text-sm uppercase tracking-[0.22em] text-[#4f7a5a]">
-            Surah Al-Qamar 54:17
-          </p>
+              <p className="mt-4 max-w-3xl text-base leading-8 text-[#5e6558]">
+                Allow location access and Project Nur will load today’s prayer
+                times automatically.
+              </p>
+            </div>
 
-          <p className="mt-5 max-w-3xl text-base leading-8 text-[#5e6558]">
-            Project Nur is built around this hope: that the path into Quran and
-            deen can feel more open, more peaceful, and easier to return to.
-          </p>
+            <div className="rounded-full border border-[#d9cfbc] bg-white px-4 py-2 text-sm font-medium text-[#4f7a5a]">
+              {todayLabel}
+            </div>
+          </div>
+
+          {prayerState.loading && (
+            <div className="mt-8 rounded-[24px] border border-[#eee4d4] bg-[#fcf8f0] p-6">
+              <p className="text-base leading-8 text-[#5e6558]">
+                Loading prayer times for your location...
+              </p>
+            </div>
+          )}
+
+          {!prayerState.loading && prayerState.error && (
+            <div className="mt-8 rounded-[24px] border border-[#eee4d4] bg-[#fcf8f0] p-6">
+              <p className="text-base font-medium text-[#2f3a2f]">
+                Prayer times unavailable
+              </p>
+              <p className="mt-3 text-base leading-8 text-[#5e6558]">
+                {prayerState.error} Refresh the page and allow location access
+                to try again.
+              </p>
+            </div>
+          )}
+
+          {!prayerState.loading && prayerState.timings && (
+            <>
+              <div className="mt-8 grid gap-4 md:grid-cols-5">
+                {(
+                  [
+                    ["Fajr", prayerState.timings.Fajr],
+                    ["Dhuhr", prayerState.timings.Dhuhr],
+                    ["Asr", prayerState.timings.Asr],
+                    ["Maghrib", prayerState.timings.Maghrib],
+                    ["Isha", prayerState.timings.Isha],
+                  ] as const
+                ).map(([name, time]) => {
+                  const isNext = prayerState.nextPrayer === name;
+
+                  return (
+                    <div
+                      key={name}
+                      className={`rounded-[24px] border p-5 ${
+                        isNext
+                          ? "border-[#4f7a5a] bg-[#eef5ee]"
+                          : "border-[#eee4d4] bg-[#fcf8f0]"
+                      }`}
+                    >
+                      <p className="text-sm uppercase tracking-[0.28em] text-[#b08d57]">
+                        {name}
+                      </p>
+
+                      <p className="mt-4 text-2xl font-semibold text-[#2f3a2f]">
+                        {time}
+                      </p>
+
+                      <p className="mt-3 text-sm text-[#5e6558]">
+                        {isNext ? "Next prayer" : "Today"}
+                      </p>
+                    </div>
+                  );
+                })}
+              </div>
+
+              <div className="mt-6 flex flex-wrap gap-3 text-sm text-[#5e6558]">
+                <span className="rounded-full border border-[#d9cfbc] bg-white px-4 py-2">
+                  Automatic location enabled
+                </span>
+
+                {prayerState.timezone && (
+                  <span className="rounded-full border border-[#d9cfbc] bg-white px-4 py-2">
+                    {prayerState.timezone}
+                  </span>
+                )}
+              </div>
+            </>
+          )}
         </div>
       </section>
 

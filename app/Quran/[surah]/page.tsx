@@ -86,6 +86,8 @@ export default function SurahReaderPage() {
     return "text-3xl md:text-4xl";
   }, [arabicSize]);
 
+  const shouldShowBismillah = data?.id !== 9;
+
   function isBookmarked(ayah: Ayah) {
     if (!data) return false;
     return bookmarks.some(
@@ -288,6 +290,26 @@ export default function SurahReaderPage() {
 
       <section className="mx-auto max-w-5xl px-6 pb-24">
         <div className="rounded-[32px] border border-[#e3d8c8] bg-[#fffaf2] p-8 md:p-10">
+          {shouldShowBismillah && (
+            <div className="mb-8 rounded-[24px] border border-[#eee4d4] bg-[#fcf8f0] p-6 text-center">
+              <p className="text-sm uppercase tracking-[0.3em] text-[#b08d57]">
+                Opening
+              </p>
+
+              <p className="mt-5 text-right text-3xl leading-[2.2] text-[#2f3a2f] md:text-4xl">
+                بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+              </p>
+
+              <p className="mt-5 text-lg italic leading-8 text-[#4a5148]">
+                Bismillāhir-Raḥmānir-Raḥīm
+              </p>
+
+              <p className="mt-3 text-base leading-8 text-[#5e6558]">
+                In the name of Allah, the Most Merciful, the Especially Merciful.
+              </p>
+            </div>
+          )}
+
           <div className="space-y-6">
             {data.ayahs.map((ayah) => {
               const bookmarked = isBookmarked(ayah);

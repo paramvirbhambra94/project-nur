@@ -16,8 +16,8 @@ export default function RootLayout({
     { label: "Home", href: "/" },
     { label: "Quran", href: "/Quran" },
     { label: "Deen", href: "/Deen" },
+    { label: "Names of Allah", href: "/Names-of-Allah" },
     { label: "Explore", href: "/Explore" },
-    { label: "Ask Nur", href: "/Ask-Nur" },
     { label: "My Nur", href: "/My-Nur" },
   ];
 
@@ -27,12 +27,12 @@ export default function RootLayout({
         <main className="pb-24">{children}</main>
 
         <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-[#e3d8c8] bg-[#fffaf2]/95 backdrop-blur-md">
-          <div className="mx-auto flex max-w-6xl items-center justify-around px-4 py-3">
+          <div className="mx-auto flex max-w-7xl items-center justify-start gap-5 overflow-x-auto px-4 py-3 md:justify-around">
             {navItems.map((item) => (
               <Link
                 key={item.label}
                 href={item.href}
-                className="text-xs font-medium text-[#5e6558] transition hover:text-[#4f7a5a] md:text-sm"
+                className="whitespace-nowrap text-[11px] font-medium text-[#5e6558] transition hover:text-[#4f7a5a] md:text-sm"
               >
                 {item.label}
               </Link>
